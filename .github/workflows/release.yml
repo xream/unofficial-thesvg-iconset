@@ -1,0 +1,97 @@
+name: Release iconsets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-iconsets
+  cancel-in-progress: true
+
+env:
+  ICONSET_DIR: dist/iconsets
+  RELEASE_BRANCH: release
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+
+      - name: Test generator
+        run: node --test scripts/build-iconsets.test.mjs
+
+      - name: Build iconsets
+        run: node scripts/build-iconsets.mjs "$ICONSET_DIR"
+
+      - name: Prepare release branch
+        id: changes
+        run: |
+          tmp="$(mktemp -d)"
+          cp "$ICONSET_DIR"/*.json "$tmp"/
+          cp NOTICE.md README.md README.zh-CN.md "$tmp"/
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git ls-remote --exit-code --heads origin "$RELEASE_BRANCH" >/dev/null 2>&1; then
+            git fetch --depth 1 origin "$RELEASE_BRANCH"
+            git switch --detach FETCH_HEAD
+          else
+            git switch --orphan release-publish
+          fi
+
+          git rm -rf . >/dev/null 2>&1 || true
+          cp "$tmp"/*.json .
+          cp "$tmp"/NOTICE.md "$tmp"/README.md "$tmp"/README.zh-CN.md .
+          git add -- NOTICE.md README.md README.zh-CN.md ./*.json
+
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No iconset changes detected."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            git commit -m "Update generated iconsets"
+          fi
+
+      - name: Skip unchanged iconsets
+        if: steps.changes.outputs.changed == 'false'
+        run: echo "Skipping release and release branch update."
+
+      - name: Create GitHub Release
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          release_title="$(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S')"
+          release_tag="$(TZ=Asia/Shanghai date '+%Y-%m-%d-%H-%M-%S')"
+          release_notes="$(printf '%s\n' \
+            'Generated from glincker/thesvg icons.json.' \
+            '' \
+            'Variants guide: https://github.com/glincker/thesvg#variants' \
+            '' \
+            'This release contains iconset manifest JSON files only and does not redistribute SVG files.' \
+            'Individual icons remain subject to their upstream licenses and brand/trademark guidelines.' \
+            'theSVG is not affiliated with, endorsed by, or sponsored by the brand owners whose icons are referenced.' \
+            '' \
+            'Source: https://github.com/glincker/thesvg' \
+            'Legal: https://github.com/glincker/thesvg/blob/main/LEGAL.md' \
+            'Disclaimer: https://github.com/glincker/thesvg/blob/main/DISCLAIMER.md')"
+
+          gh release create "$release_tag" ./*.json NOTICE.md \
+            --title "$release_title" \
+            --notes "$release_notes" \
+            --target "$GITHUB_SHA"
+
+      - name: Replace release branch
+        if: steps.changes.outputs.changed == 'true'
+        run: git push --force origin HEAD:refs/heads/"$RELEASE_BRANCH"
