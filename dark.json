@@ -1,0 +1,921 @@
+{
+  "name": "Unofficial theSVG Iconset - dark",
+  "description": "xream 基于 theSVG 转换的 dark variant 图标集；仅包含链接清单，不重新分发 SVG。图标版权、商标和 license 归各自权利方及 upstream license 约束。",
+  "source": "https://github.com/glincker/thesvg",
+  "sourceData": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/src/data/icons.json",
+  "legal": "https://github.com/glincker/thesvg/blob/main/LEGAL.md",
+  "disclaimer": "https://github.com/glincker/thesvg/blob/main/DISCLAIMER.md",
+  "trademarkNotice": "Icon names, logos, and trademarks are property of their respective owners. This iconset is not affiliated with, endorsed by, or sponsored by those owners.",
+  "icons": [
+    {
+      "name": "1Password",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/1password/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Aero",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aero/dark.svg",
+      "license": "Fair Use"
+    },
+    {
+      "name": "Affirm",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/affirm/dark.svg",
+      "license": "Fair Use"
+    },
+    {
+      "name": "Afordin",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/afordin/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Afterpay",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/afterpay/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Alpaca",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/alpaca/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Amazon Web Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/amazon-web-services/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/anthropic/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Apache Kafka",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/apache-kafka/dark.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Apple",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/apple/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Arc",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/arc/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "AskVerdict AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/askverdict-ai/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Astro",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/astro/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "AWS Cloud",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-aws-cloud/dark.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cloud logo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-aws-cloud-logo/dark.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Axiom",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/axiom/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Base UI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/base-ui/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Bash",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/bash/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Better Auth",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/better-auth/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Bklit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/bklit/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "bolt",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/bolt/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cal.com",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/caldotcom/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Cisco",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cisco/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Clerk",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/clerk/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Codex",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/codex/dark.svg",
+      "license": "brand-use"
+    },
+    {
+      "name": "CurseForge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/curseforge/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Cursor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cursor/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "daily.dev",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dailydotdev/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Dassault Aviation",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dassault-aviation/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Deno",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/deno/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Devto",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/devto/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Documenso",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/documenso/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Docus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/docus/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Dracula",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dracula/dark.svg",
+      "license": "brand-use"
+    },
+    {
+      "name": "Drizzle ORM",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/drizzle-orm/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Dub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dub/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Effect TS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/effect-ts/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Epic Games",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/epic-games/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "ESLint",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/eslint/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Express.js",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/expressdotjs/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Fastify",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fastify/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Filagram",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/filagram/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Firecrawl",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/firecrawl/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Flask",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flask/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Formance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/formance/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Framer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/framer/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "GE Vernova",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gevernova/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/github/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "GitHub Copilot",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/github-copilot/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Glide",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glide/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "GLINCKER",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glincker/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Go",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/go/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "GoDaddy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/godaddy/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Goil",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/goil/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Google Workspace (wordmark)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/google-workspace-wordmark/dark.svg",
+      "license": "Trademark"
+    },
+    {
+      "name": "Granola",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/granola/dark.svg",
+      "license": "brand-use"
+    },
+    {
+      "name": "Grok",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/grok/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "HeroUI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/heroui/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Honeycomb",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/honeycomb/dark.svg",
+      "license": "Fair Use"
+    },
+    {
+      "name": "Hulu",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/hulu/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Inflection AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/inflection-ai/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Inngest",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/inngest/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Instatus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/instatus/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Intello",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/intello/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Interfere",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/interfere/dark.svg",
+      "license": "brand-use"
+    },
+    {
+      "name": "Intlayer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/intlayer/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "JACO",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/jaco/dark.svg",
+      "license": "Trademark"
+    },
+    {
+      "name": "Jaguar (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/jaguar-legacy/dark.svg",
+      "license": "Trademark"
+    },
+    {
+      "name": "jQuery",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/jquery/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "KFC",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kfc/dark.svg",
+      "license": "Trademark"
+    },
+    {
+      "name": "Kibo UI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kibo-ui/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kick",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kick/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Kilo Code",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kilo-code/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kokonut UI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kokonut-ui/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kraken",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kraken/dark.svg",
+      "license": "Fair Use"
+    },
+    {
+      "name": "LangChain",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/langchain/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Layers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/layers/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Lume",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/lume/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Manus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/manus/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Markdown",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/markdown/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Marqeta",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/marqeta/dark.svg",
+      "license": "Fair Use"
+    },
+    {
+      "name": "Matrix",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/matrix/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Mattermost",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mattermost/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Mermaid",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mermaid/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Midjourney",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/midjourney/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Milanote",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/milanote/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Miro",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/miro/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Mocha",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mocha/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Model Context Protocol",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/model-context-protocol/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Mondelez International",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mondelez-international/dark.svg",
+      "license": "Unknown"
+    },
+    {
+      "name": "MongoDB",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mongodb/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Motion",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/motion/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "MuangThai Capital",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/muangthai-capital/dark.svg",
+      "license": "Unknown"
+    },
+    {
+      "name": "MySQL",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mysql/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Newmont",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/newmont/dark.svg",
+      "license": "Unknown"
+    },
+    {
+      "name": "ngrok",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ngrok/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Nordea",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nordea/dark.svg",
+      "license": "Unknown"
+    },
+    {
+      "name": "nuqs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nuqs/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Nuxt Content",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nuxt-content/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Nuxt Studio",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nuxt-studio/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Nuxt UI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nuxt-ui/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "NVIDIA",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nvidia/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Nx",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nx/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Ollama",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ollama/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openai/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "OpenRouter",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openrouter/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Patreon",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/patreon/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Payload CMS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/payload-cms/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Penpot",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/penpot/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Perspective",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/perspective/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "PHP",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/php/dark.svg",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "name": "PlanetScale",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/planetscale/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Phu Nhuan Jewelry",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pnj/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "pnpm",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pnpm/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Polar",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/polar/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Prettier",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/prettier/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Prisma",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/prisma/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "profClaw",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/profclaw/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Qdrant",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/qdrant/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Qwen",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/qwen/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "R",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/r/dark.svg",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "name": "Radix UI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/radix-ui/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Railway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/railway/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "React",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/react/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "React Wheel Picker",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/react-wheel-picker/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Refine",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/refine/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Reflex",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/reflex/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "RelaGit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/relagit/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Remix",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/remix/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Replicate",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/replicate/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Resend",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/resend/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Roblox",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/roblox/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Rust",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rust/dark.svg",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "name": "Sabeco",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sabeco/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Sanity",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sanity/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "shadcn/ui",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/shadcn-ui/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Sketch",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sketch/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Socket.io",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/socketdotio/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Soldera",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/soldera/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SoundCloud",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/soundcloud/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Stately.ai",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/statelydotai/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SWR",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/swr/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "T3 Stack",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/t3-stack/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tembo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tembo/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "TensorFlow",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tensorflow/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Tesla",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tesla/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "theSVG",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/thesvg/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "theSVG (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/thesvg-legacy/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Threads",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/threads/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Three.js",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/threedotjs/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "TIDAL",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tidal/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tiktok/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Together AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/together-ai/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "TravelPerk",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/travelperk/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Turbopack",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/turbopack/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Turborepo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/turborepo/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Turso",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/turso/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "TypeGPU",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/typegpu/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Uber",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/uber/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "UBS Etracs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ubs-etracs/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Udemy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/udemy/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Unity",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/unity/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Unreal Engine",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/unreal-engine/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "UXAnaRangel",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/uxanarangel/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "UXCorpRangel",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/uxcorprangel/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "v0",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/v0/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Vercel",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/vercel/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Vinpearl",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/vinpearl/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "vlt",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/vlt/dark.svg",
+      "license": "brand-use"
+    },
+    {
+      "name": "Voicemod",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/voicemod/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Volta",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/volta/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "WakaTime",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/wakatime/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "WebGL",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/webgl/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Whop",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/whop/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Windsurf",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/windsurf/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "WorkOS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/workos/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "X (formerly Twitter)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/x-formerly-twitter/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "xAI (Grok)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/xai-grok/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "XState",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/xstate/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Zeabur",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zeabur/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Zed",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zed/dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Zen Browser",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zen-browser/dark.svg",
+      "license": "CC0-1.0"
+    }
+  ]
+}

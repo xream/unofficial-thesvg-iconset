@@ -1,0 +1,201 @@
+{
+  "name": "Unofficial theSVG Iconset - line",
+  "description": "xream 基于 theSVG 转换的 line variant 图标集；仅包含链接清单，不重新分发 SVG。图标版权、商标和 license 归各自权利方及 upstream license 约束。",
+  "source": "https://github.com/glincker/thesvg",
+  "sourceData": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/src/data/icons.json",
+  "legal": "https://github.com/glincker/thesvg/blob/main/LEGAL.md",
+  "disclaimer": "https://github.com/glincker/thesvg/blob/main/DISCLAIMER.md",
+  "trademarkNotice": "Icon names, logos, and trademarks are property of their respective owners. This iconset is not affiliated with, endorsed by, or sponsored by those owners.",
+  "icons": [
+    {
+      "name": "Aarch64",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aarch64/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Ballerina",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ballerina/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Browserstack",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/browserstack/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Codepen",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/codepen/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Detaspace",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/detaspace/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Devicon",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/devicon/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entityframeworkcore",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/entityframeworkcore/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Gardener",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gardener/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Gcc",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcc/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Junit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/junit/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "K3os",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/k3os/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kaldi",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kaldi/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kubeflow",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kubeflow/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Laminas",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/laminas/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Libgdx",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/libgdx/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Love2d",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/love2d/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Magento",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/magento/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Memcached",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/memcached/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Mithril",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mithril/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Msdos",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/msdos/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Netbox",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/netbox/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Networkx",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/networkx/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Nhibernate",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nhibernate/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Nodewebkit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nodewebkit/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Openapi",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openapi/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Opencl",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/opencl/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Processing",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/processing/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Rspec",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rspec/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Scalingo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/scalingo/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Spicedb",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/spicedb/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Sulu",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sulu/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Teleport",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/teleport/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tomcat",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tomcat/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tortoisegit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tortoisegit/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Veevalidate",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/veevalidate/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Visualbasic",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/visualbasic/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Vsphere",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/vsphere/line.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Waku",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/waku/line.svg",
+      "license": "MIT"
+    }
+  ]
+}

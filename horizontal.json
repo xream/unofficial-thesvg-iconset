@@ -1,0 +1,16 @@
+{
+  "name": "Unofficial theSVG Iconset - horizontal",
+  "description": "xream 基于 theSVG 转换的 horizontal variant 图标集；仅包含链接清单，不重新分发 SVG。图标版权、商标和 license 归各自权利方及 upstream license 约束。",
+  "source": "https://github.com/glincker/thesvg",
+  "sourceData": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/src/data/icons.json",
+  "legal": "https://github.com/glincker/thesvg/blob/main/LEGAL.md",
+  "disclaimer": "https://github.com/glincker/thesvg/blob/main/DISCLAIMER.md",
+  "trademarkNotice": "Icon names, logos, and trademarks are property of their respective owners. This iconset is not affiliated with, endorsed by, or sponsored by those owners.",
+  "icons": [
+    {
+      "name": "Bamboo Airways",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/bamboo-airways/horizontal.svg",
+      "license": "CC0-1.0"
+    }
+  ]
+}

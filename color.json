@@ -1,0 +1,796 @@
+{
+  "name": "Unofficial theSVG Iconset - color",
+  "description": "xream 基于 theSVG 转换的 color variant 图标集；仅包含链接清单，不重新分发 SVG。图标版权、商标和 license 归各自权利方及 upstream license 约束。",
+  "source": "https://github.com/glincker/thesvg",
+  "sourceData": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/src/data/icons.json",
+  "legal": "https://github.com/glincker/thesvg/blob/main/LEGAL.md",
+  "disclaimer": "https://github.com/glincker/thesvg/blob/main/DISCLAIMER.md",
+  "trademarkNotice": "Icon names, logos, and trademarks are property of their respective owners. This iconset is not affiliated with, endorsed by, or sponsored by those owners.",
+  "icons": [
+    {
+      "name": "01.AI (零一万物)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/01dotai/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "302.AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/302dotai/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Ai2",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ai2/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Ai360 (360智脑)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ai360-360/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "AiHubMix (推理时代)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aihubmix/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "AiMass (紫东太初)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aimass/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "AionLabs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aionlabs/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "AkashChat",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/akashchat/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Alibaba",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/alibaba/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "AlibabaCloud (阿里云)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/alibabacloud/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "AntGroup",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/antgroup/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Antigravity (Google)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/antigravity-google/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Anyscale",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/anyscale/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Arcee",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/arcee/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "AssemblyAI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/assemblyai/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Automatic1111 (SD Webui)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/automatic1111-sd-webui/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "AWS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Aya (Cohere)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aya-cohere/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "AzureAI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azureai/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Baichuan (百川)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/baichuan/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "BaiduCloud (百度智能云)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/baiducloud/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Bailian (阿里云百炼)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/bailian/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Bedrock (AWS)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/bedrock-aws/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "BurnCloud",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/burncloud/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "CentML",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/centml/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cerebras",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cerebras/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "ChatGLM (智谱)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/chatglm/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cherry Studio",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cherry-studio/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Civitai",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/civitai/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Claude Code",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/claude-code/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "CodeFlicker",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/codeflicker/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "CodeGeeX",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/codegeex/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Codex (OpenAI)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/codex-openai/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "CogVideo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cogvideo/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "CogView",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cogview/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Colab (Google)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/colab-google/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Comet API",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/comet-api/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "ComfyUI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/comfyui/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "CommandA (Cohere)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/commanda-cohere/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "CopilotKit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/copilotkit/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Coqui",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/coqui/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Crusoe",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/crusoe/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "DALL·E (OpenAI)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dall-e-openai/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "DBRX (Databricks)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dbrx-databricks/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Deep Cogito",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/deep-cogito/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "DeepInfra",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/deepinfra/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "DeepMind (Google)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/deepmind-google/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Dify",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dify/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Doc2X",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/doc2x/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "DocSearch",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/docsearch/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Doubao (豆包)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/doubao/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Essential AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/essential-ai/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Exa",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/exa/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Fal",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fal/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "FastGPT",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fastgpt/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Featherless.ai",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/featherlessdotai/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Firefly (Adobe)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/firefly-adobe/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Fireworks",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fireworks/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Gemini (Google)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gemini-google/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Gemma (Google)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gemma-google/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "GLM-V",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glm-v/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "GoogleCloud",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/googlecloud/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Greptile",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/greptile/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Hailuo (海螺)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/hailuo/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Higress",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/higress/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "HuaweiCloud (华为云)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/huaweicloud/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Hunyuan (腾讯混元)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/hunyuan/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Hyperbolic",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/hyperbolic/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "IFlyTekCloud (讯飞开放平台)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/iflytekcloud/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Infermatic",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/infermatic/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Infinigence (无问芯穹)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/infinigence/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "InternLM",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/internlm/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Jimeng (即梦)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/jimeng/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Junie",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/junie/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "KFC",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kfc/color.svg",
+      "license": "Trademark"
+    },
+    {
+      "name": "Kling (可灵)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kling/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kluster",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kluster/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kolors (快手可图)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kolors/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kwaipilot",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kwaipilot/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "LangChain",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/langchain/color.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Langfuse",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/langfuse/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "LangGraph (LangChain)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/langgraph-langchain/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "LangSmith (LangChain)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/langsmith-langchain/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "LeptonAI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/leptonai/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "LG AI (KMMLU/EXAONE)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/lg-ai-kmmlu-exaone/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "LlamaIndex",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/llamaindex/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "LLaVA",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/llava/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "LobeHub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/lobehub/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "LongCat",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/longcat/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Luma",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/luma/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "MCP.so",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mcpdotso/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "MENLO (Lucy/Jan-nano)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/menlo-lucy-jan-nano/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "MetaAI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/metaai/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Microsoft Bing",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-bing/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Mistral",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mistral/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Morph",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/morph/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "MyShell",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/myshell/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Nano Banana (Google)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nano-banana-google/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "New API",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/new-api/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Nova (AWS)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nova-aws/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Novita",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/novita/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "NPLCloud",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nplcloud/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Nvidia (Nemotron)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nvidia-nemotron/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "OpenChat",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openchat/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "OpenClaw (MoltBot/ClawdBot)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openclaw-moltbot-clawdbot/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "OpenHands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openhands/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "PaLM (Google)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/palm-google/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Phidata",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/phidata/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "PixVerse",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pixverse/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Player2",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/player2/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "PPIO",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ppio/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "profClaw",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/profclaw/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "PydanticAI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pydanticai/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Qingyan (智谱清言)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/qingyan/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Qiniu (七牛云)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/qiniu/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "RSSHub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rsshub/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "RWKV",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rwkv/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SambaNova",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sambanova/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Search1API",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/search1api/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SenseNova (商汤)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sensenova/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SiliconCloud (SiliconFlow)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/siliconcloud-siliconflow/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Skywork (天工)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/skywork/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Smithery",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/smithery/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SophNet",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sophnet/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Sora (OpenAI)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sora-openai/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Spark (讯飞星火)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/spark/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Stability (StableDiffusion)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/stability-stablediffusion/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "StateCloud (天翼云)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/statecloud/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Stepfun (阶跃星辰)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/stepfun/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Straico",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/straico/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "StreamLake",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/streamlake/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SubModel",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/submodel/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Targon",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/targon/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tavily",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tavily/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Technology Innovation Institute (Falcon)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/technology-innovation-institute-falcon/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tencent",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tencent/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "TencentCloud (腾讯云)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tencentcloud/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tiangong (天工)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tiangong/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "together.ai",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/togetherdotai/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "TRAE",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/trae/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tripo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tripo/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Udio",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/udio/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Unstructured",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/unstructured/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Upstage",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/upstage/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "VertexAI (Google)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/vertexai-google/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Vidu",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/vidu/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "vLLM",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/vllm/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Volcengine (火山引擎)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/volcengine/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Voyage",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/voyage/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Wenxin (文心)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/wenxin/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "WorkersAI (Cloudflare)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/workersai-cloudflare/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Xinference",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/xinference/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Xuanyuan (度小满轩辕)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/xuanyuan/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Yi (零一万物)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/yi/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Yuanbao (腾讯元宝)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/yuanbao/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Zencoder",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zencoder/color.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Zhipu (智谱)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zhipu/color.svg",
+      "license": "MIT"
+    }
+  ]
+}

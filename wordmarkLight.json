@@ -1,0 +1,571 @@
+{
+  "name": "Unofficial theSVG Iconset - wordmarkLight",
+  "description": "xream 基于 theSVG 转换的 wordmarkLight variant 图标集；仅包含链接清单，不重新分发 SVG。图标版权、商标和 license 归各自权利方及 upstream license 约束。",
+  "source": "https://github.com/glincker/thesvg",
+  "sourceData": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/src/data/icons.json",
+  "legal": "https://github.com/glincker/thesvg/blob/main/LEGAL.md",
+  "disclaimer": "https://github.com/glincker/thesvg/blob/main/DISCLAIMER.md",
+  "trademarkNotice": "Icon names, logos, and trademarks are property of their respective owners. This iconset is not affiliated with, endorsed by, or sponsored by those owners.",
+  "icons": [
+    {
+      "name": "ahooks",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ahooks/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Ahrefs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ahrefs/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Anthropic",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/anthropic/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Apache Kafka",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/apache-kafka/wordmark-light.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Apple Music",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/apple-music/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Asana",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/asana/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "AskVerdict AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/askverdict-ai/wordmarkLight.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Astro",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/astro/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Axiom",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/axiom/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Better Auth",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/better-auth/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Canva",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/canva/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Claude AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/claude-ai/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Clerk",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/clerk/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Coinbase",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/coinbase/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Convex",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/convex/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Crunchyroll",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/crunchyroll/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "CurseForge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/curseforge/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Cursor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cursor/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Dassault Aviation",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dassault-aviation/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Deno",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/deno/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Docus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/docus/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Dodo Payments",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dodo-payments/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Dribbble",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dribbble/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Dropbox",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dropbox/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Dub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dub/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "ESLint",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/eslint/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Firecrawl",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/firecrawl/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Flask",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flask/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Formance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/formance/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Ghostty",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ghostty/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/github/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Glide",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glide/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "GLINCKER",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glincker/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Goil",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/goil/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Google Play",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/google-play/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Grok",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/grok/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Groq",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/groq/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Hack The Box",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/hack-the-box/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Home Assistant",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/home-assistant/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Hulu",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/hulu/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Inflection AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/inflection-ai/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Intello",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/intello/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kimi",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kimi/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Leap Wallet",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/leap-wallet/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Link",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/link/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "LottieFiles",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/lottiefiles/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Lume",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/lume/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Manus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/manus/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Marqeta",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/marqeta/wordmark-light.svg",
+      "license": "Fair Use"
+    },
+    {
+      "name": "MediaWiki",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mediawiki/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Milanote",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/milanote/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Mintlify",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mintlify/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Miro",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/miro/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Mocha",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mocha/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Model Context Protocol",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/model-context-protocol/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Mondelez International",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mondelez-international/wordmarkLight.svg",
+      "license": "Unknown"
+    },
+    {
+      "name": "MongoDB",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mongodb/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Monkeytype",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/monkeytype/wordmark-light.svg",
+      "license": "GPL-3.0-only"
+    },
+    {
+      "name": "MuangThai Capital",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/muangthai-capital/wordmarkLight.svg",
+      "license": "Unknown"
+    },
+    {
+      "name": "MySQL",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mysql/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "n8n",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/n8n/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Next.js",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nextdotjs/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Nordea",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nordea/wordmarkLight.svg",
+      "license": "Unknown"
+    },
+    {
+      "name": "nuqs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nuqs/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Nuxt",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nuxt/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "NuxtHub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nuxthub/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "NVIDIA",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nvidia/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openai/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Paper",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/paper/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Perplexity AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/perplexity-ai/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Perspective",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/perspective/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "pnpm",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pnpm/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "PostgreSQL",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/postgresql/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "PostHog",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/posthog/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "PowerSync",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/powersync/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Qdrant",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/qdrant/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Raycast",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/raycast/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "React",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/react/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "RelaGit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/relagit/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Remix",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/remix/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Replicate",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/replicate/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Replit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/replit/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Resend",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/resend/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Sanity",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sanity/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Shopify",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/shopify/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Socket.io",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/socketdotio/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Soldera",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/soldera/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SoundCloud",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/soundcloud/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Suno",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/suno/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Supabase",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/supabase/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Tailwind CSS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tailwind-css/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Tembo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tembo/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "TensorFlow",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tensorflow/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Tesla",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tesla/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "TIDAL",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tidal/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tiktok/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "TravelPerk",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/travelperk/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "tRPC",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/trpc/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Turbopack",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/turbopack/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Turborepo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/turborepo/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Turso",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/turso/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "TypeGPU",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/typegpu/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Valibot",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/valibot/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Vercel",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/vercel/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Walmart",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/walmart/wordmark-light.svg",
+      "license": "Fair Use"
+    },
+    {
+      "name": "Webflow",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/webflow/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Windsurf",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/windsurf/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Wix",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/wix/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/youtube/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "YouTube Music",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/youtube-music/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Zeabur",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zeabur/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Zen Browser",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zen-browser/wordmark-light.svg",
+      "license": "CC0-1.0"
+    }
+  ]
+}
