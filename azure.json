@@ -1,0 +1,3141 @@
+{
+  "name": "Unofficial theSVG Iconset - azure",
+  "description": "xream 基于 theSVG 转换的 azure variant 图标集；仅包含链接清单，不重新分发 SVG。图标版权、商标和 license 归各自权利方及 upstream license 约束。",
+  "source": "https://github.com/glincker/thesvg",
+  "sourceData": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/src/data/icons.json",
+  "legal": "https://github.com/glincker/thesvg/blob/main/LEGAL.md",
+  "disclaimer": "https://github.com/glincker/thesvg/blob/main/DISCLAIMER.md",
+  "trademarkNotice": "Icon names, logos, and trademarks are property of their respective owners. This iconset is not affiliated with, endorsed by, or sponsored by those owners.",
+  "icons": [
+    {
+      "name": "ABS Member",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-abs-member/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Active Directory Connect Health",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-active-directory-connect-health/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Activity Log",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-activity-log/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Administrative Units",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-administrative-units/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Advisor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-advisor/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "AI at Edge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-ai-at-edge/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "AI Studio",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-ai-studio/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "AKS Automatic",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-aks-automatic/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "AKS Istio",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-aks-istio/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "AKS Network Policy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-aks-network-policy/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Alerts",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-alerts/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "All Resources",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-all-resources/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Analysis Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-analysis-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Anomaly Detector",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-anomaly-detector/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "API Center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-api-center/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "API Connections",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-api-connections/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "API Management Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-api-management-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "API Proxy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-api-proxy/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "App Compliance Automation",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-app-compliance-automation/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "App Configuration",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-app-configuration/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "App Registrations",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-app-registrations/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "App Service Certificates",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-app-service-certificates/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "App Service Domains",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-app-service-domains/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "App Service Environments",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-app-service-environments/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "App Service Plans",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-app-service-plans/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "App Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-app-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "App Space",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-app-space/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "App Space Component",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-app-space-component/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Applens",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-applens/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Application Gateway Containers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-application-gateway-containers/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Application Gateways",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-application-gateways/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Application Group",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-application-group/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Application Insights",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-application-insights/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Application Security Groups",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-application-security-groups/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Aquila",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-aquila/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Arc Data services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-arc-data-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Arc Kubernetes",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-arc-kubernetes/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Arc Machines",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-arc-machines/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Arc PostgreSQL ",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-arc-postgresql/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Arc SQL Managed Instance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-arc-sql-managed-instance/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Arc SQL Server",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-arc-sql-server/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "ATM Multistack",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-atm-multistack/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Auto Scale",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-auto-scale/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Automanaged VM",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-automanaged-vm/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Automation Accounts",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-automation-accounts/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Availability Sets",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-availability-sets/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "AVS VM",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-avs-vm/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure A",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-a/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure AD B2C",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-ad-b2c/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure API for FHIR",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-api-for-fhir/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure App Testing",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-app-testing/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Applied AI Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-applied-ai-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Arc",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-arc/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Backup Center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-backup-center/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Blockchain Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-blockchain-service/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Center for SAP",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-center-for-sap/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Chaos Studio",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-chaos-studio/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Cloud Shell",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-cloud-shell/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Communication Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-communication-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Communications Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-communications-gateway/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Compute Galleries",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-compute-galleries/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Consumption Commitment",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-consumption-commitment/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Container Storage",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-container-storage/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Cosmos DB",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-cosmos-db/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Data Catalog",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-data-catalog/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Data Explorer Clusters",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-data-explorer-clusters/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Database MariaDB Server",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-database-mariadb-server/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Database Migration Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-database-migration-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Database MySQL Server",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-database-mysql-server/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Database PostgreSQL Server",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-database-postgresql-server/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Database PostgreSQL Server Group",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-database-postgresql-server-group/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Databox Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-databox-gateway/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Databricks",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-databricks/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Deployment Environments",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-deployment-environments/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Dev Tunnels",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-dev-tunnels/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure DevOps",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-devops/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Edge Hardware Center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-edge-hardware-center/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Experimentation Studio",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-experimentation-studio/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Fileshares",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-fileshares/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Firewall Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-firewall-manager/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Firewall Policy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-firewall-policy/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure HCP Cache",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-hcp-cache/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure HPC Workbenches",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-hpc-workbenches/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Hybrid Center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-hybrid-center/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Information Protection",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-information-protection/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure IoT Operations",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-iot-operations/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Lighthouse",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-lighthouse/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Linux",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-linux/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Load Testing",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-load-testing/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Local",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-local/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Managed Grafana",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-managed-grafana/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Managed Redis",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-managed-redis/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Maps Accounts",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-maps-accounts/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Media Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-media-service/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Migrate",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-migrate/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Monitor Dashboard",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-monitor-dashboard/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Monitor Pipeline",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-monitor-pipeline/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Monitors for SAP Solutions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-monitors-for-sap-solutions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure NetApp Files",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-netapp-files/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Network Function Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-network-function-manager/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Network Function Manager Functions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-network-function-manager-functions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Object Understanding",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-object-understanding/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure OpenAI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-openai/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Operator 5G Core",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-operator-5g-core/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Operator Insights",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-operator-insights/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Operator Nexus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-operator-nexus/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Operator Service Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-operator-service-manager/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Orbital",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-orbital/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Programmable Connectivity",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-programmable-connectivity/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Quotas",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-quotas/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Red Hat OpenShift",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-red-hat-openshift/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Sentinel",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-sentinel/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Service Bus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-service-bus/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Sphere",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-sphere/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Spring Apps",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-spring-apps/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure SQL",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-sql/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure SQL Edge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-sql-edge/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure SQL Server Stretch Databases",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-sql-server-stretch-databases/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure SQL VM",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-sql-vm/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Stack",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-stack/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Stack Edge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-stack-edge/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Stack HCI Sizer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-stack-hci-sizer/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Storage Mover",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-storage-mover/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Support Center Blue",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-support-center-blue/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Sustainability",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-sustainability/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Synapse Analytics",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-synapse-analytics/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Token Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-token-service/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Video Indexer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-video-indexer/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Virtual Desktop",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-virtual-desktop/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure VMware Solution",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-vmware-solution/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azure Workbooks",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azure-workbooks/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "AzureAttestation",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azureattestation/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azurite",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-azurite/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Backlog",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-backlog/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Backup Vault",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-backup-vault/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Bare Metal Infrastructure",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-bare-metal-infrastructure/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Bastions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-bastions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Batch Accounts",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-batch-accounts/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Batch AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-batch-ai/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Biz Talk",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-biz-talk/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Blob Block",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-blob-block/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Blob Page",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-blob-page/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Blockchain Applications",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-blockchain-applications/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Blueprints",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-blueprints/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Bonsai",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-bonsai/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Bot Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-bot-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Branch",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-branch/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Breeze",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-breeze/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Browser",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-browser/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Bug",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-bug/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Builds",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-builds/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Business Process Tracking",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-business-process-tracking/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cache",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-cache/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cache Redis",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-cache-redis/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Capacity",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-capacity/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Capacity Reservation Groups",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-capacity-reservation-groups/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "CDN Profiles",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-cdn-profiles/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Central Service Instance For SAP",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-central-service-instance-for-sap/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Ceres",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-ceres/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Change Analysis",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-change-analysis/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Client Apps",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-client-apps/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cloud Services (Classic)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-cloud-services-classic/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cloud Services (extended support)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-cloud-services-extended-support/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "CloudTest",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-cloudtest/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Code",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-code/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Code Optimization",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-code-optimization/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cognitive Search",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-cognitive-search/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cognitive Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-cognitive-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cognitive Services Decisions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-cognitive-services-decisions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Collaborative Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-collaborative-service/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Commit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-commit/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Community Images",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-community-images/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Compliance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-compliance/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Compliance Center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-compliance-center/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Compute Fleet",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-compute-fleet/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Computer Vision",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-computer-vision/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Conditional Access",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-conditional-access/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Confidential Ledgers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-confidential-ledgers/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Connected Cache",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-connected-cache/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Connected Vehicle Platform",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-connected-vehicle-platform/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Connections",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-connections/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Consortium",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-consortium/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Container Apps Environments",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-container-apps-environments/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Container Instances",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-container-instances/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Container Registries",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-container-registries/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Container Services (Deprecated)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-container-services-deprecated/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Content Moderators",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-content-moderators/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Content Safety",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-content-safety/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Controls",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-controls/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Controls Horizontal",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-controls-horizontal/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cost Alerts",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-cost-alerts/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cost Analysis",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-cost-analysis/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cost Budgets",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-cost-budgets/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cost Export",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-cost-export/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cost Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-cost-management/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cost Management and Billing",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-cost-management-and-billing/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Counter",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-counter/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cubes",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-cubes/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Custom IP Prefix",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-custom-ip-prefix/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Custom Vision",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-custom-vision/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Customer Lockbox for Microsoft Azure",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-customer-lockbox-for-microsoft-azure/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Dashboard",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-dashboard/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Dashboard Hub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-dashboard-hub/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Data Box",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-data-box/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Data Collection Rules",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-data-collection-rules/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Data Factories",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-data-factories/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Data Lake Analytics",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-data-lake-analytics/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Data Lake Storage Gen1",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-data-lake-storage-gen1/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Data Lake Store Gen1",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-data-lake-store-gen1/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Data Share Invitations",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-data-share-invitations/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Data Shares",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-data-shares/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Data Virtualization",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-data-virtualization/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Database Instance For SAP",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-database-instance-for-sap/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "DDoS Protection Plans",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-ddos-protection-plans/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Dedicated HSM",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-dedicated-hsm/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender CM Local Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-cm-local-manager/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender DCS Controller",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-dcs-controller/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Distributer Control System",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-distributer-control-system/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Engineering Station",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-engineering-station/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender External Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-external-management/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Freezer Monitor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-freezer-monitor/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Historian",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-historian/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender HMI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-hmi/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Industrial Packaging System",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-industrial-packaging-system/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Industrial Printer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-industrial-printer/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Industrial Robot",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-industrial-robot/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Industrial Scale System",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-industrial-scale-system/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Marquee",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-marquee/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Meter",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-meter/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender PLC",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-plc/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Pneumatic Device",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-pneumatic-device/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Programable Board",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-programable-board/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Relay",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-relay/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Robot Controller",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-robot-controller/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender RTU",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-rtu/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Sensor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-sensor/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Slot",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-slot/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Defender Web Guiding System",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-defender-web-guiding-system/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Detonation",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-detonation/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Dev Console",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-dev-console/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Device Compliance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-device-compliance/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Device Configuration",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-device-configuration/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Device Enrollment",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-device-enrollment/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Device Provisioning Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-device-provisioning-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Device Security Apple",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-device-security-apple/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Device Security Google",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-device-security-google/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Device Security Windows",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-device-security-windows/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Device Update IoT Hub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-device-update-iot-hub/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Devices",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-devices/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "DevOps Starter",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-devops-starter/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "DevTest Labs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-devtest-labs/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Diagnostics Settings",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-diagnostics-settings/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Digital Twins",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-digital-twins/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Disk Encryption Sets",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-disk-encryption-sets/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Disk Pool",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-disk-pool/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Disks",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-disks/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Disks (Classic)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-disks-classic/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Disks Snapshots",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-disks-snapshots/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "DNS Multistack",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-dns-multistack/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "DNS Private Resolver",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-dns-private-resolver/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "DNS Security Policy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-dns-security-policy/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "DNS Zones",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-dns-zones/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Download",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-download/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "eBooks",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-ebooks/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Edge Actions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-edge-actions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Edge Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-edge-management/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Edge Storage Accelerator",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-edge-storage-accelerator/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Education",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-education/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Elastic Job Agents",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-elastic-job-agents/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Elastic SAN",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-elastic-san/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Endpoint Analytics",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-endpoint-analytics/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Engage Center Connect",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-engage-center-connect/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Enterprise Applications",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-enterprise-applications/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entra Connect",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-entra-connect/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entra Connect Health",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-entra-connect-health/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entra Connect Sync",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-entra-connect-sync/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entra Domain Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-entra-domain-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entra Global Secure Access",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-entra-global-secure-access/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entra ID Protection",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-entra-id-protection/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entra Identity Custom Roles",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-entra-identity-custom-roles/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entra Identity Licenses",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-entra-identity-licenses/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entra Identity Risky Signins",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-entra-identity-risky-signins/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entra Identity Risky Users",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-entra-identity-risky-users/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entra Identity Roles and Administrators",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-entra-identity-roles-and-administrators/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entra Internet Access",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-entra-internet-access/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entra Managed Identities",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-entra-managed-identities/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entra Private Access",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-entra-private-access/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entra Privleged Identity Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-entra-privleged-identity-management/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Entra Verified ID",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-entra-verified-id/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Error",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-error/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Event Grid Domains",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-event-grid-domains/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Event Grid Subscriptions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-event-grid-subscriptions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Event Grid Topics",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-event-grid-topics/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Event Hub Clusters",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-event-hub-clusters/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Event Hubs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-event-hubs/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Exchange Access",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-exchange-access/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Exchange On Premises Access",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-exchange-on-premises-access/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Express Route Traffic Collector",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-express-route-traffic-collector/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "ExpressRoute Circuits",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-expressroute-circuits/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "ExpressRoute Direct",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-expressroute-direct/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "ExtendedSecurityUpdates",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-extendedsecurityupdates/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Extensions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-extensions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "external id",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-external-id/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "external id modified",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-external-id-modified/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "External Identities",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-external-identities/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Face APIs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-face-apis/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Feature Previews",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-feature-previews/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "FHIR Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-fhir-service/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Fiji",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-fiji/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "File",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-file/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Files",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-files/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Firewalls",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-firewalls/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Folder Blank",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-folder-blank/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Folder Website",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-folder-website/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Form Recognizers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-form-recognizers/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "FRD QA",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-frd-qa/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Free Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-free-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Front Door and CDN Profiles",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-front-door-and-cdn-profiles/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "FTP",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-ftp/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Function Apps",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-function-apps/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Gear",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-gear/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Genomics",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-genomics/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Genomics Accounts",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-genomics-accounts/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Globe Error",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-globe-error/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Globe Success",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-globe-success/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Globe Warning",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-globe-warning/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Groups",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-groups/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Guide",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-guide/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "HD Insight Clusters",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-hd-insight-clusters/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "HDI AKS Cluster",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-hdi-aks-cluster/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Heart",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-heart/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Help and Support",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-help-and-support/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Host Groups",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-host-groups/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Host Pools",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-host-pools/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Hosts",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-hosts/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Hybrid Connectivity Hub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-hybrid-connectivity-hub/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "IcM Troubleshooting",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-icm-troubleshooting/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Identity Governance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-identity-governance/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Identity Secure Score",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-identity-secure-score/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Image",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-image/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Image Definitions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-image-definitions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Image Templates",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-image-templates/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Image Versions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-image-versions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Images",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-images/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Immersive Readers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-immersive-readers/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Import Export Jobs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-import-export-jobs/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Industrial IoT",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-industrial-iot/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Information",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-information/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Infrastructure Backup",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-infrastructure-backup/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Input Output",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-input-output/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Instance Pools",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-instance-pools/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Integration Accounts",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-integration-accounts/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Integration Environments",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-integration-environments/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Integration Service Environments",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-integration-service-environments/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Internet Analyzer Profiles",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-internet-analyzer-profiles/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Intune",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-intune/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Intune App Protection",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-intune-app-protection/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Intune For Education",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-intune-for-education/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Intune Trends",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-intune-trends/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "IoT Central Applications",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-iot-central-applications/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "IoT Edge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-iot-edge/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "IoT Hub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-iot-hub/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "IP Address manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-ip-address-manager/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "IP Groups",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-ip-groups/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Journey Hub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-journey-hub/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Key Vaults",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-key-vaults/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Keys",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-keys/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kubernetes Fleet Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-kubernetes-fleet-manager/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kubernetes Hub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-kubernetes-hub/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kubernetes Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-kubernetes-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Lab Accounts",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-lab-accounts/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Lab Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-lab-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Landing Zone",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-landing-zone/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Language",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-language/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Language Understanding",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-language-understanding/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Launch Portal",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-launch-portal/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Learn",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-learn/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Load Balancer Hub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-load-balancer-hub/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Load Balancers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-load-balancers/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Load Test",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-load-test/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Load Testing",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-load-testing/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Local Network Gateways",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-local-network-gateways/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Location",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-location/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Log Analytics Query Pack",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-log-analytics-query-pack/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Log Analytics Workspaces",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-log-analytics-workspaces/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Log Streaming",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-log-streaming/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Logic Apps",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-logic-apps/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Logic Apps Custom Connector",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-logic-apps-custom-connector/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Logic Apps Template",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-logic-apps-template/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Machine Learning",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-machine-learning/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Machine Learning Studio (Classic) Web Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-machine-learning-studio-classic-web-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Machine Learning Studio Web Service Plans",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-machine-learning-studio-web-service-plans/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Machine Learning Studio Workspaces",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-machine-learning-studio-workspaces/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "MachinesAzureArc",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-machinesazurearc/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Maintenance Configuration",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-maintenance-configuration/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Managed Applications Center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-managed-applications-center/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Managed Database",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-managed-database/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Managed Desktop",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-managed-desktop/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Managed DevOps Pools",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-managed-devops-pools/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Managed File Shares",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-managed-file-shares/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Managed Identities",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-managed-identities/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Managed Instance Apache Cassandra",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-managed-instance-apache-cassandra/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Managed Service Fabric",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-managed-service-fabric/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Management Groups",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-management-groups/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Management Portal",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-management-portal/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Marketplace",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-marketplace/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Marketplace Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-marketplace-management/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Media",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-media/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Media File",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-media-file/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "MedTech Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-medtech-service/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Mesh Applications",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-mesh-applications/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Metrics",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-metrics/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Metrics Advisor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-metrics-advisor/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Microsoft Defender EASM",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-microsoft-defender-easm/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Microsoft Defender for Cloud",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-microsoft-defender-for-cloud/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Microsoft Defender for IoT",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-microsoft-defender-for-iot/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Microsoft Dev Box",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-microsoft-dev-box/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Microsoft Discovery",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-microsoft-discovery/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Mindaro",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-mindaro/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Mission Landing Zone",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-mission-landing-zone/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Mobile",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-mobile/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Mobile Engagement",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-mobile-engagement/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Mobile Networks",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-mobile-networks/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Modular Data Center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-modular-data-center/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Module",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-module/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Monitor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-monitor/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Monitor Health Models",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-monitor-health-models/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Monitor Issues",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-monitor-issues/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Multi Factor Authentication",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-multi-factor-authentication/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Multi Tenancy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-multi-tenancy/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Multifactor Authentication",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-multifactor-authentication/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "My Customers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-my-customers/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "NAT",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-nat/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Network Foundation Hub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-network-foundation-hub/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Network Interfaces",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-network-interfaces/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Network Managers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-network-managers/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Network Security Groups",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-network-security-groups/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Network Security Hub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-network-security-hub/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Network Security Perimeters",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-network-security-perimeters/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Network Watcher",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-network-watcher/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Notification Hub Namespaces",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-notification-hub-namespaces/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Notification Hubs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-notification-hubs/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Offers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-offers/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "On Premises Data Gateways",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-on-premises-data-gateways/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Open Supply Chain Platform",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-open-supply-chain-platform/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Operation Center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-operation-center/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Operation Log (Classic)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-operation-log-classic/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Oracle Database",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-oracle-database/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "OS Images (Classic)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-os-images-classic/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "OSConfig",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-osconfig/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Outbound Connection",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-outbound-connection/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Partner Namespace",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-partner-namespace/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Partner Registration",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-partner-registration/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Partner Topic",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-partner-topic/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Peering Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-peering-service/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Peerings",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-peerings/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Personalizers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-personalizers/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Planetary Computer Pro",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-planetary-computer-pro/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Plans",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-plans/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Policy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-policy/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Power",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-power/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Power BI Embedded",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-power-bi-embedded/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Power Platform",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-power-platform/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Power Up",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-power-up/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Powershell",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-powershell/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Preview Features",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-preview-features/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Private Endpoints",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-private-endpoints/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Private Link",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-private-link/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Private Link Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-private-link-service/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Private Link Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-private-link-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Process Explorer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-process-explorer/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Production Ready Database",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-production-ready-database/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "promethus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-promethus/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Proximity Placement Groups",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-proximity-placement-groups/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Public IP Addresses",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-public-ip-addresses/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Public IP Addresses (Classic)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-public-ip-addresses-classic/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Public IP Prefixes",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-public-ip-prefixes/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "pubsub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-pubsub/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "QnA Makers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-qna-makers/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Quickstart Center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-quickstart-center/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Recent",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-recent/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Recovery Services Vaults",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-recovery-services-vaults/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Region Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-region-management/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Relays",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-relays/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Remote Rendering",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-remote-rendering/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Reservations",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-reservations/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Reserved Capacity",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-reserved-capacity/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Reserved IP Addresses (Classic)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-reserved-ip-addresses-classic/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Resource Explorer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-resource-explorer/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Resource Graph Explorer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-resource-graph-explorer/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Resource Group List",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-resource-group-list/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Resource Groups",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-resource-groups/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Resource Guard",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-resource-guard/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Resource Linked",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-resource-linked/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Resource Management Private Link",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-resource-management-private-link/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Resource Mover",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-resource-mover/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Resources Provider",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-resources-provider/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Restore Points",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-restore-points/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Restore Points Collections",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-restore-points-collections/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Route Filters",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-route-filters/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Route Tables",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-route-tables/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "RTOS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-rtos/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Savings Plans",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-savings-plans/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Scheduled Actions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-scheduled-actions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Scheduler",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-scheduler/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Scheduler Job Collections",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-scheduler-job-collections/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SCVMM Management Servers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-scvmm-management-servers/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Search",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-search/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Search Grid",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-search-grid/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Security",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-security/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Security Baselines",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-security-baselines/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SendGrid Accounts",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-sendgrid-accounts/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Server Farm",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-server-farm/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Serverless Search",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-serverless-search/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Service Catalog MAD",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-service-catalog-mad/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Service Endpoint Policies",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-service-endpoint-policies/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Service Fabric Clusters",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-service-fabric-clusters/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Service Group Relationships",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-service-group-relationships/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Service Groups",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-service-groups/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Service Health",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-service-health/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Service Providers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-service-providers/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Shared Image Galleries",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-shared-image-galleries/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SignalR",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-signalr/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Software as a Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-software-as-a-service/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Software Updates",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-software-updates/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Solutions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-solutions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Sonic Dash",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-sonic-dash/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Spatial Anchor Accounts",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-spatial-anchor-accounts/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Speech Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-speech-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Spot VM",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-spot-vm/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Spot VMSS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-spot-vmss/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SQL Data Warehouses",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-sql-data-warehouses/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SQL Database",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-sql-database/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SQL Database Fleet Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-sql-database-fleet-manager/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SQL Elastic Pools",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-sql-elastic-pools/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SQL Managed Instance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-sql-managed-instance/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SQL Server",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-sql-server/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SQL Server Registries",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-sql-server-registries/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SSD",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-ssd/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SSH Keys",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-ssh-keys/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "SSIS Lift And Shift IR",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-ssis-lift-and-shift-ir/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Stack HCI Premium",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-stack-hci-premium/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Stage Maps",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-stage-maps/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Static Apps",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-static-apps/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Storage Accounts",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-storage-accounts/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Storage Accounts (Classic)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-storage-accounts-classic/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Storage Actions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-storage-actions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Storage Azure Files",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-storage-azure-files/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Storage Container",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-storage-container/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Storage Explorer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-storage-explorer/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Storage Functions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-storage-functions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Storage Hubs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-storage-hubs/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Storage Queue",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-storage-queue/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Storage Sync Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-storage-sync-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "StorSimple Data Managers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-storsimple-data-managers/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "StorSimple Device Managers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-storsimple-device-managers/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Stream Analytics Jobs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-stream-analytics-jobs/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Subnet",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-subnet/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Subscriptions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-subscriptions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "System Topic",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-system-topic/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Table",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-table/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tag",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-tag/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tags",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-tags/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Targets Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-targets-management/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Template Specs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-template-specs/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Templates",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-templates/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tenant Properties",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-tenant-properties/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tenant Status",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-tenant-status/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Test Base",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-test-base/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "TFS VC Repository",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-tfs-vc-repository/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Time Series Data Sets",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-time-series-data-sets/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Time Series Insights Access Policies",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-time-series-insights-access-policies/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Time Series Insights Environments",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-time-series-insights-environments/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Time Series Insights Event Sources",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-time-series-insights-event-sources/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Toolbox",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-toolbox/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Toolchain Orchestrator",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-toolchain-orchestrator/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Traffic Manager Profiles",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-traffic-manager-profiles/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Translator Text",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-translator-text/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Troubleshoot",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-troubleshoot/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Universal Print",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-universal-print/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Update Management Center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-update-management-center/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Updates",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-updates/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "User Privacy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-user-privacy/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "User Settings",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-user-settings/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "User Subscriptions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-user-subscriptions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Users",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-users/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Verifiable Credentials",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-verifiable-credentials/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Verification As A Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-verification-as-a-service/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Versions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-versions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Video Analyzers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-video-analyzers/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Virtual Clusters",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-virtual-clusters/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Virtual Enclaves",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-virtual-enclaves/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Virtual Instance for SAP",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-virtual-instance-for-sap/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Virtual Machine",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-virtual-machine/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Virtual Machines (Classic)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-virtual-machines-classic/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Virtual Network Gateways",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-virtual-network-gateways/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Virtual Networks",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-virtual-networks/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Virtual Networks (Classic)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-virtual-networks-classic/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Virtual Router",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-virtual-router/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Virtual Visits Builder",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-virtual-visits-builder/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Virtual WAN Hub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-virtual-wan-hub/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Virtual WANs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-virtual-wans/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "VM App Definitions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-vm-app-definitions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "VM App Versions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-vm-app-versions/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "VM Image Version",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-vm-image-version/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "VM Images (Classic)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-vm-images-classic/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "VM Scale Sets",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-vm-scale-sets/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "VNet Appliance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-vnet-appliance/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "VPNClientWindows",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-vpnclientwindows/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "WAC",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-wac/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "WAC Installer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-wac-installer/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Web App + Database",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-web-app-database/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Web Application Firewall Policies(WAF)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-web-application-firewall-policies-waf/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Web Jobs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-web-jobs/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Web Slots",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-web-slots/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Web Test",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-web-test/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Website Power",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-website-power/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Website Staging",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-website-staging/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Windows Notification Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-windows-notification-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Windows10 Core Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-windows10-core-services/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Workbooks",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-workbooks/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Worker Container App",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-worker-container-app/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Workflow",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-workflow/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Workload Orchestration",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-workload-orchestration/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Workspace Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-workspace-gateway/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Workspaces",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/azure-workspaces/default.svg",
+      "license": "MIT"
+    }
+  ]
+}

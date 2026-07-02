@@ -1,0 +1,3706 @@
+{
+  "name": "Unofficial theSVG Iconset - aws",
+  "description": "xream 基于 theSVG 转换的 aws variant 图标集；仅包含链接清单，不重新分发 SVG。图标版权、商标和 license 归各自权利方及 upstream license 约束。",
+  "source": "https://github.com/glincker/thesvg",
+  "sourceData": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/src/data/icons.json",
+  "legal": "https://github.com/glincker/thesvg/blob/main/LEGAL.md",
+  "disclaimer": "https://github.com/glincker/thesvg/blob/main/DISCLAIMER.md",
+  "trademarkNotice": "Icon names, logos, and trademarks are property of their respective owners. This iconset is not affiliated with, endorsed by, or sponsored by those owners.",
+  "icons": [
+    {
+      "name": "Amazon API Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-api-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon AppFlow",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-appflow/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Application Recovery Controller",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-application-recovery-controller/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Athena",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-athena/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Augmented AI A2I",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-augmented-ai-a2i/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Aurora",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-aurora/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Bedrock",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-bedrock/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Bedrock AgentCore",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-bedrock-agentcore/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Braket",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-braket/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Chime",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-chime/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Chime SDK",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-chime-sdk/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Cloud Directory",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-cloud-directory/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudFront",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-cloudfront/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudSearch",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-cloudsearch/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudWatch",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-cloudwatch/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CodeCatalyst",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-codecatalyst/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CodeGuru",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-codeguru/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CodeWhisperer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-codewhisperer/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Cognito",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-cognito/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Comprehend",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-comprehend/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Comprehend Medical",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-comprehend-medical/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Connect",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-connect/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Corretto",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-corretto/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Data Firehose",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-data-firehose/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DataZone",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-datazone/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DCV",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-dcv/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Detective",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-detective/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DevOps Guru",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-devops-guru/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DocumentDB",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-documentdb/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DynamoDB",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-dynamodb/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EC2",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-ec2/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EC2 Auto Scaling",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-ec2-auto-scaling/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EC2 Image Builder",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-ec2-image-builder/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon ECS Anywhere",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-ecs-anywhere/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EFS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-efs/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EKS Anywhere",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-eks-anywhere/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EKS Distro",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-eks-distro/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Block Store",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-elastic-block-store/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Container Registry",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-elastic-container-registry/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Container Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-elastic-container-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Inference",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-elastic-inference/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Kubernetes Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-elastic-kubernetes-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic VMware Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-elastic-vmware-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon ElastiCache",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-elasticache/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EMR",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-emr/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EventBridge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-eventbridge/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon File Cache",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-file-cache/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon FinSpace",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-finspace/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Forecast",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-forecast/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Fraud Detector",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-fraud-detector/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon FSx",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-fsx/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon FSx for Lustre",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-fsx-for-lustre/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon FSx for NetApp ONTAP",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-fsx-for-netapp-ontap/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon FSx for OpenZFS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-fsx-for-openzfs/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon FSx for WFS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-fsx-for-wfs/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon GameLift Servers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-gamelift-servers/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon GameLift Streams",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-gamelift-streams/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon GuardDuty",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-guardduty/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Inspector",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-inspector/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Interactive Video Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-interactive-video-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Kendra",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-kendra/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Keyspaces",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-keyspaces/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Kinesis",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-kinesis/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Kinesis Data Streams",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-kinesis-data-streams/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Kinesis Video Streams",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-kinesis-video-streams/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Lex",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-lex/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Lightsail",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-lightsail/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Lightsail for Research",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-lightsail-for-research/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Location Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-location-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Lookout for Equipment",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-lookout-for-equipment/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Lookout for Vision",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-lookout-for-vision/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Macie",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-macie/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Managed Blockchain",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-managed-blockchain/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Managed Grafana",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-managed-grafana/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Managed Service for Apache Flink",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-managed-service-for-apache-flink/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Managed Service for Prometheus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-managed-service-for-prometheus/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Managed Streaming for Apache Kafka",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-managed-streaming-for-apache-kafka/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Managed Workflows for Apache Airflow",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-managed-workflows-for-apache-airflow/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon MemoryDB",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-memorydb/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Monitron",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-monitron/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon MQ",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-mq/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Neptune",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-neptune/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Nova",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-nova/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon OpenSearch Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-opensearch-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Personalize",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-personalize/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Pinpoint",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-pinpoint/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Pinpoint APIs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-pinpoint-apis/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Polly",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-polly/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Q",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-q/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Quick Suite",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-quick-suite/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon RDS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-rds/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Redshift",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-redshift/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Rekognition",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-rekognition/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Route 53",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-route-53/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon S3 on Outposts",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-s3-on-outposts/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon SageMaker",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-sagemaker/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon SageMaker AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-sagemaker-ai/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon SageMaker Ground Truth",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-sagemaker-ground-truth/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon SageMaker Studio Lab",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-sagemaker-studio-lab/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Security Lake",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-security-lake/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Email Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-simple-email-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Notification Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-simple-notification-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Queue Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-simple-queue-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-simple-storage-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service Glacier",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-simple-storage-service-glacier/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Textract",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-textract/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Timestream",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-timestream/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Transcribe",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-transcribe/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Translate",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-translate/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Verified Permissions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-verified-permissions/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Virtual Private Cloud",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-virtual-private-cloud/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC Lattice",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-vpc-lattice/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon WorkDocs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-workdocs/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon WorkDocs SDK",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-workdocs-sdk/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon WorkMail",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-workmail/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon WorkSpaces",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-amazon-workspaces/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Apache MXNet on AWS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-apache-mxnet-on-aws/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Activate",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-activate/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Amplify",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-amplify/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS App Mesh",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-app-mesh/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS App Runner",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-app-runner/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS App Studio",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-app-studio/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS AppConfig",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-appconfig/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS AppFabric",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-appfabric/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Application Auto Scaling",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-application-auto-scaling/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Application Discovery Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-application-discovery-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Application Migration Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-application-migration-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS AppSync",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-appsync/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Artifact",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-artifact/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Audit Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-audit-manager/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Auto Scaling",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-auto-scaling/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS B2B Data Interchange",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-b2b-data-interchange/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backint Agent",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-backint-agent/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-backup/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Batch",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-batch/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Billing Conductor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-billing-conductor/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Budgets",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-budgets/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Certificate Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-certificate-manager/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Chatbot",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-chatbot/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Clean Rooms",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-clean-rooms/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Client VPN",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-client-vpn/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cloud Control API",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-cloud-control-api/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cloud Development Kit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-cloud-development-kit/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cloud Map",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-cloud-map/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cloud WAN",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-cloud-wan/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cloud9",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-cloud9/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS CloudFormation",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-cloudformation/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS CloudHSM",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-cloudhsm/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS CloudShell",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-cloudshell/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS CloudTrail",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-cloudtrail/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS CodeArtifact",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-codeartifact/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS CodeBuild",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-codebuild/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS CodeCommit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-codecommit/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS CodeDeploy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-codedeploy/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS CodePipeline",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-codepipeline/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Command Line Interface",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-command-line-interface/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Compute Optimizer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-compute-optimizer/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Config",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-config/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Console Mobile Application",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-console-mobile-application/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Control Tower",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-control-tower/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cost and Usage Report",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-cost-and-usage-report/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cost Explorer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-cost-explorer/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Data Exchange",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-data-exchange/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Data Transfer Terminal",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-data-transfer-terminal/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Database Migration Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-database-migration-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS DataSync",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-datasync/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Deadline Cloud",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-deadline-cloud/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Deep Learning AMIs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-deep-learning-amis/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Deep Learning Containers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-deep-learning-containers/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS DeepRacer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-deepracer/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Device Farm",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-device-farm/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS DevOps Agent",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-devops-agent/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Direct Connect",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-direct-connect/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Directory Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-directory-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Distro for OpenTelemetry",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-distro-for-opentelemetry/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elastic Beanstalk",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-elastic-beanstalk/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elastic Disaster Recovery",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-elastic-disaster-recovery/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elemental Appliances & Software",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-elemental-appliances-software/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elemental Conductor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-elemental-conductor/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elemental Delta",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-elemental-delta/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elemental Link",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-elemental-link/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elemental Live",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-elemental-live/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elemental MediaConnect",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-elemental-mediaconnect/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elemental MediaConvert",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-elemental-mediaconvert/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elemental MediaLive",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-elemental-medialive/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elemental MediaPackage",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-elemental-mediapackage/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elemental MediaStore",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-elemental-mediastore/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elemental MediaTailor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-elemental-mediatailor/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elemental Server",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-elemental-server/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS End User Messaging",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-end-user-messaging/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Entity Resolution",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-entity-resolution/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Express Workflows",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-express-workflows/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Fargate",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-fargate/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Fault Injection Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-fault-injection-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Firewall Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-firewall-manager/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Global Accelerator",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-global-accelerator/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Glue",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-glue/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Glue DataBrew",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-glue-databrew/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Ground Station",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-ground-station/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Health Dashboard",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-health-dashboard/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS HealthImaging",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-healthimaging/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS HealthLake",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-healthlake/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS HealthOmics",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-healthomics/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS HealthScribe",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-healthscribe/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IAM Identity Center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-iam-identity-center/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Identity and Access Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-identity-and-access-management/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Infrastructure Composer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-infrastructure-composer/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Core",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-iot-core/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Device Defender",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-iot-device-defender/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Device Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-iot-device-management/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Events",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-iot-events/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT ExpressLink",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-iot-expresslink/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT FleetWise",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-iot-fleetwise/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Greengrass",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-iot-greengrass/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT SiteWise",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-iot-sitewise/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT TwinMaker",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-iot-twinmaker/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IQ",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-iq/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Key Management Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-key-management-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Lake Formation",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-lake-formation/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Lambda",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-lambda/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Launch Wizard",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-launch-wizard/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS License Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-license-manager/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Local Zones",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-local-zones/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Mainframe Modernization",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-mainframe-modernization/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Managed Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-managed-services/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Management Console",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-management-console/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Marketplace_Dark",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-marketplace-dark/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Marketplace_Light",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-marketplace-light/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Migration Evaluator",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-migration-evaluator/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Migration Hub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-migration-hub/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Network Firewall",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-network-firewall/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Neuron",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-neuron/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Nitro Enclaves",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-nitro-enclaves/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Organizations",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-organizations/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Outposts family",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-outposts-family/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Outposts rack",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-outposts-rack/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Outposts servers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-outposts-servers/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Panorama",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-panorama/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Parallel Cluster",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-parallel-cluster/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Parallel Computing Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-parallel-computing-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Partner Central",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-partner-central/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Payment Cryptography",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-payment-cryptography/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Private Certificate Authority",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-private-certificate-authority/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS PrivateLink",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-privatelink/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Professional Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-professional-services/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Proton",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-proton/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS rePost",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-repost/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS rePost Private",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-repost-private/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Resilience Hub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-resilience-hub/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Resource Access Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-resource-access-manager/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Resource Explorer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-resource-explorer/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS RTB Fabric",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-rtb-fabric/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Secrets Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-secrets-manager/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Security Agent",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-security-agent/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Security Hub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-security-hub/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Security Incident Response",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-security-incident-response/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Serverless Application Repository",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-serverless-application-repository/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Service Catalog",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-service-catalog/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Service Management Connector",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-service-management-connector/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Shield",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-shield/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Signer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-signer/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS SimSpace Weaver",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-simspace-weaver/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Site to Site VPN",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-site-to-site-vpn/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Snowball",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-snowball/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Snowball Edge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-snowball-edge/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Step Functions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-step-functions/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Storage Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-storage-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Supply Chain",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-supply-chain/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Support",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-support/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-systems-manager/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Telco Network Builder",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-telco-network-builder/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Thinkbox Deadline",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-thinkbox-deadline/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Thinkbox Frost",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-thinkbox-frost/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Thinkbox Krakatoa",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-thinkbox-krakatoa/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Thinkbox Stoke",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-thinkbox-stoke/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Thinkbox XMesh",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-thinkbox-xmesh/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Tools and SDKs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-tools-and-sdks/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Training Certification",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-training-certification/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Transfer Family",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-transfer-family/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Transform",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-transform/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Transit Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-transit-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Trusted Advisor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-trusted-advisor/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS User Notifications",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-user-notifications/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Verified Access",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-verified-access/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS WAF",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-waf/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Wavelength",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-wavelength/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Well Architected Tool",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-well-architected-tool/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Wickr",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-wickr/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS X Ray",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-aws-x-ray/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Bottlerocket",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-bottlerocket/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Analytics",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-analytics/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Application Integration",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-application-integration/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Artificial Intelligence",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-artificial-intelligence/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Blockchain",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-blockchain/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Business Applications",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-business-applications/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cloud Financial Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-cloud-financial-management/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Compute",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-compute/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Containers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-containers/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Customer Enablement",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-customer-enablement/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Customer Experience",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-customer-experience/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Databases",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-databases/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Developer Tools",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-developer-tools/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS End User Computing",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-end-user-computing/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Front End Web Mobile",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-front-end-web-mobile/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Games",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-games/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Internet of Things",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-internet-of-things/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Management Tools",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-management-tools/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Media Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-media-services/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Migration Modernization",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-migration-modernization/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Multicloud and Hybrid",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-multicloud-and-hybrid/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Networking Content Delivery",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-networking-content-delivery/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Quantum Technologies",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-quantum-technologies/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Satellite",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-satellite/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Security Identity",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-security-identity/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Serverless",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-serverless/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Storage",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-cat-storage/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Elastic Fabric Adapter",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-elastic-fabric-adapter/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Elastic Load Balancing",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-elastic-load-balancing/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "FreeRTOS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-freertos/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Auto Scaling group",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-auto-scaling-group/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Account",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-aws-account/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cloud",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-aws-cloud/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cloud logo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-aws-cloud-logo/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Greengrass Deployment",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-aws-iot-greengrass-deployment/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Corporate data center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-corporate-data-center/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "EC2 instance contents",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-ec2-instance-contents/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Private subnet",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-private-subnet/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Public subnet",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-public-subnet/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Region",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-region/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Server contents",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-server-contents/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Spot Fleet",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-spot-fleet/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Virtual private cloud VPC",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-virtual-private-cloud-vpc/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Open 3D Engine",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-open-3d-engine/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Oracle Database at AWS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-oracle-database-at-aws/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "PyTorch on AWS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-pytorch-on-aws/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Red Hat OpenShift Service on AWS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-red-hat-openshift-service-on-aws/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon API Gateway Endpoint",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-api-gateway-endpoint/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Athena Data Source Connectors",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-athena-data-source-connectors/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Aurora Amazon Aurora Instance alternate",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-aurora-amazon-aurora-instance-alternate/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Aurora Amazon RDS Instance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-aurora-amazon-rds-instance/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Aurora Amazon RDS Instance Aternate",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-aurora-amazon-rds-instance-aternate/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Aurora Trusted Language Extensions for PostgreSQL",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-aurora-trusted-language-extensions-for-postgresql/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Braket Chandelier",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-braket-chandelier/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Braket Chip",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-braket-chip/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Braket Embedded Simulator",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-braket-embedded-simulator/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Braket Managed Simulator",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-braket-managed-simulator/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Braket Noise Simulator",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-braket-noise-simulator/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Braket QPU",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-braket-qpu/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Braket Simulator",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-braket-simulator/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Braket Simulator 1",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-braket-simulator-1/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Braket Simulator 2",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-braket-simulator-2/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Braket Simulator 3",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-braket-simulator-3/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Braket Simulator 4",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-braket-simulator-4/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Braket State Vector",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-braket-state-vector/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Braket Tensor Network",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-braket-tensor-network/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudFront Download Distribution",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-cloudfront-download-distribution/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudFront Edge Location",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-cloudfront-edge-location/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudFront Functions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-cloudfront-functions/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudFront Streaming Distribution",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-cloudfront-streaming-distribution/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudSearch Search Documents",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-cloudsearch-search-documents/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudWatch Alarm",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-cloudwatch-alarm/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudWatch Cross account Observability",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-cloudwatch-cross-account-observability/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudWatch Data Protection",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-cloudwatch-data-protection/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudWatch Event Event Based",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-cloudwatch-event-event-based/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudWatch Event Time Based",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-cloudwatch-event-time-based/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudWatch Evidently",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-cloudwatch-evidently/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudWatch Logs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-cloudwatch-logs/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudWatch Metrics Insights",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-cloudwatch-metrics-insights/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudWatch Rule",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-cloudwatch-rule/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudWatch RUM",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-cloudwatch-rum/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon CloudWatch Synthetics",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-cloudwatch-synthetics/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DataZone Business Data Catalog",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-datazone-business-data-catalog/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DataZone Data Portal",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-datazone-data-portal/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DataZone Data Projects",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-datazone-data-projects/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DevOps Guru Insights",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-devops-guru-insights/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DocumentDB Elastic Clusters",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-documentdb-elastic-clusters/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DynamoDB Amazon DynamoDB Accelerator",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-dynamodb-amazon-dynamodb-accelerator/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DynamoDB Attribute",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-dynamodb-attribute/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DynamoDB Attributes",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-dynamodb-attributes/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DynamoDB Global secondary index",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-dynamodb-global-secondary-index/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DynamoDB Item",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-dynamodb-item/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DynamoDB Items",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-dynamodb-items/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DynamoDB Standard Access Table Class",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-dynamodb-standard-access-table-class/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DynamoDB Standard Infrequent Access Table Class",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-dynamodb-standard-infrequent-access-table-class/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DynamoDB Stream",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-dynamodb-stream/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon DynamoDB Table",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-dynamodb-table/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EC2 AMI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-ec2-ami/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EC2 Auto Scaling",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-ec2-auto-scaling/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EC2 AWS Microservice Extractor for .NET",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-ec2-aws-microservice-extractor-for-net/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EC2 DB Instance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-ec2-db-instance/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EC2 Elastic IP Address",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-ec2-elastic-ip-address/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EC2 Instance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-ec2-instance/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EC2 Instance with CloudWatch",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-ec2-instance-with-cloudwatch/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EC2 Instances",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-ec2-instances/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EC2 Rescue",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-ec2-rescue/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EC2 Spot Instance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-ec2-spot-instance/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Block Store Amazon Data Lifecycle Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-block-store-amazon-data-lifecycle-manager/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Block Store Multiple Volumes",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-block-store-multiple-volumes/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Block Store Snapshot",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-block-store-snapshot/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Block Store Volume",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-block-store-volume/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Block Store Volume gp3",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-block-store-volume-gp3/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Container Registry Image",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-container-registry-image/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Container Registry Registry",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-container-registry-registry/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Container Service Container 1",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-container-service-container-1/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Container Service Container 2",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-container-service-container-2/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Container Service Container 3",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-container-service-container-3/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Container Service CopiIoT CLI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-container-service-copiiot-cli/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Container Service ECS Service Connect",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-container-service-ecs-service-connect/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Container Service Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-container-service-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Container Service Task",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-container-service-task/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic File System EFS Intelligent Tiering",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-file-system-efs-intelligent-tiering/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic File System EFS One Zone",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-file-system-efs-one-zone/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic File System EFS One Zone Infrequent Access",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-file-system-efs-one-zone-infrequent-access/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic File System EFS Standard",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-file-system-efs-standard/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic File System EFS Standard Infrequent Access",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-file-system-efs-standard-infrequent-access/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic File System Elastic Throughput",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-file-system-elastic-throughput/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic File System File System",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-file-system-file-system/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Elastic Kubernetes Service EKS on Outposts",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elastic-kubernetes-service-eks-on-outposts/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon ElastiCache Cache Node",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elasticache-cache-node/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon ElastiCache ElastiCache for Memcached",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elasticache-elasticache-for-memcached/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon ElastiCache ElastiCache for Redis",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elasticache-elasticache-for-redis/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon ElastiCache ElastiCache for Valkey",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-elasticache-elasticache-for-valkey/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EMR Cluster",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-emr-cluster/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EMR EMR Engine",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-emr-emr-engine/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EMR HDFS Cluster",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-emr-hdfs-cluster/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EventBridge Custom Event Bus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-eventbridge-custom-event-bus/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EventBridge Default Event Bus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-eventbridge-default-event-bus/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EventBridge Pipes",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-eventbridge-pipes/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EventBridge Rule",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-eventbridge-rule/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EventBridge Saas Partner Event",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-eventbridge-saas-partner-event/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EventBridge Scheduler",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-eventbridge-scheduler/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EventBridge Schema",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-eventbridge-schema/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon EventBridge Schema Registry",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-eventbridge-schema-registry/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon File Cache Hybrid NFS linked datasets",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-file-cache-hybrid-nfs-linked-datasets/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon File Cache On premises NFS linked datasets",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-file-cache-on-premises-nfs-linked-datasets/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon File Cache S3 linked datasets",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-file-cache-s3-linked-datasets/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Inspector Agent",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-inspector-agent/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Location Service Geofence",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-location-service-geofence/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Location Service Map ",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-location-service-map/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Location Service Place",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-location-service-place/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Location Service Routes",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-location-service-routes/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Location Service Track ",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-location-service-track/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Managed Blockchain Blockchain",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-managed-blockchain-blockchain/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon MQ Broker",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-mq-broker/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon MSK Amazon MSK Connect",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-msk-amazon-msk-connect/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon OpenSearch Service Cluster Administrator Node",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-opensearch-service-cluster-administrator-node/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon OpenSearch Service Data Node",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-opensearch-service-data-node/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon OpenSearch Service Index",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-opensearch-service-index/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon OpenSearch Service Observability",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-opensearch-service-observability/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon OpenSearch Service OpenSearch Dashboards",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-opensearch-service-opensearch-dashboards/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon OpenSearch Service OpenSearch Ingestion",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-opensearch-service-opensearch-ingestion/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon OpenSearch Service Traces",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-opensearch-service-traces/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon OpenSearch Service UltraWarm Node",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-opensearch-service-ultrawarm-node/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Pinpoint Journey",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-pinpoint-journey/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon RDS Blue Green Deployments",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-rds-blue-green-deployments/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon RDS Multi AZ",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-rds-multi-az/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon RDS Multi AZ DB Cluster",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-rds-multi-az-db-cluster/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon RDS Optimized Writes",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-rds-optimized-writes/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon RDS Trusted Language Extensions for PostgreSQL",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-rds-trusted-language-extensions-for-postgresql/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Redshift Auto copy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-redshift-auto-copy/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Redshift Data Sharing Governance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-redshift-data-sharing-governance/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Redshift Dense Compute Node",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-redshift-dense-compute-node/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Redshift Dense Storage Node",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-redshift-dense-storage-node/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Redshift ML",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-redshift-ml/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Redshift Query Editor v2.0",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-redshift-query-editor-v2-0/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Redshift RA3",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-redshift-ra3/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Redshift Streaming Ingestion",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-redshift-streaming-ingestion/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Rekognition Image",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-rekognition-image/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Rekognition Video",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-rekognition-video/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Route 53 Readiness Checks",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-route-53-readiness-checks/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Route 53 Resolver",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-route-53-resolver/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Route 53 Resolver DNS Firewall",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-route-53-resolver-dns-firewall/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Route 53 Resolver Query Logging",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-route-53-resolver-query-logging/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Route 53 Route Table",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-route-53-route-table/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Route 53 Routing Controls",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-route-53-routing-controls/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon SageMaker AI Canvas",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-sagemaker-ai-canvas/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon SageMaker AI Geospatial ML",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-sagemaker-ai-geospatial-ml/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon SageMaker AI Model",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-sagemaker-ai-model/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon SageMaker AI Notebook",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-sagemaker-ai-notebook/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon SageMaker AI Shadow Testing",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-sagemaker-ai-shadow-testing/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon SageMaker AI Train",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-sagemaker-ai-train/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Email Service Email",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-email-service-email/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Notification Service Email Notification",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-notification-service-email-notification/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Notification Service HTTP Notification",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-notification-service-http-notification/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Notification Service Topic",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-notification-service-topic/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Queue Service Message",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-queue-service-message/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Queue Service Queue",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-queue-service-queue/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service Bucket",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-bucket/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service Bucket With Objects",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-bucket-with-objects/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service Directory bucket",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-directory-bucket/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service General Access Points",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-general-access-points/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service Glacier Archive",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-glacier-archive/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service Glacier Vault",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-glacier-vault/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service Object",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-object/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Batch Operations",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-batch-operations/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Express One Zone",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-express-one-zone/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Glacier Deep Archive",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-glacier-deep-archive/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Glacier Flexible Retrieval",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-glacier-flexible-retrieval/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Glacier Instant Retrieval",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-glacier-instant-retrieval/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Intelligent Tiering",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-intelligent-tiering/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Multi Region Access Points",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-multi-region-access-points/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Object Lambda",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-object-lambda/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Object Lambda Access Points",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-object-lambda-access-points/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Object Lock",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-object-lock/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 On Outposts",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-on-outposts/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 One Zone IA",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-one-zone-ia/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Replication",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-replication/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Replication Time Control",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-replication-time-control/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Select",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-select/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Standard",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-standard/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Standard IA",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-standard-ia/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Storage Lens",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-storage-lens/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Tables",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-tables/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service S3 Vectors",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-s3-vectors/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Simple Storage Service VPC Access Points",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-simple-storage-service-vpc-access-points/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon Textract Analyze Lending",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-textract-analyze-lending/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC Carrier Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-carrier-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC Customer Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-customer-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC Elastic Network Adapter",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-elastic-network-adapter/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC Elastic Network Interface",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-elastic-network-interface/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC Endpoints",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-endpoints/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC Flow Logs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-flow-logs/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC Internet Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-internet-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC NAT Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-nat-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC Network Access Analyzer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-network-access-analyzer/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC Network Access Control List",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-network-access-control-list/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC Peering Connection",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-peering-connection/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC Reachability Analyzer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-reachability-analyzer/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC Router",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-router/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC Traffic Mirroring",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-traffic-mirroring/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC Virtual private cloud VPC",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-virtual-private-cloud-vpc/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC VPN Connection",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-vpn-connection/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Amazon VPC VPN Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-amazon-vpc-vpn-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Amplify AWS Amplify Studio",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-amplify-aws-amplify-studio/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS App Mesh Mesh",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-app-mesh-mesh/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS App Mesh Virtual Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-app-mesh-virtual-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS App Mesh Virtual Node",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-app-mesh-virtual-node/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS App Mesh Virtual Router",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-app-mesh-virtual-router/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS App Mesh Virtual Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-app-mesh-virtual-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Application Discovery Service AWS Agentless Collector",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-application-discovery-service-aws-agentless-collector/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Application Discovery Service AWS Discovery Agent",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-application-discovery-service-aws-discovery-agent/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Application Discovery Service Migration Evaluator Collector",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-application-discovery-service-migration-evaluator-collector/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup Audit Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-audit-manager/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup AWS Backup for AWS CloudFormation",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-aws-backup-for-aws-cloudformation/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup AWS Backup support for Amazon FSx for NetApp ONTAP",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-aws-backup-support-for-amazon-fsx-for-netapp-ontap/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup AWS Backup support for Amazon S3",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-aws-backup-support-for-amazon-s3/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup AWS Backup Support for VMware Workloads",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-aws-backup-support-for-vmware-workloads/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup Backup Plan",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-backup-plan/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup Backup Restore",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-backup-restore/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup Backup Vault",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-backup-vault/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup Compliance Reporting",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-compliance-reporting/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup Compute",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-compute/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup Database",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-database/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup Legal Hold",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-legal-hold/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup Recovery Point Objective",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-recovery-point-objective/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup Recovery Time Objective",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-recovery-time-objective/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup Storage",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-storage/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup Vault Lock",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-vault-lock/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup Virtual Machine",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-virtual-machine/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Backup Virtual Machine Monitor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-backup-virtual-machine-monitor/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Certificate Manager Certificate Authority",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-certificate-manager-certificate-authority/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cloud Map Namespace",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-cloud-map-namespace/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cloud Map Resource",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-cloud-map-resource/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cloud Map Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-cloud-map-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cloud WAN Core Network Edge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-cloud-wan-core-network-edge/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cloud WAN Segment Network",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-cloud-wan-segment-network/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cloud WAN Transit Gateway Route Table Attachment",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-cloud-wan-transit-gateway-route-table-attachment/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Cloud9 Cloud9",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-cloud9-cloud9/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS CloudFormation Change Set",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-cloudformation-change-set/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS CloudFormation Stack",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-cloudformation-stack/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS CloudFormation Template",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-cloudformation-template/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS CloudTrail CloudTrail Lake",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-cloudtrail-cloudtrail-lake/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Database Migration Service Database migration workflow or job",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-database-migration-service-database-migration-workflow-or-job/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Datasync Agent",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-datasync-agent/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS DataSync Discovery",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-datasync-discovery/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Direct Connect Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-direct-connect-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Directory Service AD Connector",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-directory-service-ad-connector/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Directory Service AWS Managed Microsoft AD",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-directory-service-aws-managed-microsoft-ad/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Directory Service Simple AD",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-directory-service-simple-ad/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elastic Beanstalk Application",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-elastic-beanstalk-application/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elastic Beanstalk Deployment",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-elastic-beanstalk-deployment/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Elemental MediaConnect MediaConnect Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-elemental-mediaconnect-mediaconnect-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Glue AWS Glue for Ray",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-glue-aws-glue-for-ray/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Glue Crawler",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-glue-crawler/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Glue Data Catalog",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-glue-data-catalog/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Glue Data Quality",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-glue-data-quality/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Identity Access Management Add on",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-identity-access-management-add-on/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Identity Access Management AWS STS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-identity-access-management-aws-sts/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Identity Access Management AWS STS Alternate",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-identity-access-management-aws-sts-alternate/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Identity Access Management Data Encryption Key",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-identity-access-management-data-encryption-key/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Identity Access Management Encrypted Data",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-identity-access-management-encrypted-data/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Identity Access Management IAM Access Analyzer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-identity-access-management-iam-access-analyzer/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Identity Access Management IAM Roles Anywhere",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-identity-access-management-iam-roles-anywhere/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Identity Access Management Long Term Security Credential",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-identity-access-management-long-term-security-credential/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Identity Access Management MFA Token",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-identity-access-management-mfa-token/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Identity Access Management Permissions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-identity-access-management-permissions/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Identity Access Management Role",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-identity-access-management-role/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Identity Access Management Temporary Security Credential",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-identity-access-management-temporary-security-credential/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Action",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-action/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Actuator",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-actuator/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Alexa_Enabled Device",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-alexa-enabled-device/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Alexa_Skill",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-alexa-skill/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Alexa_Voice Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-alexa-voice-service/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Certificate",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-certificate/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Core Device Advisor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-core-device-advisor/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Core Device Location",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-core-device-location/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Desired State",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-desired-state/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Device Defender IoT Device Jobs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-device-defender-iot-device-jobs/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Device Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-device-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Device Management Fleet Hub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-device-management-fleet-hub/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Echo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-echo/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Fire_TV",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-fire-tv/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Fire TV_Stick",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-fire-tv-stick/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Greengrass Artifact",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-greengrass-artifact/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Greengrass Component",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-greengrass-component/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Greengrass Component Machine Learning",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-greengrass-component-machine-learning/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Greengrass Component Nucleus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-greengrass-component-nucleus/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Greengrass Component Private",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-greengrass-component-private/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Greengrass Component Public",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-greengrass-component-public/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Greengrass Connector",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-greengrass-connector/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Greengrass Interprocess Communication",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-greengrass-interprocess-communication/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Greengrass Protocol",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-greengrass-protocol/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Greengrass Recipe",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-greengrass-recipe/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Greengrass Stream Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-greengrass-stream-manager/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT HTTP_Protocol",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-http-protocol/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT HTTP2 Protocol",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-http2-protocol/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Lambda_Function",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-lambda-function/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT LoRaWAN Protocol",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-lorawan-protocol/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT MQTT_Protocol",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-mqtt-protocol/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Over Air Update",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-over-air-update/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Policy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-policy/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Reported State",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-reported-state/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Sailboat",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-sailboat/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Sensor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-sensor/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Servo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-servo/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Shadow",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-shadow/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Simulator",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-simulator/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT SiteWise Asset",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-sitewise-asset/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT SiteWise Asset Hierarchy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-sitewise-asset-hierarchy/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT SiteWise Asset Model",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-sitewise-asset-model/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT SiteWise Asset Properties",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-sitewise-asset-properties/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT SiteWise Data Streams",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-sitewise-data-streams/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Bank",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-bank/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Bicycle",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-bicycle/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Camera",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-camera/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Car",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-car/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Cart",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-cart/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Coffee Pot",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-coffee-pot/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Door Lock",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-door-lock/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Factory",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-factory/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_FreeRTOS Device",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-freertos-device/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Generic",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-generic/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_House",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-house/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Humidity Sensor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-humidity-sensor/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Industrial PC",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-industrial-pc/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Lightbulb",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-lightbulb/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Medical Emergency",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-medical-emergency/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_PLC",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-plc/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Police Emergency",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-police-emergency/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Relay",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-relay/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Stacklight",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-stacklight/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Temperature Humidity Sensor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-temperature-humidity-sensor/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Temperature Sensor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-temperature-sensor/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Temperature Vibration Sensor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-temperature-vibration-sensor/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Thermostat",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-thermostat/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Travel",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-travel/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Utility",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-utility/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Vibration Sensor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-vibration-sensor/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Thing_Windfarm",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-thing-windfarm/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS IoT Topic",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-iot-topic/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Key Management Service External Key Store",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-key-management-service-external-key-store/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Lake Formation Data Lake",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-lake-formation-data-lake/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Lambda Lambda Function",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-lambda-lambda-function/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS License Manager Application Discovery",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-license-manager-application-discovery/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS License Manager License Blending",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-license-manager-license-blending/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Mainframe Modernization Analyzer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-mainframe-modernization-analyzer/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Mainframe Modernization Compiler",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-mainframe-modernization-compiler/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Mainframe Modernization Converter",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-mainframe-modernization-converter/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Mainframe Modernization Developer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-mainframe-modernization-developer/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Mainframe Modernization Runtime",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-mainframe-modernization-runtime/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Migration Hub Refactor Spaces Applications",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-migration-hub-refactor-spaces-applications/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Migration Hub Refactor Spaces Environments",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-migration-hub-refactor-spaces-environments/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Migration Hub Refactor Spaces Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-migration-hub-refactor-spaces-services/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Network Firewall Endpoints",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-network-firewall-endpoints/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Organizations Account",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-organizations-account/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Organizations Management Account",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-organizations-management-account/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Organizations Organizational Unit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-organizations-organizational-unit/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Security Hub Finding",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-security-hub-finding/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Shield AWS Shield Advanced",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-shield-aws-shield-advanced/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Snowball Snowball Import Export",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-snowball-snowball-import-export/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Storage Gateway Amazon FSx File Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-storage-gateway-amazon-fsx-file-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Storage Gateway Amazon S3 File Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-storage-gateway-amazon-s3-file-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Storage Gateway Cached Volume",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-storage-gateway-cached-volume/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Storage Gateway File Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-storage-gateway-file-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Storage Gateway Noncached Volume",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-storage-gateway-noncached-volume/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Storage Gateway Tape Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-storage-gateway-tape-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Storage Gateway Virtual Tape Library",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-storage-gateway-virtual-tape-library/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Storage Gateway Volume Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-storage-gateway-volume-gateway/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager Application Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-systems-manager-application-manager/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager Automation",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-systems-manager-automation/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager Change Calendar",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-systems-manager-change-calendar/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager Change Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-systems-manager-change-manager/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager Compliance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-systems-manager-compliance/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager Distributor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-systems-manager-distributor/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager Documents",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-systems-manager-documents/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager Incident Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-systems-manager-incident-manager/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager Inventory",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-systems-manager-inventory/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager Maintenance Windows",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-systems-manager-maintenance-windows/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager OpsCenter",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-systems-manager-opscenter/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager Parameter Store",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-systems-manager-parameter-store/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager Patch Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-systems-manager-patch-manager/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager Run Command",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-systems-manager-run-command/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager Session Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-systems-manager-session-manager/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Systems Manager State Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-systems-manager-state-manager/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Transfer Family AWS AS2",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-transfer-family-aws-as2/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Transfer Family AWS FTP",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-transfer-family-aws-ftp/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Transfer Family AWS FTPS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-transfer-family-aws-ftps/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Transfer Family AWS SFTP",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-transfer-family-aws-sftp/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Transit Gateway Attachment",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-transit-gateway-attachment/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Trusted Advisor Checklist",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-trusted-advisor-checklist/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Trusted Advisor Checklist Cost",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-trusted-advisor-checklist-cost/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Trusted Advisor Checklist Fault Tolerant",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-trusted-advisor-checklist-fault-tolerant/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Trusted Advisor Checklist Performance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-trusted-advisor-checklist-performance/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS Trusted Advisor Checklist Security",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-trusted-advisor-checklist-security/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS WAF Bad Bot",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-waf-bad-bot/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS WAF Bot",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-waf-bot/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS WAF Bot Control",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-waf-bot-control/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS WAF Filtering Rule",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-waf-filtering-rule/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS WAF Labels",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-waf-labels/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS WAF Managed Rule",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-waf-managed-rule/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "AWS WAF Rule",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-aws-waf-rule/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Elastic Load Balancing Application Load Balancer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-elastic-load-balancing-application-load-balancer/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Elastic Load Balancing Classic Load Balancer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-elastic-load-balancing-classic-load-balancer/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Elastic Load Balancing Gateway Load Balancer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-elastic-load-balancing-gateway-load-balancer/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Elastic Load Balancing Network Load Balancer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-res-elastic-load-balancing-network-load-balancer/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Reserved Instance Reporting",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-reserved-instance-reporting/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "Savings Plans",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-savings-plans/default.svg",
+      "license": "CC-BY-ND-2.0"
+    },
+    {
+      "name": "TensorFlow on AWS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-tensorflow-on-aws/default.svg",
+      "license": "CC-BY-ND-2.0"
+    }
+  ]
+}

@@ -1,0 +1,1081 @@
+{
+  "name": "Unofficial theSVG Iconset - gcp",
+  "description": "xream 基于 theSVG 转换的 gcp variant 图标集；仅包含链接清单，不重新分发 SVG。图标版权、商标和 license 归各自权利方及 upstream license 约束。",
+  "source": "https://github.com/glincker/thesvg",
+  "sourceData": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/src/data/icons.json",
+  "legal": "https://github.com/glincker/thesvg/blob/main/LEGAL.md",
+  "disclaimer": "https://github.com/glincker/thesvg/blob/main/DISCLAIMER.md",
+  "trademarkNotice": "Icon names, logos, and trademarks are property of their respective owners. This iconset is not affiliated with, endorsed by, or sponsored by those owners.",
+  "icons": [
+    {
+      "name": "Access Context Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-access-context-manager/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Administration",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-administration/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Advanced Agent Modeling",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-advanced-agent-modeling/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Advanced Solutions Lab",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-advanced-solutions-lab/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Agent Assist",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-agent-assist/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Ai Hub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-ai-hub/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Ai Platform",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-ai-platform/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Ai Platform Unified",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-ai-platform-unified/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Analytics Hub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-analytics-hub/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Anthos",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-anthos/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Anthos Config Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-anthos-config-management/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Anthos Service Mesh",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-anthos-service-mesh/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Api",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-api/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Api Analytics",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-api-analytics/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Api Monetization",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-api-monetization/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Apigee Api Platform",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-apigee-api-platform/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Apigee Sense",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-apigee-sense/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "App Engine",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-app-engine/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Artifact Registry",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-artifact-registry/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Asset Inventory",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-asset-inventory/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Assured Workloads",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-assured-workloads/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Automl",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-automl/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Automl Natural Language",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-automl-natural-language/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Automl Tables",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-automl-tables/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Automl Translation",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-automl-translation/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Automl Video Intelligence",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-automl-video-intelligence/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Automl Vision",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-automl-vision/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Bare Metal Solutions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-bare-metal-solutions/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Batch",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-batch/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Beyondcorp",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-beyondcorp/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Bigquery",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-bigquery/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Bigtable",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-bigtable/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Billing",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-billing/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Binary Authorization",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-binary-authorization/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Catalog",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-catalog/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Certificate Authority Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-certificate-authority-service/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Certificate Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-certificate-manager/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Api Gateway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-api-gateway/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Apis",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-apis/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Armor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-armor/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Asset Inventory",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-asset-inventory/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Audit Logs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-audit-logs/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Build",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-build/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Cdn",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-cdn/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Code",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-code/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Composer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-composer/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Data Fusion",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-data-fusion/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Deploy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-deploy/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Deployment Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-deployment-manager/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Dns",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-dns/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Domains",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-domains/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Ekm",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-ekm/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Endpoints",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-endpoints/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud External Ip Addresses",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-external-ip-addresses/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Firewall Rules",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-firewall-rules/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud For Marketing",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-for-marketing/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Functions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-functions/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Generic",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-generic/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Gpu",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-gpu/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Healthcare Api",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-healthcare-api/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Healthcare Marketplace",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-healthcare-marketplace/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Hsm",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-hsm/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Ids",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-ids/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Inference Api",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-inference-api/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Interconnect",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-interconnect/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Jobs Api",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-jobs-api/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Load Balancing",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-load-balancing/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Logging",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-logging/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Media Edge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-media-edge/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Monitoring",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-monitoring/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Nat",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-nat/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Natural Language Api",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-natural-language-api/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Network",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-network/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Ops",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-ops/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Optimization Ai",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-optimization-ai/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Optimization Ai   Fleet Routing Api",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-optimization-ai---fleet-routing-api/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Router",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-router/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Routes",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-routes/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Run",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-run/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Run For Anthos",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-run-for-anthos/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Scheduler",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-scheduler/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Security Scanner",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-security-scanner/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Shell",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-shell/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Spanner",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-spanner/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Sql",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-sql/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Storage",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-storage/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Tasks",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-tasks/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Test Lab",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-test-lab/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Tpu",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-tpu/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Translation Api",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-translation-api/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Vision Api",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-vision-api/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Cloud Vpn",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-cloud-vpn/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Compute Engine",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-compute-engine/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Configuration Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-configuration-management/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Connectivity Test",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-connectivity-test/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Connectors",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-connectors/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Contact Center Ai",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-contact-center-ai/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Container Optimized Os",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-container-optimized-os/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Container Registry",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-container-registry/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Data Catalog",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-data-catalog/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Data Labeling",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-data-labeling/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Data Layers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-data-layers/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Data Loss Prevention Api",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-data-loss-prevention-api/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Data Qna",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-data-qna/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Data Studio",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-data-studio/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Data Transfer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-data-transfer/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Database Migration Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-database-migration-service/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Dataflow",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-dataflow/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Datalab",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-datalab/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Dataplex",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-dataplex/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Datapol",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-datapol/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Dataprep",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-dataprep/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Dataproc",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-dataproc/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Dataproc Metastore",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-dataproc-metastore/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Datashare",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-datashare/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Datastore",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-datastore/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Datastream",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-datastream/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Debugger",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-debugger/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Developer Portal",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-developer-portal/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Dialogflow Cx",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-dialogflow-cx/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Dialogflow Insights",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-dialogflow-insights/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Document Ai",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-document-ai/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Early Access Center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-early-access-center/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Error Reporting",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-error-reporting/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Eventarc",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-eventarc/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Filestore",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-filestore/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Financial Services Marketplace",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-financial-services-marketplace/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Firestore",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-firestore/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Fleet Engine",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-fleet-engine/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Free Trial",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-free-trial/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Game Servers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-game-servers/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Gce Systems Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-gce-systems-management/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Genomics",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-genomics/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Gke On Prem",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-gke-on-prem/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Google Cloud Marketplace",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-google-cloud-marketplace/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Google Kubernetes Engine",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-google-kubernetes-engine/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Google Maps Platform",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-google-maps-platform/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Healthcare Nlp Api",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-healthcare-nlp-api/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Home",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-home/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Identity And Access Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-identity-and-access-management/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Identity Aware Proxy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-identity-aware-proxy/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Identity Platform",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-identity-platform/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Iot Core",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-iot-core/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Iot Edge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-iot-edge/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Key Access Justifications",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-key-access-justifications/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Key Management Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-key-management-service/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Kuberun",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-kuberun/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Launcher",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-launcher/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Local Ssd",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-local-ssd/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Managed Service For Microsoft Active Directory",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-managed-service-for-microsoft-active-directory/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Media Translation Api",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-media-translation-api/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Memorystore",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-memorystore/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Migrate For Anthos",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-migrate-for-anthos/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Migrate For Compute Engine",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-migrate-for-compute-engine/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "My Cloud",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-my-cloud/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Network Connectivity Center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-network-connectivity-center/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Network Intelligence Center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-network-intelligence-center/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Network Security",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-network-security/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Network Tiers",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-network-tiers/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Network Topology",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-network-topology/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Onboarding",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-onboarding/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Os Configuration Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-os-configuration-management/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Os Inventory Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-os-inventory-management/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Os Patch Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-os-patch-management/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Partner Interconnect",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-partner-interconnect/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Partner Portal",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-partner-portal/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Performance Dashboard",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-performance-dashboard/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Permissions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-permissions/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Persistent Disk",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-persistent-disk/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Phishing Protection",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-phishing-protection/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Policy Analyzer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-policy-analyzer/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Premium Network Tier",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-premium-network-tier/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Private Connectivity",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-private-connectivity/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Private Service Connect",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-private-service-connect/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Producer Portal",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-producer-portal/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Profiler",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-profiler/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Project",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-project/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Pubsub",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-pubsub/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Quantum Engine",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-quantum-engine/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Quotas",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-quotas/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Real World Insights",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-real-world-insights/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Recommendations Ai",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-recommendations-ai/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Release Notes",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-release-notes/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Retail Api",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-retail-api/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Risk Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-risk-manager/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Runtime Config",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-runtime-config/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Secret Manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-secret-manager/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Security",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-security/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Security Command Center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-security-command-center/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Security Health Advisor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-security-health-advisor/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Security Key Enforcement",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-security-key-enforcement/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Service Discovery",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-service-discovery/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Speech To Text",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-speech-to-text/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Stackdriver",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-stackdriver/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Standard Network Tier",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-standard-network-tier/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Stream Suite",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-stream-suite/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Support",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-support/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Tensorflow Enterprise",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-tensorflow-enterprise/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Text To Speech",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-text-to-speech/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Tools For Powershell",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-tools-for-powershell/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Trace",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-trace/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Traffic Director",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-traffic-director/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Transfer",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-transfer/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Transfer Appliance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-transfer-appliance/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "User Preferences",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-user-preferences/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Vertexai",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-vertexai/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Video Intelligence Api",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-video-intelligence-api/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Virtual Private Cloud",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-virtual-private-cloud/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Visual Inspection",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-visual-inspection/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Vmware Engine",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-vmware-engine/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Web Risk",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-web-risk/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Web Security Scanner",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-web-security-scanner/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Workflows",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-workflows/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "Workload Identity Pool",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gcp-workload-identity-pool/default.svg",
+      "license": "Apache-2.0"
+    }
+  ]
+}
