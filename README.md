@@ -1,4 +1,4 @@
-# thesvg-iconset
+# unofficial-thesvg-iconset
 
 Unofficial iconset manifests generated from theSVG metadata.
 
@@ -15,7 +15,7 @@ Each generated JSON file maps one theSVG variant to an iconset, such as
 Unlike the official theSVG behavior, `default.json` only includes icons whose
 source `variants` contains exactly `default` and no other variants.
 
-Also unlike the official theSVG data, icons with `collection: "azure"` are
+Also unlike the official theSVG data, icons with `collection: "aws"` are
 excluded.
 
 See the official theSVG Variants guide before choosing a file:

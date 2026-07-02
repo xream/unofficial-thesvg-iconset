@@ -1,4 +1,4 @@
-# thesvg-iconset
+# unofficial-thesvg-iconset
 
 基于 theSVG metadata 生成的非官方 iconset manifests。
 
@@ -13,7 +13,7 @@
 与 theSVG 官方行为不同，`default.json` 只包含来源 `variants` 里仅有
 `default` 一项的图标。
 
-同样与官方数据不同，`collection: "azure"` 的图标会被排除。
+同样与官方数据不同，`collection: "aws"` 的图标会被排除。
 
 选择文件前，建议先查看 theSVG 官方对 Variants 的说明：
 https://github.com/glincker/thesvg#variants

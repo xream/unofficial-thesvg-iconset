@@ -73,16 +73,6 @@
       "license": "CC0-1.0"
     },
     {
-      "name": "AWS Cloud",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-aws-cloud/dark.svg",
-      "license": "CC-BY-ND-2.0"
-    },
-    {
-      "name": "AWS Cloud logo",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws-group-aws-cloud-logo/dark.svg",
-      "license": "CC-BY-ND-2.0"
-    },
-    {
       "name": "Axiom",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/axiom/dark.svg",
       "license": "MIT"
