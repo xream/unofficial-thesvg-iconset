@@ -581,6 +581,11 @@
       "name": "Zen Browser",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zen-browser/wordmark-dark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Zoho",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zoho/wordmarkDark.svg",
+      "license": "Trademark of Zoho Corporation. Used for identification under nominative fair use."
     }
   ]
 }

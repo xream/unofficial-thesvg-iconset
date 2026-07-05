@@ -93,6 +93,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "5dive",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/5dive/mono.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "7Zip",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/7zip/mono.svg",
       "license": "CC0-1.0"
@@ -18630,7 +18635,7 @@
     {
       "name": "Zoho",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zoho/mono.svg",
-      "license": "CC0-1.0"
+      "license": "Trademark of Zoho Corporation. Used for identification under nominative fair use."
     },
     {
       "name": "Zoiper",

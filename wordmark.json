@@ -8,6 +8,11 @@
   "trademarkNotice": "Icon names, logos, and trademarks are property of their respective owners. This iconset is not affiliated with, endorsed by, or sponsored by those owners.",
   "icons": [
     {
+      "name": "5dive",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/5dive/wordmark.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "AbacatePay",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/abacatepay/wordmark.svg",
       "license": "MIT"
@@ -1441,6 +1446,11 @@
       "name": "Zendesk",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zendesk/wordmark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Zoho",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zoho/wordmark.svg",
+      "license": "Trademark of Zoho Corporation. Used for identification under nominative fair use."
     },
     {
       "name": "Zulip",

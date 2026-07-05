@@ -68,6 +68,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Affinity",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/affinity/default.svg",
+      "license": "Trademark of Canva (Serif Europe). Used for identification under nominative fair use."
+    },
+    {
       "name": "Affinity Designer",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/affinity-designer/default.svg",
       "license": "MIT"
@@ -3213,6 +3218,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Outlook Calendar",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/outlook-calendar/default.svg",
+      "license": "Trademark of Microsoft Corporation. Used for identification under nominative fair use."
+    },
+    {
       "name": "Overseerr",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/overseerr/default.svg",
       "license": "MIT"
@@ -3771,6 +3781,11 @@
       "name": "Salt",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/saltstack/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "Samsung Browser",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/samsung-browser/default.svg",
+      "license": "Trademark of Samsung Electronics. Used for identification under nominative fair use."
     },
     {
       "name": "Santander",
