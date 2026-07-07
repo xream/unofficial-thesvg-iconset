@@ -433,6 +433,11 @@
       "license": "MIT"
     },
     {
+      "name": "Beehiiv",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/beehiiv/default.svg",
+      "license": "Unlicense"
+    },
+    {
       "name": "Ben & Jerry's",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ben-and-jerrys/default.svg",
       "license": "Fair Use"
@@ -3876,6 +3881,11 @@
       "name": "Skechers",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/skechers/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Skool",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/skool/default.svg",
+      "license": "MIT"
     },
     {
       "name": "Skype",

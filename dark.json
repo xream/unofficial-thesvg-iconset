@@ -573,6 +573,11 @@
       "license": "MIT"
     },
     {
+      "name": "Polygon.io",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/polygon-io/dark.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Prettier",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/prettier/dark.svg",
       "license": "CC0-1.0"

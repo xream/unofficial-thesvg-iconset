@@ -633,6 +633,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Alpha Vantage",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/alpha-vantage/mono.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Alpine Linux",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/alpine-linux/mono.svg",
       "license": "CC0-1.0"
@@ -10618,6 +10623,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Nasdaq",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nasdaq/mono.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "National Grid",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/national-grid/mono.svg",
       "license": "CC0-1.0"
@@ -12601,6 +12611,11 @@
       "name": "Polygon",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/polygon/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Polygon.io",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/polygon-io/mono.svg",
+      "license": "brand-use"
     },
     {
       "name": "Polymer Project",
@@ -18656,6 +18671,11 @@
       "name": "Zoom",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zoom/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Zoom (2025)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zoom-2025/mono.svg",
+      "license": "Trademark"
     },
     {
       "name": "Zorin",
