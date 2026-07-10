@@ -73,6 +73,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Avanza Bank",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/avanza/dark.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Axiom",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/axiom/dark.svg",
       "license": "MIT"

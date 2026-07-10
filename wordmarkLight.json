@@ -48,6 +48,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Avanza Bank",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/avanza/wordmarkLight.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Axiom",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/axiom/wordmark-light.svg",
       "license": "MIT"

@@ -493,6 +493,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Blogent",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/blogent/default.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "BMG",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/bmg/default.svg",
       "license": "Fair Use"
@@ -1281,6 +1286,11 @@
       "name": "Envoy Proxy",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/envoy/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "EPS - Elektroprivreda Srbije",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/eps/default.svg",
+      "license": "Trademark"
     },
     {
       "name": "Epsagon",
@@ -2081,6 +2091,11 @@
       "name": "JSON Schema",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/json-schema/default.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Justcall",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/justcall/default.svg",
+      "license": "Trademark"
     },
     {
       "name": "JWT",
@@ -3023,6 +3038,11 @@
       "license": "Fair Use"
     },
     {
+      "name": "NFL",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nfl/default.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Nickelodeon",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nickelodeon/default.svg",
       "license": "CC0-1.0"
@@ -3051,6 +3071,11 @@
       "name": "NocoDB",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nocodb/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "Noom",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/noom/default.svg",
+      "license": "Trademark"
     },
     {
       "name": "NordPass",
@@ -3381,6 +3406,11 @@
       "name": "Pipedream",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pipedream/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "Pipedrive",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pipedrive/default.svg",
+      "license": "Trademark"
     },
     {
       "name": "Pitch",
@@ -3873,6 +3903,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Siket",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/siket/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "SK Hynix",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sk-hynix/default.svg",
       "license": "CC0-1.0"
@@ -3895,11 +3930,6 @@
     {
       "name": "Slidev",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/slidev/default.svg",
-      "license": "brand-use"
-    },
-    {
-      "name": "SMMIX",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/smmix/default.svg",
       "license": "brand-use"
     },
     {

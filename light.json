@@ -63,6 +63,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Avanza Bank",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/avanza/light.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Avid",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/avid/light.svg",
       "license": "Fair Use"
@@ -211,6 +216,11 @@
       "name": "Fastify",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fastify/light.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "FGO",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fgo/light.svg",
+      "license": "Trademark"
     },
     {
       "name": "Firecrawl",
@@ -916,6 +926,11 @@
       "name": "Zen Browser",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zen-browser/light.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Zoom (2025)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zoom-2025/light.svg",
+      "license": "Trademark"
     }
   ]
 }

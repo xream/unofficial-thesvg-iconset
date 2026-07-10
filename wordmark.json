@@ -118,6 +118,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Avanza Bank",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/avanza/wordmark.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Awk",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/awk/wordmark.svg",
       "license": "MIT"
@@ -918,6 +923,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Oblio",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/oblio/wordmark.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Onex",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/onex/wordmark.svg",
       "license": "CC0-1.0"
@@ -1098,6 +1108,11 @@
       "license": "MIT"
     },
     {
+      "name": "S-Oil",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/s-oil/wordmark.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "SanDisk",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sandisk/wordmark.svg",
       "license": "CC0-1.0"
@@ -1136,6 +1151,11 @@
       "name": "Slack",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/slack/wordmark.svg",
       "license": "MIT"
+    },
+    {
+      "name": "SmartBill",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/smartbill/wordmark.svg",
+      "license": "Trademark"
     },
     {
       "name": "Socket.io",
