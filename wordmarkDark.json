@@ -568,6 +568,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Wisetech Global",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/wisetech-global/wordmarkDark.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "YouTube",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/youtube/wordmark-dark.svg",
       "license": "CC0-1.0"
@@ -591,6 +596,11 @@
       "name": "Zoho",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zoho/wordmarkDark.svg",
       "license": "Trademark of Zoho Corporation. Used for identification under nominative fair use."
+    },
+    {
+      "name": "Zoom (2025)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zoom-2025/wordmark-dark.svg",
+      "license": "Trademark"
     }
   ]
 }

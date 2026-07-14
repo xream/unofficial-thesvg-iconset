@@ -3418,6 +3418,11 @@
       "license": "MIT"
     },
     {
+      "name": "PixelOS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pixelos/default.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Pizza Hut",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pizza-hut/default.svg",
       "license": "Fair Use"

@@ -548,6 +548,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Wisetech Global",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/wisetech-global/wordmarkLight.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Wix",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/wix/wordmark-light.svg",
       "license": "CC0-1.0"
@@ -571,6 +576,11 @@
       "name": "Zen Browser",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zen-browser/wordmark-light.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Zoom (2025)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zoom-2025/wordmark-light.svg",
+      "license": "Trademark"
     }
   ]
 }

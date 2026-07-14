@@ -893,6 +893,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Wisetech Global",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/wisetech-global/light.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "WorkOS",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/workos/light.svg",
       "license": "MIT"

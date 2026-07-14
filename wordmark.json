@@ -483,6 +483,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Google Search Console",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/google-search-console/wordmark.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Grafana",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/grafana/wordmark.svg",
       "license": "CC0-1.0"
@@ -1428,6 +1433,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Wisetech Global",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/wisetech-global/wordmark.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Wix",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/wix/wordmark.svg",
       "license": "CC0-1.0"
@@ -1471,6 +1481,11 @@
       "name": "Zoho",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zoho/wordmark.svg",
       "license": "Trademark of Zoho Corporation. Used for identification under nominative fair use."
+    },
+    {
+      "name": "Zoom (2025)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zoom-2025/wordmark.svg",
+      "license": "Trademark"
     },
     {
       "name": "Zulip",

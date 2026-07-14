@@ -6563,6 +6563,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Google Search Console (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/google-search-console-legacy/mono.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Google Sheets",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/google-sheets/mono.svg",
       "license": "CC0-1.0"
@@ -18073,6 +18078,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Wisetech Global",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/wisetech-global/mono.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Wish",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/wish/mono.svg",
       "license": "CC0-1.0"
@@ -18676,11 +18686,6 @@
       "name": "Zoom",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zoom/mono.svg",
       "license": "CC0-1.0"
-    },
-    {
-      "name": "Zoom (2025)",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zoom-2025/mono.svg",
-      "license": "Trademark"
     },
     {
       "name": "Zorin",
