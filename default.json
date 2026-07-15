@@ -13,6 +13,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Abarth",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/abarth/default.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Acrobat Reader",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/acrobat-reader/default.svg",
       "license": "brand-use"
