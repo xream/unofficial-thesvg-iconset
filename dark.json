@@ -183,6 +183,11 @@
       "license": "MIT"
     },
     {
+      "name": "Edison",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/edison/dark.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Effect TS",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/effect-ts/dark.svg",
       "license": "MIT"

@@ -358,6 +358,11 @@
       "license": "MIT"
     },
     {
+      "name": "Edison",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/edison/wordmark.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Embeddedc",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/embeddedc/wordmark.svg",
       "license": "MIT"

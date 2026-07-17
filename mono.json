@@ -4643,6 +4643,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Edison",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/edison/mono.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "EditorConfig",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/editorconfig/mono.svg",
       "license": "CC0-1.0"

@@ -148,6 +148,11 @@
       "license": "MIT"
     },
     {
+      "name": "Edison",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/edison/wordmarkDark.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "ESLint",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/eslint/wordmark-dark.svg",
       "license": "CC0-1.0"
