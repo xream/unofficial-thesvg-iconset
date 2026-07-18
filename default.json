@@ -913,6 +913,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Composio",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/composio/default.svg",
+      "license": "Unlicense"
+    },
+    {
       "name": "Conceptboard",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/conceptboard/default.svg",
       "license": "Trademark"
@@ -2548,6 +2553,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Longbridge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/longbridge/default.svg",
+      "license": "Longbridge Brand Guidelines - non-commercial use only"
+    },
+    {
       "name": "Lottielab",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/lottielab/default.svg",
       "license": "MIT"
@@ -3111,6 +3121,11 @@
       "name": "NTT Docomo",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ntt-docomo/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "nubjs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nubjs/default.svg",
+      "license": "MIT"
     },
     {
       "name": "ÖBB",
@@ -4003,6 +4018,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Spei Logo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/spei-logo/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "SpiderMonkey",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/spidermonkey/default.svg",
       "license": "MPL-2.0"
@@ -4166,6 +4186,11 @@
       "name": "Tata Consultancy Services",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tata-consultancy-services/default.svg",
       "license": "Trademark"
+    },
+    {
+      "name": "TE Logo WhiteOrange",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/te-logo-whiteorange/default.svg",
+      "license": "Trademark of Cisco Systems, Inc. Used for identification under nominative fair use."
     },
     {
       "name": "Tech Mahindra",
@@ -4731,6 +4756,11 @@
       "name": "Zeroheight",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zeroheight/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "Zohomail",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zohomail/default.svg",
+      "license": "Trademark of Zoho Corporation. Used for identification under nominative fair use."
     },
     {
       "name": "Zot",
