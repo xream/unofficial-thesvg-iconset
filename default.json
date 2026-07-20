@@ -18,6 +18,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "AccountantOS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/accountantos/default.svg",
+      "license": "Used with permission of AccountantOS; unmodified redistribution authorized for brand identification and development use."
+    },
+    {
       "name": "Acrobat Reader",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/acrobat-reader/default.svg",
       "license": "brand-use"
@@ -2768,6 +2773,86 @@
       "license": "MIT"
     },
     {
+      "name": "Microsoft Dynamics 365",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-dynamics-365/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Dynamics 365 Business Central",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-dynamics-365-business-central/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Dynamics 365 Commerce",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-dynamics-365-commerce/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Dynamics 365 Contact Center",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-dynamics-365-contact-center/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Dynamics 365 Customer Insights",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-dynamics-365-customer-insights/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Dynamics 365 Customer Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-dynamics-365-customer-service/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Dynamics 365 Customer Voice",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-dynamics-365-customer-voice/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Dynamics 365 Field Service",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-dynamics-365-field-service/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Dynamics 365 Finance",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-dynamics-365-finance/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Dynamics 365 Finance and Operations",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-dynamics-365-finance-and-operations/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Dynamics 365 Human Resources",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-dynamics-365-human-resources/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Dynamics 365 Intelligent Order Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-dynamics-365-intelligent-order-management/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Dynamics 365 Project Operations",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-dynamics-365-project-operations/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Dynamics 365 Sales",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-dynamics-365-sales/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Dynamics 365 Sales Insights",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-dynamics-365-sales-insights/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Dynamics 365 Supply Chain Management",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-dynamics-365-supply-chain-management/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
       "name": "Microsoft Edge",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-edge/default.svg",
       "license": "brand-use"
@@ -2781,6 +2866,56 @@
       "name": "Microsoft Excel",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-excel/default.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Microsoft Fabric",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-fabric/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Fabric Data Engineering",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-fabric-data-engineering/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Fabric Data Factory",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-fabric-data-factory/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Fabric Data Science",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-fabric-data-science/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Fabric Data Warehouse",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-fabric-data-warehouse/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Fabric Databases",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-fabric-databases/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Fabric Graph Intelligence",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-fabric-graph-intelligence/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Fabric Industry Solutions",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-fabric-industry-solutions/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Fabric IQ",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-fabric-iq/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Fabric Real-Time Intelligence",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-fabric-real-time-intelligence/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
     },
     {
       "name": "Microsoft Loop",
@@ -2798,6 +2933,11 @@
       "license": "MIT"
     },
     {
+      "name": "Microsoft OneLake",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-onelake/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
       "name": "Microsoft OneNote",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-onenote/default.svg",
       "license": "MIT"
@@ -2813,9 +2953,19 @@
       "license": "Trademark"
     },
     {
+      "name": "Microsoft Power BI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-power-bi/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
       "name": "Microsoft PowerPoint",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-powerpoint/default.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Microsoft Purview",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-purview/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
     },
     {
       "name": "Microsoft SharePoint",
@@ -2836,6 +2986,46 @@
       "name": "Microsoft Todo",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-todo/default.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Microsoft Viva",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-viva/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Viva Amplify",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-viva-amplify/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Viva Connections",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-viva-connections/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Viva Engage",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-viva-engage/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Viva Glint",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-viva-glint/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Viva Insights",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-viva-insights/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Viva Learning",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-viva-learning/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
+    },
+    {
+      "name": "Microsoft Viva Pulse",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft-viva-pulse/default.svg",
+      "license": "Microsoft proprietary product icon; no express redistribution license supplied; maintainer review required"
     },
     {
       "name": "Microsoft Windows",
