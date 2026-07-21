@@ -913,6 +913,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Yapi Kredi",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/yapi-kredi/dark.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Zeabur",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zeabur/dark.svg",
       "license": "MIT"
