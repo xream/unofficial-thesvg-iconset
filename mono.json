@@ -10893,6 +10893,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Nextera Energy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nextera-energy/mono.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Nextflow",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nextflow/mono.svg",
       "license": "CC0-1.0"
@@ -13398,6 +13403,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Ralph Lauren",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ralph-lauren/mono.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Ram",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ram/mono.svg",
       "license": "CC0-1.0"
@@ -15891,6 +15901,11 @@
       "name": "tado°",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tado/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Tahcia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tahcia/mono.svg",
+      "license": "Apache-2.0"
     },
     {
       "name": "Taichi Graphics",

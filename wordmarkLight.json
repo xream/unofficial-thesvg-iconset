@@ -328,6 +328,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Nextera Energy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nextera-energy/wordmark-light.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Nordea",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nordea/wordmarkLight.svg",
       "license": "Unknown"
@@ -396,6 +401,11 @@
       "name": "Qdrant",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/qdrant/wordmark-light.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Ralph Lauren",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ralph-lauren/wordmarkLight.svg",
+      "license": "Unknown"
     },
     {
       "name": "Raycast",

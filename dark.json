@@ -13,6 +13,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "AccountantOS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/accountantos/dark.svg",
+      "license": "Used with permission of AccountantOS; unmodified redistribution authorized for brand identification and development use."
+    },
+    {
       "name": "Aero",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aero/dark.svg",
       "license": "Fair Use"
@@ -483,6 +488,11 @@
       "license": "Unknown"
     },
     {
+      "name": "Nextera Energy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nextera-energy/dark.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "ngrok",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ngrok/dark.svg",
       "license": "CC0-1.0"
@@ -628,6 +638,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Ralph Lauren",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ralph-lauren/dark.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "React",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/react/dark.svg",
       "license": "CC0-1.0"
@@ -726,6 +741,11 @@
       "name": "T3 Stack",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/t3-stack/dark.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Tahcia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tahcia/dark.svg",
+      "license": "Apache-2.0"
     },
     {
       "name": "Tembo",

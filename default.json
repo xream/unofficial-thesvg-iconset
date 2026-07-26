@@ -18,11 +18,6 @@
       "license": "CC0-1.0"
     },
     {
-      "name": "AccountantOS",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/accountantos/default.svg",
-      "license": "Used with permission of AccountantOS; unmodified redistribution authorized for brand identification and development use."
-    },
-    {
       "name": "Acrobat Reader",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/acrobat-reader/default.svg",
       "license": "brand-use"
@@ -953,6 +948,11 @@
       "license": "Apache-2.0"
     },
     {
+      "name": "Contra",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/contra/default.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Converse",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/converse/default.svg",
       "license": "CC0-1.0"
@@ -1366,6 +1366,11 @@
       "name": "Experience Platform",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/experience-platform/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "fabbo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fabbo/default.svg",
+      "license": "MIT"
     },
     {
       "name": "Fabric",
@@ -3993,6 +3998,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Runna",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/runna/default.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "RunPod",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/runpod/default.svg",
       "license": "Trademark"
@@ -4061,6 +4071,11 @@
       "name": "Scale AI",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/scale/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "Screpy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/screpy/default.svg",
+      "license": "MIT"
     },
     {
       "name": "Scribd",

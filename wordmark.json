@@ -283,6 +283,11 @@
       "license": "MIT"
     },
     {
+      "name": "Dis-chem Pharmacies",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dis-chem-pharmacies/wordmark.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Discloud",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/discloud/wordmark.svg",
       "license": "MIT"
@@ -863,6 +868,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Nextera Energy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nextera-energy/wordmark.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Next.js",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nextjs/wordmark.svg",
       "license": "brand-use"
@@ -1061,6 +1071,11 @@
       "name": "RabbitMQ",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rabbitmq/wordmark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Ralph Lauren",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ralph-lauren/wordmark.svg",
+      "license": "Unknown"
     },
     {
       "name": "Raycast",

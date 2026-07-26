@@ -478,6 +478,11 @@
       "license": "Unknown"
     },
     {
+      "name": "Nextera Energy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nextera-energy/light.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "ngrok",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ngrok/light.svg",
       "license": "CC0-1.0"
@@ -638,6 +643,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Ralph Lauren",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ralph-lauren/light.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "React",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/react/light.svg",
       "license": "CC0-1.0"
@@ -746,6 +756,11 @@
       "name": "T3 Stack",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/t3-stack/light.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Tahcia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tahcia/light.svg",
+      "license": "Apache-2.0"
     },
     {
       "name": "Tembo",
