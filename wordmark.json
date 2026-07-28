@@ -1408,6 +1408,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Visernic",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/visernic/wordmark.svg",
+      "license": "CC-BY-4.0"
+    },
+    {
       "name": "Vite",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/vite/wordmark.svg",
       "license": "CC0-1.0"

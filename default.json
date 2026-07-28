@@ -563,6 +563,11 @@
       "license": "brand-use"
     },
     {
+      "name": "BTK",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/btk/default.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Bugsnag",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/bugsnag/default.svg",
       "license": "brand-use"
@@ -3186,6 +3191,11 @@
       "name": "NAB",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nab/default.svg",
       "license": "Fair Use"
+    },
+    {
+      "name": "Nagios",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nagios/default.svg",
+      "license": "MIT"
     },
     {
       "name": "Nanonets",
