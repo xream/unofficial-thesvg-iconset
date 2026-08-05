@@ -98,9 +98,19 @@
       "license": "MIT"
     },
     {
+      "name": "Air Algérie",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/air-algerie/default.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Apache Airflow",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/airflow/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "aizome",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aizome/default.svg",
+      "license": "CC0-1.0"
     },
     {
       "name": "Akuity",
@@ -1393,6 +1403,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Fastwork",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fastwork/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Feast",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/feast/default.svg",
       "license": "Apache-2.0"
@@ -1586,6 +1601,11 @@
       "name": "Gitness",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gitness/default.svg",
       "license": "Apache-2.0"
+    },
+    {
+      "name": "Glaxnimate",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glaxnimate/default.svg",
+      "license": "GPL-3.0"
     },
     {
       "name": "Globo",
@@ -3533,6 +3553,11 @@
       "license": "MIT"
     },
     {
+      "name": "Parseable",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/parseable/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Passport.js",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/passport-js/default.svg",
       "license": "MIT"
@@ -3886,6 +3911,11 @@
       "name": "Razee",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/razee/default.svg",
       "license": "Apache-2.0"
+    },
+    {
+      "name": "RCUI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rcui/default.svg",
+      "license": "Unknown"
     },
     {
       "name": "React Aria",

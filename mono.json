@@ -143,6 +143,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "ABN AMRO",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/abn-amro/mono.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "about.me",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aboutdotme/mono.svg",
       "license": "CC0-1.0"
@@ -3761,6 +3766,11 @@
       "name": "DAF",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/daf/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Dai-ichi Life Holdings",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dai-ichi-life-holdings/mono.svg",
+      "license": "Unknown"
     },
     {
       "name": "daily.dev",
@@ -17056,6 +17066,11 @@
       "name": "Undertale",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/undertale/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Unicharm",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/unicharm/mono.svg",
+      "license": "Unknown"
     },
     {
       "name": "Unicode",

@@ -18,6 +18,11 @@
       "license": "MIT"
     },
     {
+      "name": "ABN AMRO",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/abn-amro/wordmark.svg",
+      "license": "Unknown"
+    },
+    {
       "name": "Aero",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aero/wordmark.svg",
       "license": "Fair Use"
@@ -236,6 +241,11 @@
       "name": "Cursor",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cursor/wordmark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Dai-ichi Life Holdings",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dai-ichi-life-holdings/wordmark.svg",
+      "license": "Unknown"
     },
     {
       "name": "Dassault Aviation",
@@ -466,6 +476,11 @@
       "name": "GLINCKER",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glincker/wordmark.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Global Power Synergy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/global-power-synergy/wordmark.svg",
+      "license": "Unknown"
     },
     {
       "name": "Godot",
@@ -1381,6 +1396,11 @@
       "name": "UBS Etracs",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ubs-etracs/wordmark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Unicharm",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/unicharm/wordmark.svg",
+      "license": "Unknown"
     },
     {
       "name": "UpLeveled",
