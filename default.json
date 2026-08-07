@@ -248,6 +248,11 @@
       "license": "MIT"
     },
     {
+      "name": "Armonika",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/armonika/default.svg",
+      "license": "CC-BY-4.0"
+    },
+    {
       "name": "Armory",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/armory/default.svg",
       "license": "brand-use"
