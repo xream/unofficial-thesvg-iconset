@@ -413,6 +413,11 @@
       "license": "MIT"
     },
     {
+      "name": "Basilisk",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/basilisk/default.svg",
+      "license": "MPL-2.0"
+    },
+    {
       "name": "Bayer",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/bayer/default.svg",
       "license": "CC0-1.0"
@@ -551,6 +556,11 @@
       "name": "Brave Browser",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/brave-browser/default.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Brave Origin",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/brave-origin/default.svg",
+      "license": "MPL-2.0"
     },
     {
       "name": "Bravo",
@@ -3478,6 +3488,11 @@
       "license": "Fair Use"
     },
     {
+      "name": "optionOS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/optionos/default.svg",
+      "license": "Used with permission of optionOS; unmodified redistribution authorized for brand identification and development use"
+    },
+    {
       "name": "Oracle",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/oracle/default.svg",
       "license": "Fair Use"
@@ -3635,6 +3650,11 @@
     {
       "name": "PHPStan",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/phpstan/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Pi",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pi/default.svg",
       "license": "MIT"
     },
     {
@@ -4473,6 +4493,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Termux",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/termux/default.svg",
+      "license": "GPL-3.0"
+    },
+    {
       "name": "Terragrunt",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/terragrunt/default.svg",
       "license": "MIT"
@@ -4531,6 +4556,11 @@
       "name": "Tinkerbell",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tinkerbell/default.svg",
       "license": "Apache-2.0"
+    },
+    {
+      "name": "Titanium",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/titanium/default.svg",
+      "license": "GPL-2.0"
     },
     {
       "name": "Titaniumsdk",
@@ -4796,6 +4826,11 @@
       "name": "Warner Bros.",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/warner-bros/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Waterfox",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/waterfox/default.svg",
+      "license": "MPL-2.0"
     },
     {
       "name": "HashiCorp Waypoint",
