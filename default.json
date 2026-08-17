@@ -2413,6 +2413,11 @@
       "license": "brand-use"
     },
     {
+      "name": "KnowBe4",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/knowbe4/default.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "kOps",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kops/default.svg",
       "license": "Apache-2.0"
@@ -4001,6 +4006,11 @@
       "name": "Riot.js",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/riot/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "Rippling",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rippling/default.svg",
+      "license": "Trademark"
     },
     {
       "name": "RisingWave",
