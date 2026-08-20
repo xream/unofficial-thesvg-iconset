@@ -573,6 +573,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Brevitas",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/brevitas/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Bridge",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/bridge/default.svg",
       "license": "brand-use"
@@ -4208,6 +4213,11 @@
       "license": "MIT"
     },
     {
+      "name": "Sive",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sive/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "SK Hynix",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sk-hynix/default.svg",
       "license": "CC0-1.0"
@@ -4851,6 +4861,11 @@
       "name": "Wear OS",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/wearos/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "Weavefox",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/weavefox/default.svg",
+      "license": "Apache-2.0"
     },
     {
       "name": "Weaviate",
