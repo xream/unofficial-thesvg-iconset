@@ -11768,6 +11768,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Orildo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/orildo/mono.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Ory",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ory/mono.svg",
       "license": "CC0-1.0"
@@ -18746,6 +18751,11 @@
       "name": "Zulip",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zulip/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Zero",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zero/mono.svg",
+      "license": "MIT"
     },
     {
       "name": "Zyte",
