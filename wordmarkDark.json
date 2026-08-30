@@ -373,6 +373,11 @@
       "license": "MIT"
     },
     {
+      "name": "Orildo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/orildo/wordmark-dark.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Paper",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/paper/wordmark-dark.svg",
       "license": "MIT"
@@ -621,6 +626,11 @@
       "name": "Zoom (2025)",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zoom-2025/wordmark-dark.svg",
       "license": "Trademark"
+    },
+    {
+      "name": "Zero",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zero/wordmark-dark.svg",
+      "license": "MIT"
     }
   ]
 }
