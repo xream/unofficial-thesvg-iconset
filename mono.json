@@ -12998,6 +12998,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Prusa Research",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/prusa-research/mono.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Pterodactyl",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pterodactyl/mono.svg",
       "license": "CC0-1.0"
@@ -18636,6 +18641,11 @@
       "name": "Zensar",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zensar/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Zero",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zero/mono.svg",
+      "license": "MIT"
     },
     {
       "name": "Zerodha",

@@ -2523,6 +2523,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "lifesight",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/lifesight-light/default.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Lightroom",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/lightroom/default.svg",
       "license": "MIT"

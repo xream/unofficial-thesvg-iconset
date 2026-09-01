@@ -618,6 +618,11 @@
       "license": "MIT"
     },
     {
+      "name": "Prusa Research",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/prusa-research/light.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Qdrant",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/qdrant/light.svg",
       "license": "MIT"
