@@ -618,6 +618,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Zero",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zero/wordmark-dark.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Zoho",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zoho/wordmarkDark.svg",
       "license": "Trademark of Zoho Corporation. Used for identification under nominative fair use."
@@ -626,11 +631,6 @@
       "name": "Zoom (2025)",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zoom-2025/wordmark-dark.svg",
       "license": "Trademark"
-    },
-    {
-      "name": "Zero",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zero/wordmark-dark.svg",
-      "license": "MIT"
     }
   ]
 }

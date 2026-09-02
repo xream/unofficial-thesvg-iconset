@@ -1418,6 +1418,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Farmsent",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/farmsent/default.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Fastwork",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fastwork/default.svg",
       "license": "MIT"
@@ -2733,6 +2738,11 @@
       "license": "brand-use"
     },
     {
+      "name": "MeetAndy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/meetandy/default.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Mercedes-Benz",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mercedes-benz/default.svg",
       "license": "Fair Use"
@@ -4013,6 +4023,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Rilian",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rilian/default.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Riot.js",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/riot/default.svg",
       "license": "brand-use"
@@ -5050,6 +5065,11 @@
     {
       "name": "Zaia Endless",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zaia-endless/default.svg",
+      "license": "brand-use"
+    },
+    {
+      "name": "Zapal",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/zapal/default.svg",
       "license": "brand-use"
     },
     {
