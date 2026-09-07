@@ -343,6 +343,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Avenping",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/avenping/default.svg",
+      "license": "Trademark of AvenPing. Used for identification under nominative fair use."
+    },
+    {
       "name": "Aviva",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aviva/default.svg",
       "license": "CC0-1.0"
@@ -506,6 +511,11 @@
       "name": "Biomejs",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/biomejs/default.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Blips",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/blips/default.svg",
+      "license": "Trademark of Blips. Used for identification under nominative fair use."
     },
     {
       "name": "Blitz",
@@ -1493,6 +1503,11 @@
       "license": "MIT"
     },
     {
+      "name": "FlowNib",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flownib/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Fluvio",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fluvio/default.svg",
       "license": "Apache-2.0"
@@ -1616,6 +1631,11 @@
       "name": "GenStory",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/genstory/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "Get Glass Distribution",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/get-glass-distribution/default.svg",
+      "license": "Trademark of Get Glass Distribution. Used for identification under nominative fair use."
     },
     {
       "name": "Gitness",
@@ -1978,6 +1998,11 @@
       "license": "MIT"
     },
     {
+      "name": "IC Glass",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ic-glass/default.svg",
+      "license": "Trademark of IC Glass. Used for identification under nominative fair use."
+    },
+    {
       "name": "Ie10",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ie10/default.svg",
       "license": "MIT"
@@ -2071,6 +2096,11 @@
       "name": "Itaú",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/itau/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Ivy Framework",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ivy-framework/default.svg",
+      "license": "Apache-2.0"
     },
     {
       "name": "Jaguar",
@@ -4198,6 +4228,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "SEONIB",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/seonib/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Session Buddy",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/session-buddy/default.svg",
       "license": "MIT"
@@ -4766,6 +4801,11 @@
       "name": "Velero",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/velero/default.svg",
       "license": "Apache-2.0"
+    },
+    {
+      "name": "Veonib",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/veonib/default.svg",
+      "license": "MIT"
     },
     {
       "name": "Vercel Blob",
