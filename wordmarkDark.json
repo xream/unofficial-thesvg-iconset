@@ -78,6 +78,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Chunk",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/chunk/wordmarkDark.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Claude AI",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/claude-ai/wordmark-dark.svg",
       "license": "MIT"

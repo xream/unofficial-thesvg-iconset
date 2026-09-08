@@ -2783,6 +2783,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Chunk",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/chunk/mono.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Chupa Chups",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/chupa-chups/mono.svg",
       "license": "CC0-1.0"

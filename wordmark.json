@@ -173,6 +173,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Chunk",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/chunk/wordmark.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Clarity",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/clarity/wordmark.svg",
       "license": "MIT"

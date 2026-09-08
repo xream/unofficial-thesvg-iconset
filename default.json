@@ -198,6 +198,11 @@
       "license": "Apache-2.0"
     },
     {
+      "name": "Apache ZooKeeper",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/apache-zookeeper/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
       "name": "Apex",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/apex/default.svg",
       "license": "MIT"
@@ -1218,6 +1223,11 @@
       "license": "Fair Use"
     },
     {
+      "name": "Dokploy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dokploy/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
       "name": "Dolt",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dolt/default.svg",
       "license": "brand-use"
@@ -1308,6 +1318,11 @@
       "license": "brand-use"
     },
     {
+      "name": "El Corte Inglés",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/el-corte-ingles/default.svg",
+      "license": "Trademark of El Corte Inglés, S.A. Used for identification under nominative fair use."
+    },
+    {
       "name": "Electronic Arts",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/electronic-arts/default.svg",
       "license": "CC0-1.0"
@@ -1391,6 +1406,11 @@
       "name": "Eventbrite",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/eventbrite/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "Evidence",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/evidence-dev/default.svg",
+      "license": "MIT"
     },
     {
       "name": "evoto",
@@ -1631,6 +1651,11 @@
       "name": "GenStory",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/genstory/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "GeoGebra",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/geogebra/default.svg",
+      "license": "Trademark of International GeoGebra Institute. Used for identification under nominative fair use."
     },
     {
       "name": "Get Glass Distribution",
@@ -1976,6 +2001,11 @@
       "name": "HoundCI",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/houndci/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "howler.js",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/howlerjs/default.svg",
+      "license": "MIT"
     },
     {
       "name": "HTTP Dynamic Streaming",
@@ -2771,6 +2801,11 @@
       "name": "MeetAndy",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/meetandy/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Mercadona",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mercadona/default.svg",
+      "license": "Trademark of Mercadona, S.A. Used for identification under nominative fair use."
     },
     {
       "name": "Mercedes-Benz",
@@ -5031,6 +5066,11 @@
       "name": "World Bank",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/world-bank/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "WOY Marketplace",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/woy-marketplace/default.svg",
+      "license": "CC-BY-4.0"
     },
     {
       "name": "xAI",

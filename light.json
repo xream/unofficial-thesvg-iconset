@@ -118,6 +118,16 @@
       "license": "Fair Use"
     },
     {
+      "name": "Chunk",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/chunk/light.svg",
+      "license": "Trademark"
+    },
+    {
+      "name": "CircleCI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/circleci/light.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Cisco",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cisco/light.svg",
       "license": "CC0-1.0"
