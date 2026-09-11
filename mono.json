@@ -6298,6 +6298,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "GoDonate.me",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/godonateme/mono.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Godot",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/godot/mono.svg",
       "license": "MIT"
@@ -10226,6 +10231,11 @@
       "name": "Minutemailer",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/minutemailer/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Mir",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mir/mono.svg",
+      "license": "brand-use"
     },
     {
       "name": "Miraheze",

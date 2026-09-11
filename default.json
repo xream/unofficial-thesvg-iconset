@@ -988,6 +988,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Constant Contact",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/constant-contact/default.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Contensis",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/contensis/default.svg",
       "license": "Proprietary"
@@ -1473,6 +1478,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Fennec",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fennec/default.svg",
+      "license": "MPL-2.0"
+    },
+    {
       "name": "Fiber",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fiber/default.svg",
       "license": "MIT"
@@ -1600,6 +1610,11 @@
     {
       "name": "Friym",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/friym/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Frnkln Technologies",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/frnkln-technologies/default.svg",
       "license": "MIT"
     },
     {
@@ -3811,6 +3826,11 @@
       "name": "Pluto TV",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pluto-tv/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "PlutoTV",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/plutotv/default.svg",
+      "license": "Unlicense"
     },
     {
       "name": "PocketBase",

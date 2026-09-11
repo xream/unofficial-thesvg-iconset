@@ -288,6 +288,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "GoDonate.me",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/godonateme/dark.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Goil",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/goil/dark.svg",
       "license": "MIT"
@@ -451,6 +456,11 @@
       "name": "Milanote",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/milanote/dark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Mir",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mir/dark.svg",
+      "license": "brand-use"
     },
     {
       "name": "Miro",
