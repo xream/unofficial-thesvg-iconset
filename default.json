@@ -118,6 +118,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Adobe Creative Cloud",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/adobe-creative-cloud/default.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Adobe Fonts",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/adobe-fonts/default.svg",
       "license": "brand-use"
@@ -4878,6 +4883,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Mango",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mango/default.svg",
+      "license": "Unofficial SVG based on official PNG, project licensed under GPL-3.0-or-later"
+    },
+    {
       "name": "Manifest",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/manifest/default.svg",
       "license": "MIT"
@@ -8793,6 +8803,11 @@
       "license": "BSD-3-Clause"
     },
     {
+      "name": "Vanadium",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/vanadium/default.svg",
+      "license": "GPL-2.0"
+    },
+    {
       "name": "Vapi",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/vapi/default.svg",
       "license": "Trademark"
@@ -9341,6 +9356,16 @@
       "name": "XWiki",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/xwiki/default.svg",
       "license": "LGPL-2.1"
+    },
+    {
+      "name": "Xyzam Badge Black",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/xyzam-badge-black/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Xyzam Badge White",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/xyzam-badge-white/default.svg",
+      "license": "MIT"
     },
     {
       "name": "Yahoo",
