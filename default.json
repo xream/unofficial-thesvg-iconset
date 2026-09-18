@@ -3063,6 +3063,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "GlobalCodio",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/globalcodio/default.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Globo",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/globo-tv/default.svg",
       "license": "CC0-1.0"
@@ -5046,6 +5051,11 @@
       "name": "Mercor",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mercor/default.svg",
       "license": "Trademark"
+    },
+    {
+      "name": "Merry AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/merry-ai/default.svg",
+      "license": "Unlicense"
     },
     {
       "name": "Meshery",
@@ -9126,6 +9136,11 @@
       "name": "Wero",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/wero/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Western Digital",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/western-digital/default.svg",
+      "license": "Unlicense"
     },
     {
       "name": "Westpac",

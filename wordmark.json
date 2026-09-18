@@ -1253,6 +1253,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Stripe Link",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/stripe-link/wordmark.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Sulu",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sulu/wordmark.svg",
       "license": "MIT"

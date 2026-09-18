@@ -103,6 +103,11 @@
       "license": "MIT"
     },
     {
+      "name": "Bridex",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/bridex/light.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Cal.com",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/caldotcom/light.svg",
       "license": "CC0-1.0"
