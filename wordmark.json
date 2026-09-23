@@ -528,6 +528,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Gram",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gram/wordmark.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "GraphQL",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/graphql/wordmark.svg",
       "license": "CC0-1.0"
@@ -976,6 +981,11 @@
       "name": "Oblio",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/oblio/wordmark.svg",
       "license": "Trademark"
+    },
+    {
+      "name": "Okta",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/okta/wordmark.svg",
+      "license": "CC0-1.0"
     },
     {
       "name": "Onex",

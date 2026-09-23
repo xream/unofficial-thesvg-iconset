@@ -208,6 +208,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Gram",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gram/wordmarkDark.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Grok",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/grok/wordmark-dark.svg",
       "license": "MIT"
@@ -370,6 +375,11 @@
     {
       "name": "NVIDIA",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nvidia/wordmark-dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Okta",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/okta/wordmarkDark.svg",
       "license": "CC0-1.0"
     },
     {

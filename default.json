@@ -2088,6 +2088,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Digitus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/digitus/default.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Dingocoin",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dingocoin/default.svg",
       "license": "MIT"
@@ -6016,6 +6021,11 @@
       "name": "Novartis",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/novartis/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Nowly",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nowly/default.svg",
+      "license": "MIT"
     },
     {
       "name": "NPM",

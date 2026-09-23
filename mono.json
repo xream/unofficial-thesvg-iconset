@@ -11043,6 +11043,11 @@
       "license": "CC-BY-NC-4.0"
     },
     {
+      "name": "Nødebo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nodebo/mono.svg",
+      "license": "CC-BY-ND-4.0"
+    },
+    {
       "name": "Node.js",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nodedotjs/mono.svg",
       "license": "CC0-1.0"
@@ -11410,6 +11415,11 @@
     {
       "name": "Okta",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/okta/mono.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Okta (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/okta-legacy/mono.svg",
       "license": "CC0-1.0"
     },
     {
