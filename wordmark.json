@@ -573,6 +573,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Honda",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/honda/wordmark.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Honeycomb",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/honeycomb/wordmark.svg",
       "license": "Fair Use"

@@ -523,6 +523,11 @@
       "license": "Unknown"
     },
     {
+      "name": "Nowly",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nowly/dark.svg",
+      "license": "MIT"
+    },
+    {
       "name": "nuqs",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nuqs/dark.svg",
       "license": "MIT"

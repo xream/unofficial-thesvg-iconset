@@ -1943,6 +1943,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Dawarich",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dawarich/default.svg",
+      "license": "AGPL-3.0"
+    },
+    {
       "name": "dbt",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dbt/default.svg",
       "license": "brand-use"
@@ -6021,11 +6026,6 @@
       "name": "Novartis",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/novartis/default.svg",
       "license": "CC0-1.0"
-    },
-    {
-      "name": "Nowly",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nowly/default.svg",
-      "license": "MIT"
     },
     {
       "name": "NPM",
