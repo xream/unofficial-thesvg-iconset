@@ -8388,6 +8388,11 @@
       "license": "Apache-2.0"
     },
     {
+      "name": "Tintas Vital",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tintas-vital/default.svg",
+      "license": "CC-BY-ND-4.0"
+    },
+    {
       "name": "Tiny Tiny RSS",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tiny-tiny-rss-badge/default.svg",
       "license": "CC0-1.0"

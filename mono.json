@@ -9038,6 +9038,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Levelrail",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/levelrail/mono.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "levels.fyi",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/levelsdotfyi/mono.svg",
       "license": "CC0-1.0"
@@ -10166,6 +10171,11 @@
       "name": "miHoYo",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mihoyo/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Mike Murphy AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mikemurphyai/mono.svg",
+      "license": "MIT"
     },
     {
       "name": "MikroTik",
