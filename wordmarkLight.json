@@ -263,6 +263,11 @@
       "license": "Fair Use"
     },
     {
+      "name": "Mastra",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mastra/wordmark-light.svg",
+      "license": "MIT"
+    },
+    {
       "name": "MediaWiki",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mediawiki/wordmark-light.svg",
       "license": "MIT"

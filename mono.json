@@ -9798,6 +9798,11 @@
       "license": "MIT"
     },
     {
+      "name": "Mastra (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mastra-legacy/mono.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Material Design",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/material-design/mono.svg",
       "license": "CC0-1.0"

@@ -283,6 +283,11 @@
       "license": "MIT"
     },
     {
+      "name": "Mastra",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mastra/wordmark-dark.svg",
+      "license": "MIT"
+    },
+    {
       "name": "MediaWiki",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mediawiki/wordmark-dark.svg",
       "license": "MIT"

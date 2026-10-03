@@ -753,6 +753,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Mastra",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mastra/wordmark.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Matplotlib",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/matplotlib/wordmark.svg",
       "license": "MIT"

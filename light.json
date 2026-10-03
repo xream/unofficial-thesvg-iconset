@@ -413,6 +413,11 @@
       "license": "Fair Use"
     },
     {
+      "name": "Mastra",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mastra/light.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Matrix",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/matrix/light.svg",
       "license": "CC0-1.0"
