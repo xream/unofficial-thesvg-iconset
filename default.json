@@ -263,6 +263,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Alteryx",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/alteryx/default.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Amazon",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/amazon/default.svg",
       "license": "Fair use"
@@ -2318,6 +2323,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Easypanel",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/easypanel/default.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "eBay",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ebay-badge/default.svg",
       "license": "CC0-1.0"
@@ -2351,6 +2361,11 @@
       "name": "EdgeDB",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/edgedb/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "Egger & Co",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/eggerco/default.svg",
+      "license": "Trademark"
     },
     {
       "name": "El Corte Inglés",
@@ -2746,6 +2761,11 @@
       "name": "Cloud Firestore",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/firestore/default.svg",
       "license": "Custom"
+    },
+    {
+      "name": "Fivetran",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fivetran/default.svg",
+      "license": "Trademark"
     },
     {
       "name": "Flagger",
