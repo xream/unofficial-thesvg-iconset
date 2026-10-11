@@ -508,6 +508,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "theAuth",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/theauth/wordmark-light.svg",
+      "license": "Fair Use"
+    },
+    {
       "name": "TIDAL",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tidal/wordmark-light.svg",
       "license": "CC0-1.0"

@@ -538,6 +538,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "theAuth",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/theauth/wordmark-dark.svg",
+      "license": "Fair Use"
+    },
+    {
       "name": "theSVG",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/thesvg/wordmark-dark.svg",
       "license": "MIT"
