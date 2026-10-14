@@ -208,6 +208,11 @@
       "license": "MIT"
     },
     {
+      "name": "Earmark",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/earmark/light.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Edison",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/edison/light.svg",
       "license": "Unknown"
