@@ -8,6 +8,11 @@
   "trademarkNotice": "Icon names, logos, and trademarks are property of their respective owners. This iconset is not affiliated with, endorsed by, or sponsored by those owners.",
   "icons": [
     {
+      "name": "Activepieces",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/activepieces/wordmarkDark.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Aero",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aero/wordmark-dark.svg",
       "license": "Fair Use"
@@ -28,9 +33,19 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "AnythingLLM",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/anythingllm/wordmarkDark.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Apache Kafka",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/apache-kafka/wordmark-dark.svg",
       "license": "Apache-2.0"
+    },
+    {
+      "name": "AppFlowy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/appflowy/wordmarkDark.svg",
+      "license": "AGPL-3.0"
     },
     {
       "name": "Apple Music",
@@ -68,9 +83,24 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Buildpacks",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/buildpacks/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
+      "name": "Bytebase",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/bytebase/wordmarkDark.svg",
+      "license": "Trademark of Bytebase. Used for identification under nominative fair use."
+    },
+    {
       "name": "Canva",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/canva/wordmark-dark.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Chaos Mesh",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/chaos-mesh/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
     },
     {
       "name": "Chase",
@@ -93,14 +123,39 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "CloudEvents",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cloudevents/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
+      "name": "Cloudreve",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cloudreve/wordmarkDark.svg",
+      "license": "GPL-3.0"
+    },
+    {
       "name": "Coinbase",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/coinbase/wordmark-dark.svg",
       "license": "CC0-1.0"
     },
     {
+      "name": "Contour",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/contour/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "Convex",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/convex/wordmark-dark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "CoreDNS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/coredns/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
+      "name": "CRI-O",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cri-o/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
     },
     {
       "name": "CurseForge",
@@ -158,9 +213,19 @@
       "license": "Unknown"
     },
     {
+      "name": "Emissary-Ingress",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/emissary-ingress/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "ESLint",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/eslint/wordmark-dark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "EspoCRM",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/espocrm/wordmarkDark.svg",
+      "license": "AGPL-3.0"
     },
     {
       "name": "Firecrawl",
@@ -168,9 +233,19 @@
       "license": "MIT"
     },
     {
+      "name": "Flarum",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flarum/wordmarkDark.svg",
+      "license": "Trademark of Flarum Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "Flask",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flask/wordmark-dark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Flowise",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flowise/wordmarkDark.svg",
+      "license": "Apache-2.0"
     },
     {
       "name": "Formance",
@@ -188,6 +263,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Glances",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glances/wordmarkDark.svg",
+      "license": "LGPL-3.0"
+    },
+    {
       "name": "Glide",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glide/wordmark-dark.svg",
       "license": "CC0-1.0"
@@ -195,6 +275,16 @@
     {
       "name": "GLINCKER",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glincker/wordmark-dark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "GLPI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glpi/wordmarkDark.svg",
+      "license": "GPL-3.0"
+    },
+    {
+      "name": "Gogs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gogs/wordmarkDark.svg",
       "license": "MIT"
     },
     {
@@ -233,6 +323,16 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "in-toto",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/in-toto/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
+      "name": "Infisical",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/infisical/wordmarkDark.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Inflection AI",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/inflection-ai/wordmark-dark.svg",
       "license": "MIT"
@@ -241,6 +341,21 @@
       "name": "Intello",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/intello/wordmark-dark.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Karmada",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/karmada/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
+      "name": "KEDA",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/keda/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
+      "name": "Kestra",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kestra/wordmarkDark.svg",
+      "license": "Trademark of Kestra Technologies. Used for identification under nominative fair use."
     },
     {
       "name": "Kimi",
@@ -253,6 +368,26 @@
       "license": "Fair Use"
     },
     {
+      "name": "KubeEdge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kubeedge/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
+      "name": "Kubescape",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kubescape/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
+      "name": "KubeVela",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kubevela/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
+      "name": "Label Studio",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/label-studio/wordmarkDark.svg",
+      "license": "Apache-2.0"
+    },
+    {
       "name": "LangChain",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/langchain/wordmark-dark.svg",
       "license": "CC0-1.0"
@@ -261,6 +396,11 @@
       "name": "Leap Wallet",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/leap-wallet/wordmark-dark.svg",
       "license": "MIT"
+    },
+    {
+      "name": "LibreSpeed",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/librespeed/wordmarkDark.svg",
+      "license": "LGPL-3.0"
     },
     {
       "name": "Link",
@@ -276,6 +416,11 @@
       "name": "Lume",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/lume/wordmark-dark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Mage",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mage-ai/wordmarkDark.svg",
+      "license": "Apache-2.0"
     },
     {
       "name": "Manus",
@@ -311,6 +456,11 @@
       "name": "Model Context Protocol",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/model-context-protocol/wordmark-dark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Mojo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mojo/wordmarkDark.svg",
+      "license": "Trademark of Modular Inc.. Used for identification under nominative fair use."
     },
     {
       "name": "Mondelez International",
@@ -358,9 +508,19 @@
       "license": "Unknown"
     },
     {
+      "name": "NocoBase",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nocobase/wordmarkDark.svg",
+      "license": "Trademark of NocoBase Pte. Ltd.. Used for identification under nominative fair use."
+    },
+    {
       "name": "Nordea",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nordea/wordmarkDark.svg",
       "license": "Unknown"
+    },
+    {
+      "name": "Notary Project",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/notary-project/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
     },
     {
       "name": "nuqs",
@@ -388,9 +548,29 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Open Policy Agent",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/open-policy-agent/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "OpenAI",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openai/wordmark-dark.svg",
       "license": "MIT"
+    },
+    {
+      "name": "OpenCost",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/opencost/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
+      "name": "OpenFeature",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openfeature/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
+      "name": "OpenFGA",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openfga/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
     },
     {
       "name": "Orildo",
@@ -418,6 +598,16 @@
       "license": "MIT"
     },
     {
+      "name": "Phantom",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/phantom/wordmarkDark.svg",
+      "license": "Trademark of Phantom Technologies, Inc.. Used for identification under nominative fair use."
+    },
+    {
+      "name": "PhotoPrism",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/photoprism/wordmarkDark.svg",
+      "license": "Trademark of PhotoPrism UG. Used for identification under nominative fair use."
+    },
+    {
       "name": "pnpm",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pnpm/wordmark-dark.svg",
       "license": "CC0-1.0"
@@ -441,6 +631,11 @@
       "name": "Qdrant",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/qdrant/wordmark-dark.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Rallly",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rallly/wordmarkDark.svg",
+      "license": "AGPL-3.0"
     },
     {
       "name": "Ralph Lauren",
@@ -508,6 +703,16 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "SPIFFE",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/spiffe/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
+      "name": "Strimzi",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/strimzi/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "Suno",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/suno/wordmark-dark.svg",
       "license": "CC0-1.0"
@@ -521,6 +726,16 @@
       "name": "Tailwind CSS",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tailwind-css/wordmark-dark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Tandoor Recipes",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tandoor-recipes/wordmarkDark.svg",
+      "license": "Trademark of Tandoor Recipes. Used for identification under nominative fair use."
+    },
+    {
+      "name": "Tautulli",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tautulli/wordmarkDark.svg",
+      "license": "GPL-3.0"
     },
     {
       "name": "Tembo",
@@ -556,6 +771,11 @@
       "name": "TikTok",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tiktok/wordmark-dark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "TiKV",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tikv/wordmarkDark.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
     },
     {
       "name": "TravelPerk",

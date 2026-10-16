@@ -1063,6 +1063,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Apollo.io",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/apollodotio/mono.svg",
+      "license": "Trademark of Apollo.io, Inc.. Used for identification under nominative fair use."
+    },
+    {
       "name": "Apostrophe",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/apostrophe/mono.svg",
       "license": "CC0-1.0"
@@ -2313,6 +2318,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Buildpacks",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/buildpacks/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "BuiltByBit",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/builtbybit/mono.svg",
       "license": "CC0-1.0"
@@ -2613,6 +2623,11 @@
       "license": "MIT"
     },
     {
+      "name": "cert-manager",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cert-manager/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "Cesium",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cesium/mono.svg",
       "license": "CC0-1.0"
@@ -2651,6 +2666,11 @@
       "name": "Channel 4",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/channel-4/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Chaos Mesh",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/chaos-mesh/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
     },
     {
       "name": "Charles",
@@ -2966,6 +2986,11 @@
       "name": "Cloudera",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cloudera/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "CloudEvents",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cloudevents/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
     },
     {
       "name": "Cloudflare",
@@ -3418,6 +3443,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Contour",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/contour/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "Contributor Covenant",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/contributor-covenant/mono.svg",
       "license": "CC0-1.0"
@@ -3481,6 +3511,11 @@
       "name": "Coreboot",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/coreboot/mono.svg",
       "license": "Custom"
+    },
+    {
+      "name": "CoreDNS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/coredns/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
     },
     {
       "name": "CorelDRAW",
@@ -3601,6 +3636,11 @@
       "name": "CrewAI",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/crewai/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "CRI-O",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cri-o/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
     },
     {
       "name": "Critical Role",
@@ -4338,6 +4378,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "DocuSeal",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/docuseal/mono.svg",
+      "license": "Trademark of DocuSeal. Used for identification under nominative fair use."
+    },
+    {
       "name": "Dodo Payments",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dodo-payments/mono.svg",
       "license": "CC0-1.0"
@@ -4838,6 +4883,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Emissary-Ingress",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/emissary-ingress/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "Emlakjet",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/emlakjet/mono.svg",
       "license": "CC0-1.0"
@@ -4976,6 +5026,11 @@
       "name": "Ethereum",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ethereum/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Etherpad",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/etherpad/mono.svg",
+      "license": "Apache-2.0"
     },
     {
       "name": "Ethers",
@@ -5436,6 +5491,11 @@
       "name": "Fizz",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fizz/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Flame",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flame/mono.svg",
+      "license": "Trademark of Pawel Malak. Used for identification under nominative fair use."
     },
     {
       "name": "Flashforge",
@@ -7663,6 +7723,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "in-toto",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/in-toto/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "Inception Labs",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/inception-labs/mono.svg",
       "license": "MIT"
@@ -8378,6 +8443,11 @@
       "license": "MIT"
     },
     {
+      "name": "Karmada",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/karmada/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "Kasa Smart",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kasa-smart/mono.svg",
       "license": "CC0-1.0"
@@ -8421,6 +8491,11 @@
       "name": "Kdenlive",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kdenlive/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "KEDA",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/keda/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
     },
     {
       "name": "Kedro",
@@ -8703,6 +8778,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Kopia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kopia/mono.svg",
+      "license": "Apache-2.0"
+    },
+    {
       "name": "KOReader",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/koreader/mono.svg",
       "license": "CC0-1.0"
@@ -8738,6 +8818,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "KServe",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kserve/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "KTM",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ktm/mono.svg",
       "license": "CC0-1.0"
@@ -8753,6 +8838,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "KubeEdge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kubeedge/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "Kubeflow",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kubeflow/mono.svg",
       "license": "MIT"
@@ -8763,9 +8853,19 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Kubescape",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kubescape/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "Kubespray",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kubespray/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "KubeVela",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kubevela/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
     },
     {
       "name": "Kubuntu",
@@ -9598,6 +9698,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Mage",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mage-ai/mono.svg",
+      "license": "Apache-2.0"
+    },
+    {
       "name": "Magic",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/magic/mono.svg",
       "license": "CC0-1.0"
@@ -10108,6 +10213,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "MeTube",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/metube/mono.svg",
+      "license": "AGPL-3.0"
+    },
+    {
       "name": "MeWe",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mewe/mono.svg",
       "license": "CC0-1.0"
@@ -10406,6 +10516,11 @@
       "name": "Monica",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/monica/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "monitixx",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/monitixx/mono.svg",
+      "license": "brand-use"
     },
     {
       "name": "monkey tie",
@@ -11523,6 +11638,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Open Policy Agent",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/open-policy-agent/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "Open Source Hardware",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/open-source-hardware/mono.svg",
       "license": "CC-BY-SA-4.0"
@@ -11593,6 +11713,11 @@
       "license": "MIT"
     },
     {
+      "name": "OpenCost",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/opencost/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "OpenCritic",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/opencritic/mono.svg",
       "license": "CC0-1.0"
@@ -11606,6 +11731,11 @@
       "name": "OpenFaaS",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openfaas/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "OpenFGA",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openfga/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
     },
     {
       "name": "OpenGL",
@@ -11971,6 +12101,11 @@
       "name": "PagSeguro",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pagseguro/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "PairDrop",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pairdrop/mono.svg",
+      "license": "GPL-3.0"
     },
     {
       "name": "Palantir",
@@ -13471,6 +13606,11 @@
       "name": "Rakuten Kobo",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rakuten-kobo/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Rallly",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rallly/mono.svg",
+      "license": "AGPL-3.0"
     },
     {
       "name": "Ralph Lauren",
@@ -15308,6 +15448,11 @@
       "license": "MIT"
     },
     {
+      "name": "SPIFFE",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/spiffe/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "SpigotMC",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/spigotmc/mono.svg",
       "license": "CC0-1.0"
@@ -15688,6 +15833,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Strimzi",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/strimzi/mono.svg",
+      "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
       "name": "Stripe",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/stripe/mono.svg",
       "license": "CC0-1.0"
@@ -16041,6 +16191,11 @@
       "name": "Tampermonkey",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tampermonkey/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Tandoor Recipes",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tandoor-recipes/mono.svg",
+      "license": "Trademark of Tandoor Recipes. Used for identification under nominative fair use."
     },
     {
       "name": "TanStack",

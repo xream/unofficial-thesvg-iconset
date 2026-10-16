@@ -108,6 +108,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Browserless",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/browserless/light.svg",
+      "license": "Trademark of Browserless. Used for identification under nominative fair use."
+    },
+    {
       "name": "Cal.com",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/caldotcom/light.svg",
       "license": "CC0-1.0"
@@ -281,6 +286,11 @@
       "name": "GitHub Copilot",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/github-copilot/light.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Glances",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glances/light.svg",
+      "license": "LGPL-3.0"
     },
     {
       "name": "Glide",
@@ -573,6 +583,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Owncast",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/owncast/light.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Paramount+",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/paramount/light.svg",
       "license": "Fair Use"
@@ -598,6 +613,16 @@
       "license": "MIT"
     },
     {
+      "name": "PG Back Web",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pg-back-web/light.svg",
+      "license": "AGPL-3.0"
+    },
+    {
+      "name": "PhotoPrism",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/photoprism/light.svg",
+      "license": "Trademark of PhotoPrism UG. Used for identification under nominative fair use."
+    },
+    {
       "name": "PHP",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/php/light.svg",
       "license": "CC-BY-SA-4.0"
@@ -621,6 +646,11 @@
       "name": "pnpm",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pnpm/light.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Pocket ID",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pocket-id/light.svg",
+      "license": "BSD-2-Clause"
     },
     {
       "name": "Polar",
@@ -796,6 +826,11 @@
       "name": "Tahcia",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tahcia/light.svg",
       "license": "Apache-2.0"
+    },
+    {
+      "name": "Teable",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/teable/light.svg",
+      "license": "Trademark of Teable, Inc.. Used for identification under nominative fair use."
     },
     {
       "name": "Tembo",
