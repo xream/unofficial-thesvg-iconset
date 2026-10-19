@@ -3273,6 +3273,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Google Business Profile",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/google-business-profile/default.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Google Calendar (2026)",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/google-calendar-2026/default.svg",
       "license": "Trademark"
@@ -7866,6 +7871,11 @@
       "name": "Scaleway",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/scaleway-badge/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Scanfile",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/scanfile/default.svg",
+      "license": "Trademark"
     },
     {
       "name": "Schibsted",

@@ -438,6 +438,11 @@
       "license": "MIT"
     },
     {
+      "name": "MetaMCP",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/metamcp/wordmark-dark.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Milanote",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/milanote/wordmark-dark.svg",
       "license": "CC0-1.0"

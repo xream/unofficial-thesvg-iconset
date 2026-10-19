@@ -953,6 +953,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "MetaMCP",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/metamcp/wordmark.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Microsoft",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/microsoft/wordmark.svg",
       "license": "MIT"
