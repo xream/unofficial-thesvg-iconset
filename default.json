@@ -273,6 +273,11 @@
       "license": "Trademark"
     },
     {
+      "name": "altumptic",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/altumptic/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Amazon",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/amazon/default.svg",
       "license": "Fair use"
@@ -671,6 +676,11 @@
       "name": "Backblaze",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/backblaze-badge/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Backloggd",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/backloggd/default.svg",
+      "license": "Unlicense"
     },
     {
       "name": "Bajaj Auto",
@@ -1076,6 +1086,11 @@
       "name": "Brain.js",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/brainjs/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "Brainrune Mark Deep",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/brainrune-mark-deep/default.svg",
+      "license": "CC-BY-ND-4.0"
     },
     {
       "name": "Brave",
@@ -5198,6 +5213,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Masheev",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/masheev/default.svg",
+      "license": "Masheev brand guidelines, https://masheev.com/brand. Owner-submitted"
+    },
+    {
       "name": "Mastodon",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mastodon-badge/default.svg",
       "license": "CC0-1.0"
@@ -6346,6 +6366,11 @@
       "name": "OceanBase",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/oceanbase/default.svg",
       "license": "Apache-2.0"
+    },
+    {
+      "name": "Oddinpay",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/oddinpay/default.svg",
+      "license": "CC-BY-ND-4.0"
     },
     {
       "name": "Odido",
@@ -8603,6 +8628,11 @@
       "license": "Trademark"
     },
     {
+      "name": "TablePort",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tableport/default.svg",
+      "license": "TablePort trademark. Use the unaltered logo only to refer to TablePort; do not modify it or imply endorsement."
+    },
+    {
       "name": "Taboola",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/taboola/default.svg",
       "license": "Trademark"
@@ -9081,6 +9111,11 @@
       "name": "Tweakers",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tweakers-badge/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Twig",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/twig/default.svg",
+      "license": "MIT"
     },
     {
       "name": "Twilio",
