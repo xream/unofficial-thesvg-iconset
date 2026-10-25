@@ -3638,11 +3638,6 @@
       "license": "CC0-1.0"
     },
     {
-      "name": "Heap",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/heap/default.svg",
-      "license": "brand-use"
-    },
-    {
       "name": "Heimdall",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/heimdall/default.svg",
       "license": "MIT"
@@ -6366,11 +6361,6 @@
       "name": "OceanBase",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/oceanbase/default.svg",
       "license": "Apache-2.0"
-    },
-    {
-      "name": "Oddinpay",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/oddinpay/default.svg",
-      "license": "CC-BY-ND-4.0"
     },
     {
       "name": "Odido",

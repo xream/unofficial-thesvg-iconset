@@ -283,6 +283,11 @@
       "license": "MIT"
     },
     {
+      "name": "Countly",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/countly/wordmark.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "cPanel",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cpanel/wordmark.svg",
       "license": "CC0-1.0"
@@ -668,6 +673,11 @@
       "license": "MIT"
     },
     {
+      "name": "Heap",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/heap/wordmark.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Heroku",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/heroku/wordmark.svg",
       "license": "MIT"
@@ -1048,6 +1058,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "n8n (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/n8n-legacy/wordmark.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Netbox",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/netbox/wordmark.svg",
       "license": "MIT"
@@ -1173,6 +1188,11 @@
       "license": "Trademark"
     },
     {
+      "name": "Oddinpay",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/oddinpay/wordmark.svg",
+      "license": "CC-BY-ND-4.0"
+    },
+    {
       "name": "Okta",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/okta/wordmark.svg",
       "license": "CC0-1.0"
@@ -1211,6 +1231,11 @@
       "name": "OpenFGA",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openfga/wordmark.svg",
       "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
+    },
+    {
+      "name": "OpenReplay",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openreplay/wordmark.svg",
+      "license": "brand-use"
     },
     {
       "name": "PagerDuty",
@@ -1280,6 +1305,11 @@
     {
       "name": "PostHog",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/posthog/wordmark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "PostHog (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/posthog-legacy/wordmark.svg",
       "license": "CC0-1.0"
     },
     {
@@ -1401,6 +1431,11 @@
       "name": "Rspec",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rspec/wordmark.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Rybbit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rybbit/wordmark.svg",
+      "license": "brand-use"
     },
     {
       "name": "S-Oil",
@@ -1711,6 +1746,11 @@
       "name": "UpLeveled",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/upleveled/wordmark.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Userpilot",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/userpilot/wordmark.svg",
+      "license": "brand-use"
     },
     {
       "name": "Vagrant",

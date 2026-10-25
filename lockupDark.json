@@ -8,9 +8,24 @@
   "trademarkNotice": "Icon names, logos, and trademarks are property of their respective owners. This iconset is not affiliated with, endorsed by, or sponsored by those owners.",
   "icons": [
     {
+      "name": "Heap",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/heap/lockup-dark.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "LangChain",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/langchain/lockup-dark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "n8n",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/n8n/lockup-dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "Rybbit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rybbit/lockup-dark.svg",
+      "license": "brand-use"
     }
   ]
 }

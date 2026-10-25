@@ -153,6 +153,11 @@
       "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
     },
     {
+      "name": "Countly",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/countly/wordmark-dark.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "CRI-O",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cri-o/wordmarkDark.svg",
       "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
@@ -316,6 +321,11 @@
       "name": "Hack The Box",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/hack-the-box/wordmark-dark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Heap",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/heap/wordmark-dark.svg",
+      "license": "brand-use"
     },
     {
       "name": "Home Assistant",
@@ -498,6 +508,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "n8n (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/n8n-legacy/wordmark-dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Newmont",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/newmont/wordmarkDark.svg",
       "license": "Unknown"
@@ -578,6 +593,11 @@
       "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
     },
     {
+      "name": "OpenReplay",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openreplay/wordmark-dark.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Orildo",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/orildo/wordmark-dark.svg",
       "license": "MIT"
@@ -625,6 +645,11 @@
     {
       "name": "PostHog",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/posthog/wordmark-dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "PostHog (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/posthog-legacy/wordmark-dark.svg",
       "license": "CC0-1.0"
     },
     {
@@ -681,6 +706,11 @@
       "name": "Resend",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/resend/wordmark-dark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Rybbit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rybbit/wordmark-dark.svg",
+      "license": "brand-use"
     },
     {
       "name": "Sanity",
@@ -811,6 +841,11 @@
       "name": "TypeGPU",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/typegpu/wordmark-dark.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Userpilot",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/userpilot/wordmark-dark.svg",
+      "license": "brand-use"
     },
     {
       "name": "Valibot",

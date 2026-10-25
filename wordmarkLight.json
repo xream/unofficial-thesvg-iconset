@@ -448,6 +448,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "n8n (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/n8n-legacy/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Next.js",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nextdotjs/wordmark-light.svg",
       "license": "CC0-1.0"
@@ -543,6 +548,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "PostHog (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/posthog-legacy/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "PowerSync",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/powersync/wordmark-light.svg",
       "license": "MIT"
@@ -596,6 +606,11 @@
       "name": "Resend",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/resend/wordmark-light.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Rybbit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rybbit/wordmark-light.svg",
+      "license": "brand-use"
     },
     {
       "name": "Sanity",
@@ -711,6 +726,11 @@
       "name": "TypeGPU",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/typegpu/wordmark-light.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Userpilot",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/userpilot/wordmark-light.svg",
+      "license": "brand-use"
     },
     {
       "name": "Valibot",

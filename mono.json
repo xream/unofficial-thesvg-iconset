@@ -6363,7 +6363,7 @@
       "license": "CC0-1.0"
     },
     {
-      "name": "GoDonate.me",
+      "name": "GoDonateMe",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/godonateme/mono.svg",
       "license": "brand-use"
     },
@@ -10753,6 +10753,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "n8n (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/n8n-legacy/mono.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Namebase",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/namebase/mono.svg",
       "license": "CC0-1.0"
@@ -11516,6 +11521,11 @@
       "name": "Oculus",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/oculus/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Oddinpay",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/oddinpay/mono.svg",
+      "license": "CC-BY-ND-4.0"
     },
     {
       "name": "Odido",
@@ -12915,6 +12925,11 @@
     {
       "name": "PostHog",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/posthog/mono.svg",
+      "license": "CC0-1.0"
+    },
+    {
+      "name": "PostHog (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/posthog-legacy/mono.svg",
       "license": "CC0-1.0"
     },
     {
@@ -14426,6 +14441,11 @@
       "name": "Ryanair",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ryanair/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Rybbit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rybbit/mono.svg",
+      "license": "brand-use"
     },
     {
       "name": "Rye",

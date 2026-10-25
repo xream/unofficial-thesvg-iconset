@@ -493,6 +493,11 @@
       "license": "MIT"
     },
     {
+      "name": "n8n",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/n8n/color.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Nano Banana (Google)",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nano-banana-google/color.svg",
       "license": "MIT"

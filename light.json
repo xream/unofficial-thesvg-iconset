@@ -153,6 +153,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Countly",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/countly/light.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "CurseForge",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/curseforge/light.svg",
       "license": "CC0-1.0"
@@ -313,6 +318,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "GoDonateMe",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/godonateme/light.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Goil",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/goil/light.svg",
       "license": "MIT"
@@ -331,6 +341,11 @@
       "name": "Grok",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/grok/light.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Heap",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/heap/light.svg",
+      "license": "brand-use"
     },
     {
       "name": "HeroUI",
@@ -503,6 +518,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "n8n",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/n8n/light.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Native Instruments",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/native-instruments/light.svg",
       "license": "Fair Use"
@@ -566,6 +586,11 @@
       "name": "Nx",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/nx/light.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Oddinpay",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/oddinpay/light.svg",
+      "license": "CC-BY-ND-4.0"
     },
     {
       "name": "Ollama",
@@ -768,6 +793,11 @@
       "license": "CC-BY-SA-4.0"
     },
     {
+      "name": "Rybbit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rybbit/light.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Sabeco",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sabeco/light.svg",
       "license": "CC0-1.0"
@@ -931,6 +961,11 @@
       "name": "Unreal Engine",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/unreal-engine/light.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Userpilot",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/userpilot/light.svg",
+      "license": "brand-use"
     },
     {
       "name": "UXAnaRangel",
