@@ -4063,6 +4063,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Instagram (legacy wordmark)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/instagram-legacy/default.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Instructor",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/instructor/default.svg",
       "license": "MIT"
@@ -6604,11 +6609,6 @@
     },
     {
       "name": "Oracle",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/oracle/default.svg",
-      "license": "Fair Use"
-    },
-    {
-      "name": "Oracle",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/oracle-badge/default.svg",
       "license": "CC0-1.0"
     },
@@ -7996,6 +7996,11 @@
       "name": "Server-Eye",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/server-eye-badge/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "ServiceNow",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/servicenow/default.svg",
+      "license": "Trademark"
     },
     {
       "name": "Session Buddy",

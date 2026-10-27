@@ -353,6 +353,11 @@
       "license": "MIT"
     },
     {
+      "name": "agent-qa",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/agent-qa/mono.svg",
+      "license": "FSL-1.1-ALv2"
+    },
+    {
       "name": "Agora",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/agora/mono.svg",
       "license": "CC0-1.0"
@@ -4641,6 +4646,11 @@
       "name": "Eagle",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/eagle/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Easy AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/easy-ai/mono.svg",
+      "license": "Trademark"
     },
     {
       "name": "EasyEDA",

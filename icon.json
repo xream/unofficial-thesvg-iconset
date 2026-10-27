@@ -11,6 +11,11 @@
       "name": "AWS",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws/icon.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Oracle",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/oracle/icon.svg",
+      "license": "Fair Use"
     }
   ]
 }

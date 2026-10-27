@@ -223,6 +223,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Easy AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/easy-ai/light.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Edison",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/edison/light.svg",
       "license": "Unknown"

@@ -453,6 +453,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Easy AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/easy-ai/wordmark.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Ecto",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ecto/wordmark.svg",
       "license": "MIT"
@@ -1196,6 +1201,11 @@
       "name": "Okta",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/okta/wordmark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Olive Garden",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/olive-garden/wordmark.svg",
+      "license": "Trademark"
     },
     {
       "name": "Onex",

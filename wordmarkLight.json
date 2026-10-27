@@ -183,6 +183,11 @@
       "license": "MIT"
     },
     {
+      "name": "Easy AI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/easy-ai/wordmark-light.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Edison",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/edison/wordmarkLight.svg",
       "license": "Unknown"
@@ -301,6 +306,11 @@
       "name": "Inflection AI",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/inflection-ai/wordmark-light.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/instagram/wordmark-light.svg",
+      "license": "CC0-1.0"
     },
     {
       "name": "Intello",
