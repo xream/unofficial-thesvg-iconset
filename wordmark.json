@@ -1613,6 +1613,11 @@
       "license": "Trademark of Tandoor Recipes. Used for identification under nominative fair use."
     },
     {
+      "name": "Taskade",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/taskade/wordmark.svg",
+      "license": "Trademark of Taskade. Used for identification under nominative fair use."
+    },
+    {
       "name": "Teleport",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/teleport/wordmark.svg",
       "license": "MIT"
