@@ -98,6 +98,11 @@
       "license": "MIT"
     },
     {
+      "name": "Backrest",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/backrest/dark.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Base UI",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/base-ui/dark.svg",
       "license": "CC0-1.0"
@@ -296,6 +301,11 @@
       "name": "Express.js",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/expressdotjs/dark.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Fans",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fans/dark.svg",
+      "license": "Trademark"
     },
     {
       "name": "Fastify",
@@ -1036,6 +1046,11 @@
       "name": "Tesla",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tesla/dark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "The Lounge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/the-lounge/dark.svg",
+      "license": "MIT"
     },
     {
       "name": "theAuth",

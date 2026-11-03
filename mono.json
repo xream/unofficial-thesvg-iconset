@@ -9828,6 +9828,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Mango",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mango/mono.svg",
+      "license": "Official SVG from mangowm.github.io/brand (no artwork licence published), project licensed under GPL-3.0-or-later"
+    },
+    {
       "name": "Manjaro",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/manjaro/mono.svg",
       "license": "CC0-1.0"

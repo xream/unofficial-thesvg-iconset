@@ -493,6 +493,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Fans",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fans/wordmark.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "FastAPI",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fastapi/wordmark.svg",
       "license": "CC0-1.0"
@@ -526,6 +531,11 @@
       "name": "Five Guys",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/five-guys/wordmark.svg",
       "license": "Fair Use"
+    },
+    {
+      "name": "Flagsmith",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flagsmith/wordmark.svg",
+      "license": "BSD-3-Clause"
     },
     {
       "name": "Flask",
@@ -678,6 +688,11 @@
       "license": "MIT"
     },
     {
+      "name": "Headscale",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/headscale/wordmark.svg",
+      "license": "BSD-3-Clause"
+    },
+    {
       "name": "Heap",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/heap/wordmark.svg",
       "license": "brand-use"
@@ -705,6 +720,11 @@
     {
       "name": "Hotmart",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/hotmart/wordmark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Huginn",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/huginn/wordmark.svg",
       "license": "MIT"
     },
     {
@@ -1438,6 +1458,11 @@
       "license": "MIT"
     },
     {
+      "name": "RomM",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/romm/wordmark.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Rspec",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rspec/wordmark.svg",
       "license": "MIT"
@@ -1453,6 +1478,11 @@
       "license": "Unknown"
     },
     {
+      "name": "SABnzbd",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sabnzbd/wordmark.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "SanDisk",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sandisk/wordmark.svg",
       "license": "CC0-1.0"
@@ -1465,6 +1495,11 @@
     {
       "name": "Scalingo",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/scalingo/wordmark.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Seerr",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/seerr/wordmark.svg",
       "license": "MIT"
     },
     {
@@ -1646,6 +1681,11 @@
       "name": "Tesla",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tesla/wordmark.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "The Lounge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/the-lounge/wordmark.svg",
+      "license": "MIT"
     },
     {
       "name": "theAuth",
@@ -1866,6 +1906,11 @@
       "name": "Yapi Kredi",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/yapi-kredi/wordmark.svg",
       "license": "Unknown"
+    },
+    {
+      "name": "YOURLS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/yourls/wordmark.svg",
+      "license": "MIT"
     },
     {
       "name": "YouTube",

@@ -203,6 +203,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Fans",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fans/wordmark-light.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Firecrawl",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/firecrawl/wordmark-light.svg",
       "license": "MIT"
@@ -291,6 +296,11 @@
       "name": "Hulu",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/hulu/wordmark-light.svg",
       "license": "MIT"
+    },
+    {
+      "name": "imgproxy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/imgproxy/wordmark-light.svg",
+      "license": "Apache-2.0"
     },
     {
       "name": "in-toto",

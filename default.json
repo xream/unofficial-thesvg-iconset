@@ -1468,6 +1468,11 @@
       "license": "MIT"
     },
     {
+      "name": "Chronograf",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/chronograf/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Cinny",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cinny/default.svg",
       "license": "CC0-1.0"
@@ -1506,6 +1511,11 @@
       "name": "Clastix",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/clastix/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "Cleanuparr",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cleanuparr/default.svg",
+      "license": "Trademark"
     },
     {
       "name": "ClearML",
@@ -1686,6 +1696,11 @@
       "name": "Colgate",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/colgate/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "CommaFeed",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/commafeed/default.svg",
+      "license": "Apache-2.0"
     },
     {
       "name": "Commitizen",
@@ -2736,6 +2751,11 @@
       "name": "Farmsent",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/farmsent/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "FarsiUI",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/farsiui/default.svg",
+      "license": "MIT"
     },
     {
       "name": "Fastly",
@@ -3898,6 +3918,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "HyperDX",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/hyperdx/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Hypixel",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/hypixel-badge/default.svg",
       "license": "CC0-1.0"
@@ -4141,6 +4166,11 @@
       "name": "IServ",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/iserv-badge/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Isso",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/isso/default.svg",
+      "license": "MIT"
     },
     {
       "name": "IT Tools",
@@ -4663,6 +4693,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Kokoro TTS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kokoro-tts/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
       "name": "Komga",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/komga/default.svg",
       "license": "MIT"
@@ -4696,6 +4731,11 @@
       "name": "Kratix",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kratix/default.svg",
       "license": "Apache-2.0"
+    },
+    {
+      "name": "Kroki",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/kroki/default.svg",
+      "license": "MIT"
     },
     {
       "name": "Kualo",
@@ -5073,6 +5113,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Lychee",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/lychee/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "M1",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/m1-badge/default.svg",
       "license": "CC0-1.0"
@@ -5086,6 +5131,11 @@
       "name": "Maestro",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/maestro/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "Mafl",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mafl/default.svg",
+      "license": "MIT"
     },
     {
       "name": "Magento",
@@ -5156,11 +5206,6 @@
       "name": "MangaDex",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mangadex-badge/default.svg",
       "license": "CC0-1.0"
-    },
-    {
-      "name": "Mango",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mango/default.svg",
-      "license": "Unofficial SVG based on official PNG, project licensed under GPL-3.0-or-later"
     },
     {
       "name": "Manifest",
@@ -5908,6 +5953,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Multi-Scrobbler",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/multi-scrobbler/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Multipass",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/multipass/default.svg",
       "license": "brand-use"
@@ -6481,6 +6531,11 @@
       "name": "Open Collective",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/open-collective-badge/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Open Notebook",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/open-notebook/default.svg",
+      "license": "MIT"
     },
     {
       "name": "Open WebUI",
@@ -7408,6 +7463,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Radicale",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/radicale/default.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Ragas",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ragas/default.svg",
       "license": "Apache-2.0"
@@ -7733,6 +7793,11 @@
       "license": "MIT"
     },
     {
+      "name": "RSS-Bridge",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rss-bridge/default.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "RTÉ",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rte/default.svg",
       "license": "CC0-1.0"
@@ -8018,6 +8083,11 @@
       "license": "Trademark of Nicola Murino. Used for identification under nominative fair use."
     },
     {
+      "name": "Shaarli",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/shaarli/default.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Shakepay",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/shakepay-badge/default.svg",
       "license": "CC0-1.0"
@@ -8238,6 +8308,11 @@
       "license": "LGPL-3.0"
     },
     {
+      "name": "SonoJS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sonojs/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Sony",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sony-badge/default.svg",
       "license": "CC0-1.0"
@@ -8328,8 +8403,18 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Spliit",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/spliit/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Sponge",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/sponge/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Spoolman",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/spoolman/default.svg",
       "license": "MIT"
     },
     {
@@ -9746,6 +9831,11 @@
       "name": "Wing",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/winglang/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "WireMock",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/wiremock/default.svg",
+      "license": "Apache-2.0"
     },
     {
       "name": "Wise",
