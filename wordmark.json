@@ -918,6 +918,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Lumin",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/lumin/wordmark.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Magento",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/magento/wordmark.svg",
       "license": "MIT"

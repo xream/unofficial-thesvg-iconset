@@ -433,6 +433,11 @@
       "license": "MIT"
     },
     {
+      "name": "Lumin",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/lumin/light.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Manus",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/manus/light.svg",
       "license": "MIT"

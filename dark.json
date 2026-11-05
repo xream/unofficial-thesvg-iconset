@@ -568,6 +568,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Lumin",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/lumin/dark.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Manus",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/manus/dark.svg",
       "license": "MIT"

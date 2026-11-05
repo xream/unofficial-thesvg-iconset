@@ -383,6 +383,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Lumin",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/lumin/wordmark-light.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Mage",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mage-ai/wordmarkLight.svg",
       "license": "Apache-2.0"
