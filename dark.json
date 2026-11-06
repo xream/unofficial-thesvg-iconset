@@ -1208,6 +1208,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Warden",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/warden/dark.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Web Check",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/web-check/dark.svg",
       "license": "MIT"

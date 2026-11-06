@@ -893,6 +893,11 @@
       "license": "Fair Use"
     },
     {
+      "name": "Warden",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/warden/wordmark-dark.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Webflow",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/webflow/wordmark-dark.svg",
       "license": "CC0-1.0"

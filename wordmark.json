@@ -1858,6 +1858,11 @@
       "license": "MIT"
     },
     {
+      "name": "Warden",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/warden/wordmark.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Webflow",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/webflow/wordmark.svg",
       "license": "CC0-1.0"

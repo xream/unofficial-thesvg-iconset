@@ -18083,6 +18083,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Warden",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/warden/mono.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Warp",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/warp/mono.svg",
       "license": "CC0-1.0"
