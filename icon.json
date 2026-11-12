@@ -8,9 +8,19 @@
   "trademarkNotice": "Icon names, logos, and trademarks are property of their respective owners. This iconset is not affiliated with, endorsed by, or sponsored by those owners.",
   "icons": [
     {
+      "name": "Amplitude",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/amplitude/icon.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "AWS",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aws/icon.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Gong",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gong/icon.svg",
+      "license": "Trademark"
     },
     {
       "name": "Oracle",

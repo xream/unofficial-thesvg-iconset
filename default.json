@@ -318,11 +318,6 @@
       "license": "Fair Use"
     },
     {
-      "name": "Amplitude",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/amplitude/default.svg",
-      "license": "CC0-1.0"
-    },
-    {
       "name": "Amul Info",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/amul-info/default.svg",
       "license": "CC0-1.0"
@@ -1738,6 +1733,11 @@
       "license": "Apache-2.0"
     },
     {
+      "name": "Confluence",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/confluence/default.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Confluent",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/confluent/default.svg",
       "license": "Fair Use"
@@ -2558,6 +2558,11 @@
       "license": "Trademark"
     },
     {
+      "name": "EPS File",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/eps-file/default.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Epsagon",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/epsagon/default.svg",
       "license": "brand-use"
@@ -3293,11 +3298,6 @@
       "license": "Apache-2.0"
     },
     {
-      "name": "Gong",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gong/default.svg",
-      "license": "Trademark"
-    },
-    {
       "name": "GoodSync",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/goodsync-badge/default.svg",
       "license": "CC0-1.0"
@@ -3921,6 +3921,11 @@
       "name": "HyperDX",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/hyperdx/default.svg",
       "license": "MIT"
+    },
+    {
+      "name": "HyperFrames",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/hyperframes/default.svg",
+      "license": "Apache-2.0"
     },
     {
       "name": "Hypixel",
@@ -5008,6 +5013,11 @@
       "license": "MIT"
     },
     {
+      "name": "LocatorJS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/locatorjs/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Lockheed Martin",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/lockheed-martin/default.svg",
       "license": "CC0-1.0"
@@ -5943,6 +5953,11 @@
       "license": "brand-use"
     },
     {
+      "name": "MudBlazor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mudblazor/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Mulesoft",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/mulesoft/default.svg",
       "license": "MIT"
@@ -6418,6 +6433,11 @@
       "license": "Apache-2.0"
     },
     {
+      "name": "Octopus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/octopus/default.svg",
+      "license": "AGPL-3.0"
+    },
+    {
       "name": "Odido",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/odido-badge/default.svg",
       "license": "CC0-1.0"
@@ -6466,6 +6486,11 @@
       "name": "OMGSERV",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/omgserv-badge/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "OmniRoute",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/omniroute/default.svg",
+      "license": "MIT"
     },
     {
       "name": "one.com",
@@ -6531,6 +6556,11 @@
       "name": "Open Collective",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/open-collective-badge/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Open Design",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/open-design/default.svg",
+      "license": "Apache-2.0"
     },
     {
       "name": "Open Notebook",
@@ -9426,6 +9456,11 @@
       "name": "Velero",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/velero/default.svg",
       "license": "Apache-2.0"
+    },
+    {
+      "name": "Vellum",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/vellum/default.svg",
+      "license": "MIT"
     },
     {
       "name": "Veonib",
