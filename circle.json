@@ -1,0 +1,1326 @@
+{
+  "name": "Unofficial theSVG Iconset - circle",
+  "description": "xream 基于 theSVG 转换的 circle variant 图标集；仅包含链接清单，不重新分发 SVG。图标版权、商标和 license 归各自权利方及 upstream license 约束。",
+  "source": "https://github.com/glincker/thesvg",
+  "sourceData": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/src/data/icons.json",
+  "legal": "https://github.com/glincker/thesvg/blob/main/LEGAL.md",
+  "disclaimer": "https://github.com/glincker/thesvg/blob/main/DISCLAIMER.md",
+  "trademarkNotice": "Icon names, logos, and trademarks are property of their respective owners. This iconset is not affiliated with, endorsed by, or sponsored by those owners.",
+  "icons": [
+    {
+      "name": "Andorra",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ad/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "United Arab Emirates",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ae/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Afghanistan",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-af/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ag/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Anguilla",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ai/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Albania",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-al/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Armenia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-am/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Angola",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ao/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Antarctica",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-aq/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Argentina",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ar/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "American Samoa",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-as/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Austria",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-at/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Australia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-au/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Aruba",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-aw/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Åland Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ax/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Azerbaijan",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-az/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ba/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Barbados",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bb/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Bangladesh",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bd/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Belgium",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-be/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Burkina Faso",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bf/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Bulgaria",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bg/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Bahrain",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bh/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Burundi",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bi/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Benin",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bj/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "St. Barthélemy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bl/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Bermuda",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bm/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Brunei",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bn/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Bolivia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bo/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Caribbean Netherlands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bq/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Brazil",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-br/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Bahamas",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bs/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Bhutan",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bt/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Bouvet Island",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bv/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Botswana",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bw/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Belarus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-by/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Belize",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-bz/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Canada",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ca/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cocos (Keeling) Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-cc/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Congo - Kinshasa",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-cd/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Central African Republic",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-cf/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Congo - Brazzaville",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-cg/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Switzerland",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ch/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Côte d’Ivoire",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ci/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cook Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ck/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Chile",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-cl/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cameroon",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-cm/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "China",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-cn/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Colombia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-co/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Costa Rica",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-cr/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cuba",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-cu/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cape Verde",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-cv/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Curaçao",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-cw/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Christmas Island",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-cx/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cyprus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-cy/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Czechia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-cz/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Germany",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-de/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Djibouti",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-dj/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Denmark",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-dk/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Dominica",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-dm/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Dominican Republic",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-do/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Algeria",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-dz/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Ecuador",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ec/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Estonia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ee/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Egypt",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-eg/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Western Sahara",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-eh/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Eritrea",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-er/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Spain",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-es/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Canary Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-es-cn/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Catalonia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-es-ct/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Galicia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-es-ga/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Balearic Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-es-ib/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Basque Country",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-es-pv/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Valencian Community",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-es-vc/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Ethiopia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-et/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "European Union",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-eu/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Finland",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-fi/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Fiji",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-fj/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Falkland Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-fk/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Micronesia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-fm/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Faroe Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-fo/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "France",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-fr/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Corsica",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-fr-cor/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Gabon",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ga/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "United Kingdom",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gb/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "England",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gb-eng/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Scotland",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gb-sct/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Wales",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gb-wls/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Grenada",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gd/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Georgia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ge/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "French Guiana",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gf/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Guernsey",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gg/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Ghana",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gh/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Gibraltar",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gi/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Greenland",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gl/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Gambia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gm/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Guinea",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gn/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Guadeloupe",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gp/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gq/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Greece",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gr/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "South Georgia and South Sandwich Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gs/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Guatemala",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gt/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Guam",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gu/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gw/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Guyana",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-gy/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Hong Kong",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-hk/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Heard and McDonald Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-hm/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Honduras",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-hn/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Croatia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-hr/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Haiti",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ht/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Hungary",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-hu/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Indonesia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-id/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Ireland",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ie/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Israel",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-il/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Isle of Man",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-im/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "India",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-in/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-io/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Iraq",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-iq/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Iran",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ir/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Iceland",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-is/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Italy",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-it/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Jersey",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-je/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Jamaica",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-jm/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Jordan",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-jo/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Japan",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-jp/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kenya",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ke/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-kg/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cambodia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-kh/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kiribati",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ki/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Comoros",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-km/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "St. Kitts and Nevis",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-kn/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "North Korea",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-kp/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "South Korea",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-kr/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kuwait",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-kw/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Cayman Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ky/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kazakhstan",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-kz/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Laos",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-la/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Lebanon",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-lb/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "St. Lucia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-lc/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Liechtenstein",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-li/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Sri Lanka",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-lk/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Liberia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-lr/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Lesotho",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ls/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Lithuania",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-lt/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Luxembourg",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-lu/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Latvia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-lv/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Libya",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ly/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Morocco",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ma/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Monaco",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mc/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Moldova",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-md/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Montenegro",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-me/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "St. Martin",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mf/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Madagascar",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mg/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Marshall Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mh/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "North Macedonia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mk/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Mali",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ml/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Myanmar (Burma)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mm/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Mongolia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mn/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Macao",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mo/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mp/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Martinique",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mq/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Mauritania",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mr/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Montserrat",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ms/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Malta",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mt/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Mauritius",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mu/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Maldives",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mv/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Malawi",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mw/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Mexico",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mx/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Malaysia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-my/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Mozambique",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-mz/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Namibia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-na/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "New Caledonia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-nc/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Niger",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ne/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Norfolk Island",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-nf/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Nigeria",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ng/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Nicaragua",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ni/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Netherlands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-nl/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Norway",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-no/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Nepal",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-np/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Nauru",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-nr/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Niue",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-nu/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "New Zealand",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-nz/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Occitania",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-occitania/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Oman",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-om/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Panama",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-pa/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Peru",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-pe/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "French Polynesia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-pf/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Papua New Guinea",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-pg/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Philippines",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ph/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Pakistan",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-pk/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Poland",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-pl/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "St. Pierre and Miquelon",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-pm/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Pitcairn Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-pn/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Puerto Rico",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-pr/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Palestinian Territories",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ps/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Portugal",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-pt/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Palau",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-pw/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Paraguay",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-py/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Qatar",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-qa/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Réunion",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-re/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Romania",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ro/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Serbia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-rs/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Russia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ru/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Rwanda",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-rw/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Saudi Arabia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-sa/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Solomon Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-sb/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Seychelles",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-sc/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Sudan",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-sd/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Sweden",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-se/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Singapore",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-sg/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "St. Helena",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-sh/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Slovenia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-si/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Svalbard and Jan Mayen",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-sj/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Slovakia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-sk/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Sierra Leone",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-sl/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "San Marino",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-sm/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Senegal",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-sn/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Somalia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-so/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Suriname",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-sr/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "South Sudan",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ss/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "São Tomé and Príncipe",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-st/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "El Salvador",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-sv/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Sint Maarten",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-sx/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Syria",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-sy/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Eswatini",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-sz/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-tc/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Chad",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-td/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "French Southern Territories",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-tf/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Togo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-tg/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Thailand",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-th/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tajikistan",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-tj/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tokelau",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-tk/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Timor-Leste",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-tl/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Turkmenistan",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-tm/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tunisia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-tn/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tonga",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-to/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Türkiye",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-tr/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-tt/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tuvalu",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-tv/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Taiwan",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-tw/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Tanzania",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-tz/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Ukraine",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ua/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Uganda",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ug/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "U.S. Outlying Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-um/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "United Nations",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-un/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "United States",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-us/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Uruguay",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-uy/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Uzbekistan",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-uz/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Vatican City",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-va/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "St. Vincent and Grenadines",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-vc/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Venezuela",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ve/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "British Virgin Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-vg/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "U.S. Virgin Islands",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-vi/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Vietnam",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-vn/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Vanuatu",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-vu/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Wallis and Futuna",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-wf/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Samoa",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ws/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Kosovo",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-xk/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Yemen",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-ye/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Mayotte",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-yt/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "South Africa",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-za/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Zambia",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-zm/circle.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "Zimbabwe",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/flag-zw/circle.svg",
+      "license": "MIT"
+    }
+  ]
+}
