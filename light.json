@@ -308,8 +308,13 @@
       "license": "CC0-1.0"
     },
     {
-      "name": "GLINCKER",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glincker/light.svg",
+      "name": "GLINCKER (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glincker-legacy/light.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "GLINR Studios",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glinr/light.svg",
       "license": "MIT"
     },
     {

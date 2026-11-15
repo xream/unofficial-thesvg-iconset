@@ -6283,8 +6283,13 @@
       "license": "MIT"
     },
     {
-      "name": "GLINCKER",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glincker/mono.svg",
+      "name": "GLINCKER (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glincker-legacy/mono.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "GLINR Studios",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/glinr/mono.svg",
       "license": "MIT"
     },
     {
