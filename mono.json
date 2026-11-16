@@ -1053,6 +1053,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "APIKO",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/apiko/mono.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Apl",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/apl/mono.svg",
       "license": "MIT"
