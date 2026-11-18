@@ -5148,11 +5148,6 @@
       "license": "CC0-1.0"
     },
     {
-      "name": "ExpressVPN",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/expressvpn/mono.svg",
-      "license": "CC0-1.0"
-    },
-    {
       "name": "EyeEm",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/eyeem/mono.svg",
       "license": "CC0-1.0"
@@ -17316,6 +17311,11 @@
       "name": "UKCA",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ukca/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "Ultanimus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ultanimus/mono.svg",
+      "license": "brand-use"
     },
     {
       "name": "Ultralytics",

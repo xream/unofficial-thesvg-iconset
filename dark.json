@@ -1153,6 +1153,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Ultanimus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ultanimus/dark.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Unity",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/unity/dark.svg",
       "license": "CC0-1.0"

@@ -26,6 +26,11 @@
       "name": "Rybbit",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rybbit/lockup.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "Ultanimus",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ultanimus/lockup.svg",
+      "license": "brand-use"
     }
   ]
 }
