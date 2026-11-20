@@ -228,6 +228,11 @@
       "license": "MIT"
     },
     {
+      "name": "General Translation",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/general-translation/wordmark-light.svg",
+      "license": "Custom — General Translation brand assets, submitted by its designer; trademark of General Translation"
+    },
+    {
       "name": "Ghostty",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ghostty/wordmark-light.svg",
       "license": "CC0-1.0"
@@ -525,6 +530,11 @@
     {
       "name": "OpenAI",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openai/wordmark-light.svg",
+      "license": "brand-use"
+    },
+    {
+      "name": "OpenAI (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openai-legacy/wordmark-light.svg",
       "license": "MIT"
     },
     {

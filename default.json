@@ -2758,6 +2758,11 @@
       "license": "MIT"
     },
     {
+      "name": "Fastieshop",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fastieshop/default.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Fastly",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/fastly-badge/default.svg",
       "license": "CC0-1.0"
@@ -6568,7 +6573,7 @@
       "license": "MIT"
     },
     {
-      "name": "OpenAI",
+      "name": "OpenAI (badge)",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openai-badge/default.svg",
       "license": "CC0-1.0"
     },

@@ -168,6 +168,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Claude of Tanks",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/claude-of-tanks/dark.svg",
+      "license": "Custom — Claude of Tanks wordmark, submitted by its author; reserved brand content, not licensed as a trademark"
+    },
+    {
       "name": "Clerk",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/clerk/dark.svg",
       "license": "CC0-1.0"
@@ -341,6 +346,11 @@
       "name": "FreeScout",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/freescout/dark.svg",
       "license": "AGPL-3.0"
+    },
+    {
+      "name": "General Translation",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/general-translation/dark.svg",
+      "license": "Custom — General Translation brand assets, submitted by its designer; trademark of General Translation"
     },
     {
       "name": "GE Vernova",
@@ -765,6 +775,11 @@
     {
       "name": "OpenAI",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openai/dark.svg",
+      "license": "brand-use"
+    },
+    {
+      "name": "OpenAI (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openai-legacy/dark.svg",
       "license": "MIT"
     },
     {

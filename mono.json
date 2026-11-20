@@ -2923,6 +2923,11 @@
       "license": "MIT"
     },
     {
+      "name": "Claude of Tanks",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/claude-of-tanks/mono.svg",
+      "license": "Custom — Claude of Tanks wordmark, submitted by its author; reserved brand content, not licensed as a trademark"
+    },
+    {
       "name": "Clerk",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/clerk/mono.svg",
       "license": "CC0-1.0"
@@ -3268,7 +3273,7 @@
       "license": "CC0-1.0"
     },
     {
-      "name": "Codex (OpenAI)",
+      "name": "Codex (OpenAI, old)",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/codex-openai/mono.svg",
       "license": "MIT"
     },
@@ -6066,6 +6071,11 @@
       "name": "General Motors",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/general-motors/mono.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "General Translation",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/general-translation/mono.svg",
+      "license": "Custom — General Translation brand assets, submitted by its designer; trademark of General Translation"
     },
     {
       "name": "Genius",
@@ -11703,7 +11713,7 @@
       "license": "CC0-1.0"
     },
     {
-      "name": "OpenAI (ChatGPT)",
+      "name": "OpenAI (ChatGPT, old)",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/openai-chatgpt/mono.svg",
       "license": "MIT"
     },
