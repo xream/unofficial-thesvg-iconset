@@ -263,6 +263,11 @@
       "license": "MIT"
     },
     {
+      "name": "GoDonateMe",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/godonateme/wordmark-light.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Gogs",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gogs/wordmarkLight.svg",
       "license": "MIT"

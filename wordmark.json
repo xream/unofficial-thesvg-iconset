@@ -618,6 +618,11 @@
       "license": "Unknown"
     },
     {
+      "name": "GoDonateMe",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/godonateme/wordmark.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Godot",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/godot/wordmark.svg",
       "license": "MIT"

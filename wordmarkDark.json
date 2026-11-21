@@ -308,6 +308,11 @@
       "license": "GPL-3.0"
     },
     {
+      "name": "GoDonateMe",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/godonateme/wordmark-dark.svg",
+      "license": "brand-use"
+    },
+    {
       "name": "Gogs",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/gogs/wordmarkDark.svg",
       "license": "MIT"
