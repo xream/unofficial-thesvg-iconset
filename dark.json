@@ -193,6 +193,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Context7",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/context7/dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Contour",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/contour/dark.svg",
       "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."

@@ -203,6 +203,11 @@
       "license": "MIT"
     },
     {
+      "name": "Context7",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/context7/color.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "CopilotKit",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/copilotkit/color.svg",
       "license": "MIT"

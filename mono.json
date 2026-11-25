@@ -13688,6 +13688,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Ramp",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ramp/mono.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Rancher",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/rancher/mono.svg",
       "license": "CC0-1.0"

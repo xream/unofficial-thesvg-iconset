@@ -158,6 +158,11 @@
       "license": "brand-use"
     },
     {
+      "name": "Context7",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/context7/light.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Countly",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/countly/light.svg",
       "license": "brand-use"

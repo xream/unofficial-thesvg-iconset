@@ -113,6 +113,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Context7",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/context7/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Contour",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/contour/wordmarkLight.svg",
       "license": "Trademark of The Linux Foundation. Used for identification under nominative fair use."
@@ -771,6 +776,11 @@
       "name": "TypeGPU",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/typegpu/wordmark-light.svg",
       "license": "MIT"
+    },
+    {
+      "name": "Upstash",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/upstash/wordmark-light.svg",
+      "license": "CC0-1.0"
     },
     {
       "name": "Userpilot",
