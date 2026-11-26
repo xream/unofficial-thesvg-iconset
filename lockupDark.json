@@ -28,6 +28,11 @@
       "license": "brand-use"
     },
     {
+      "name": "theSVG",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/thesvg/lockup-dark.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Ultanimus",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ultanimus/lockup-dark.svg",
       "license": "brand-use"

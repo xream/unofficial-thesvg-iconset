@@ -148,6 +148,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Aetheriumos",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/aetheriumos/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
       "name": "Affinity",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/affinity/default.svg",
       "license": "Trademark of Canva (Serif Europe). Used for identification under nominative fair use."
@@ -321,6 +326,11 @@
       "name": "Amul Info",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/amul-info/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "AnadoluJet",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/anadolujet/default.svg",
+      "license": "Trademark"
     },
     {
       "name": "Animate",
@@ -1971,6 +1981,11 @@
       "name": "Customer.io",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/customerio/default.svg",
       "license": "brand-use"
+    },
+    {
+      "name": "CustomTkinter",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/customtkinter/default.svg",
+      "license": "MIT"
     },
     {
       "name": "Cuttly",
@@ -4108,6 +4123,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "IntelByte",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/intelbyte/default.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Interactive Brokers",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/interactive-brokers-badge/default.svg",
       "license": "CC0-1.0"
@@ -4798,6 +4818,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "Ladybird",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/ladybird/default.svg",
+      "license": "BSD-2-Clause"
+    },
+    {
       "name": "LangChain Corporate",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/langchain-corporate/default.svg",
       "license": "CC0-1.0"
@@ -4951,6 +4976,11 @@
       "name": "LINE Pay",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/line-pay/default.svg",
       "license": "CC0-1.0"
+    },
+    {
+      "name": "LinguaExam",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/linguaexam/default.svg",
+      "license": "CC-BY-SA-4.0"
     },
     {
       "name": "LinkAce",
@@ -6933,6 +6963,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "PFS",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pfs/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "pgAdmin",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/pgadmin/default.svg",
       "license": "PostgreSQL"
@@ -7693,6 +7728,11 @@
       "license": "Proprietary"
     },
     {
+      "name": "Residual Labs",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/residual-labs/default.svg",
+      "license": "Apache-2.0"
+    },
+    {
       "name": "Restream",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/restream-badge/default.svg",
       "license": "CC0-1.0"
@@ -8100,6 +8140,11 @@
     {
       "name": "Session Buddy",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/session-buddy/default.svg",
+      "license": "MIT"
+    },
+    {
+      "name": "seus community",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/seus-community/default.svg",
       "license": "MIT"
     },
     {
@@ -9776,6 +9821,11 @@
       "name": "Wendy's",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/wendys/default.svg",
       "license": "Fair Use"
+    },
+    {
+      "name": "Wenitor",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/wenitor/default.svg",
+      "license": "Trademark"
     },
     {
       "name": "Wero",
