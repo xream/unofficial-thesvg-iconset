@@ -448,6 +448,11 @@
       "license": "MIT"
     },
     {
+      "name": "Levelrail",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/levelrail/wordmark-dark.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "LibreSpeed",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/librespeed/wordmarkDark.svg",
       "license": "LGPL-3.0"

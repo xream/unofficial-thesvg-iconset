@@ -388,6 +388,11 @@
       "license": "MIT"
     },
     {
+      "name": "Levelrail",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/levelrail/wordmark-light.svg",
+      "license": "CC0-1.0"
+    },
+    {
       "name": "Link",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/link/wordmark-light.svg",
       "license": "MIT"
