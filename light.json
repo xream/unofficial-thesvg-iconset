@@ -893,6 +893,11 @@
       "license": "Apache-2.0"
     },
     {
+      "name": "Tata Consultancy Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tata-consultancy-services/light.svg",
+      "license": "Trademark"
+    },
+    {
       "name": "Teable",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/teable/light.svg",
       "license": "Trademark of Teable, Inc.. Used for identification under nominative fair use."

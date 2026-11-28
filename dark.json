@@ -228,6 +228,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "CustomTkinter",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/customtkinter/dark.svg",
+      "license": "MIT"
+    },
+    {
       "name": "daily.dev",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/dailydotdev/dark.svg",
       "license": "CC0-1.0"
@@ -1056,6 +1061,11 @@
       "name": "Tahcia",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tahcia/dark.svg",
       "license": "Apache-2.0"
+    },
+    {
+      "name": "Tata Consultancy Services",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tata-consultancy-services/dark.svg",
+      "license": "Trademark"
     },
     {
       "name": "Teable",

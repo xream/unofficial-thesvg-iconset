@@ -3778,6 +3778,11 @@
       "license": "CC0-1.0"
     },
     {
+      "name": "CustomTkinter",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/customtkinter/mono.svg",
+      "license": "MIT"
+    },
+    {
       "name": "CyberCut",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/cybercut/mono.svg",
       "license": "MIT"

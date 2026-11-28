@@ -748,6 +748,11 @@
       "license": "MPL-2.0"
     },
     {
+      "name": "Batchfile",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/batchfile/default.svg",
+      "license": "MIT"
+    },
+    {
       "name": "Battle.net",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/battle-net-badge/default.svg",
       "license": "CC0-1.0"
@@ -1981,11 +1986,6 @@
       "name": "Customer.io",
       "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/customerio/default.svg",
       "license": "brand-use"
-    },
-    {
-      "name": "CustomTkinter",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/customtkinter/default.svg",
-      "license": "MIT"
     },
     {
       "name": "Cuttly",
@@ -8798,8 +8798,8 @@
       "license": "CC0-1.0"
     },
     {
-      "name": "Tata Consultancy Services",
-      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tata-consultancy-services/default.svg",
+      "name": "Tata Consultancy Services (legacy)",
+      "url": "https://raw.githubusercontent.com/glincker/thesvg/refs/heads/main/public/icons/tata-consultancy-services-legacy/default.svg",
       "license": "Trademark"
     },
     {
